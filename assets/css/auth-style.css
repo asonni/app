@@ -60,6 +60,7 @@ input[placeholder], [placeholder], *[placeholder] {
   color: #000000 !important;
 }
 .menu-icons{
+  left: 440px;
   margin-top: 2px;
 }
 .glyphiconUser,.glyphiconSearch,.glyphiconCog{

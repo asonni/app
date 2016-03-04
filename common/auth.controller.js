@@ -100,8 +100,19 @@
     vm.emailLogin = function () {
       authWithPassword({email : vm.email, password : vm.password});
     }
-    vm.register = function () {
-      register({email : vm.email, password : vm.password});
+    vm.register = function (valid) {
+      if(valid){
+        register({email : vm.email, password : vm.password});
+        console.log("Hey I'm submitted!");
+      } else {
+        console.log("Invalid Form!");
+      }
+    }
+    vm.goToRegister = function(){
+      $location.path('/register');
+    }
+    vm.goToLogin = function(){
+      $location.path('/login');
     }
   }
 })();

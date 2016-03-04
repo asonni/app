@@ -4,35 +4,44 @@
   </div>
   <div class="pull-right">
     <div class="menu-icons">
-      <div class="dropdown">
+      <div class="dropdown" ng-show="vm.isLoggedIn">
         <a aria-hidden="true" href="#" class="glyphicon glyphicon-user glyphiconUser"></a>
         <div class="dropdown-content">
           <a href="#">My Profile</a>
-          <a href="#">Log out</a>
+          <a ng-click="vm.logout()">Log out</a>
         </div>
       </div>
-      <a aria-hidden="true" href="#" class="glyphicon glyphicon-search glyphiconSearch"></a>
+      <a aria-hidden="true" ng-controller="pagesController" ng-click="pageObj.searchFunctionality()" class="glyphicon glyphicon-search glyphiconSearch"></a>
       <a aria-hidden="true" href="#" class="glyphicon glyphicon-cog glyphiconCog"></a>
     </div>
   </div>
-  <form >
+  <form novalidate="novalidate" name="registerForm" ng-submit="vm.register(registerForm.$valid)">
     <div class="well well-sm">
       <h4>
         <strong class="title-auth">
-          Register
+          Register / <a ng-click="vm.goToLogin()">Log In</a>
         </strong>
       </h4>
-      <div class="error-message">
-        Error message
+      <div class="error-message" ng-show="vm.errorRegister">
+        {{ vm.errorRegister }}
+      </div>
+      <!-- <div class="error-message" ng-show="!registerForm.email.$valid && !registerForm.$pristine">
+        The email is invalid
+      </div> -->
+      <div class="error-message" ng-show="registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
+        The email is invalid
+      </div>
+      <div class="error-message" ng-show="registerForm.email.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
+        The email filed is required
       </div>
       <div class="form-group">
-        <input type="text" ng-model="vm.name" class="form-control input-name" placeholder="Name">
+        <input type="text" ng-model="vm.name" name="name" class="form-control input-name" placeholder="Name" required="required">
       </div>
       <div class="form-group">
-        <input type="email" ng-model="vm.email" class="form-control input-reg-email" placeholder="Email">
+        <input type="email" ng-model="vm.email" name="email" class="form-control input-reg-email" placeholder="Email" required="required">
       </div>
       <div class="form-group">
-        <input type="password" ng-model="vm.password" class="form-control input-password" placeholder="Password">
+        <input type="password" ng-model="vm.password" name="password" class="form-control input-password" placeholder="Password" required="required">
       </div>
       <h4>
         <strong class="title-auth">
@@ -43,7 +52,7 @@
         </strong>
       </h4>
       <br>
-      <button ng-click="vm.register()" class="btn btn-circle btn-default">Go </button>
+      <button type="submit" class="btn btn-circle btn-default">Go </button>
     </div>
   </form>
 </div>

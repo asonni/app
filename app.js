@@ -40,7 +40,6 @@
         .when('/login', {
           templateUrl: 'pages/login.tpl.html',
           controller: 'loginController as vm',
-          
         })
         .when('/error', {
           templateUrl: 'error/error-page.tpl.html'
