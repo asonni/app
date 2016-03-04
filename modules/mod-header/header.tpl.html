@@ -5,8 +5,14 @@
 <div class="grid-100 text-right-mobile menu-content">
   <div class="menu-icons">
     
-    <a aria-hidden="true" ng-click="pageObj.userAuth()" class="icon glyphicon glyphicon-user user"></a>
-
+    <a aria-hidden="true" ng-controller="loginController as vm" ng-hide="vm.isLoggedIn" ng-click="pageObj.userAuth()" class="icon glyphicon glyphicon-user user"></a>
+    <div class="dropdown" ng-controller="loginController as vm" ng-show="vm.isLoggedIn" style="padding-right:135px;top: 12px;">
+      <a aria-hidden="true" href="#" class="icon glyphicon glyphicon-user user" style="top:-27px;"></a>
+      <div class="dropdown-content">
+        <a href="#">My Profile</a>
+        <a ng-click="vm.logout()">Log out</a>
+      </div>
+    </div>
     <a aria-hidden="true" ng-click="pageObj.searchFunctionality()" class="icon glyphicon glyphicon-search search"></a>
     
     <a aria-hidden="true" ng-click="pageObj.clickShowTags()" class="icon glyphicon glyphicon-tag tagsIcon" ng-class="{clicked: pageObj.showTags}"></a>
