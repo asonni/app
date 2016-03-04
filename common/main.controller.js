@@ -300,7 +300,7 @@
     }
 
     pageObj.userAuth = function(){
-      $location.path('/register');
+      $location.path('/login');
     }
 
     pageObj.goToPage = function(pageId){

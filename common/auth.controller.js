@@ -97,13 +97,16 @@
     vm.twitterLogin = function () {
       firebaseAuthLogin('twitter');
     }
-    vm.emailLogin = function () {
-      authWithPassword({email : vm.email, password : vm.password});
+    vm.emailLogin = function (valid) {
+      if(valid){
+        authWithPassword({email : vm.email, password : vm.password});
+      } else {
+        console.log("Invalid Form!");
+      }
     }
     vm.register = function (valid) {
       if(valid){
         register({email : vm.email, password : vm.password});
-        console.log("Hey I'm submitted!");
       } else {
         console.log("Invalid Form!");
       }
