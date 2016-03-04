@@ -59,6 +59,8 @@
           console.log("Authenticated successfully with provider " + provider +" with payload:", authData);
       }).catch(function (error) {
           console.error("Authentication failed:", error);
+          vm.errorLogin = error;
+          vm.errorRegister = error;
       });
     }
 
@@ -66,7 +68,7 @@
       ref.authWithPassword(obj, function(error, authData) {
         if (error) {
           console.log("Login Failed!", error);
-          $scope.errorLogin = "Login failed!";
+          vm.errorLogin = error;
         } else {
           console.log("Authenticated successfully with payload:", authData);
         }
@@ -76,6 +78,7 @@
       ref.createUser(obj, function(error, userData) {
         if (error) {
           console.log("Error creating user:", error);
+          vm.errorRegister = error;
         } else {
           console.log(userData);
           console.log("Successfully created user account with uid:", userData.uid);
@@ -85,22 +88,29 @@
     }
     vm.facebookLogin = function () {
       firebaseAuthLogin('facebook');
+      $location.path('/');
     }
     vm.googleLogin = function () {
       firebaseAuthLogin('google');
+      $location.path('/');
     }
     vm.twitterLogin = function () {
       firebaseAuthLogin('twitter');
-    }
-    vm.emailLogin = function () {
-      authWithPassword({email : vm.email, password : vm.password});
       $location.path('/');
+    }
+
+    vm.emailLogin = function (valid) {
+      if(valid){
+        authWithPassword({email : vm.email, password : vm.password});
+        $location.path('/');
+      } else {
+        console.log("Invalid Form!");
+      }
     }
     vm.register = function (valid) {
       if(valid){
         register({email : vm.email, password : vm.password});
         $location.path('/');
-        console.log("Hey I'm submitted!");
       } else {
         console.log("Invalid Form!");
       }

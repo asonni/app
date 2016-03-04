@@ -15,7 +15,7 @@
       <a aria-hidden="true" href="#" class="glyphicon glyphicon-cog glyphiconCog"></a>
     </div>
   </div>
-  <form ng-submit="vm.emailLogin()">
+  <form novalidate="novalidate" name="loginForm" ng-submit="vm.emailLogin(loginForm.$valid)">
     <div class="well well-sm">
       <h4>
         <strong class="title-auth">
@@ -25,11 +25,20 @@
       <div class="error-message" ng-show="vm.errorLogin">
         {{ vm.errorLogin }}
       </div>
-      <div class="form-group">
-        <input type="email" ng-model="vm.email" class="form-control input-email" placeholder="Email">
+      <div class="error-message" ng-show="loginForm.email.$error.email && (!loginForm.$pristine || loginForm.$submitted)">
+        The email is invalid
+      </div>
+      <div class="error-message" ng-show="loginForm.email.$error.required  && (!loginForm.$pristine || loginForm.$submitted)">
+        The email filed is required
+      </div>
+      <div class="error-message" ng-show="loginForm.password.$error.required && !loginForm.email.$error.required && !loginForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
+        The password filed is required
       </div>
       <div class="form-group">
-        <input type="password" ng-model="vm.password" class="form-control input-password" placeholder="Password">
+        <input type="email" ng-model="vm.email" name="email" class="form-control input-email" placeholder="Email" required="required">
+      </div>
+      <div class="form-group">
+        <input type="password" ng-model="vm.password" name="password" class="form-control input-password" placeholder="Password" required="required">
       </div>
       <h4>
         <strong class="title-auth">

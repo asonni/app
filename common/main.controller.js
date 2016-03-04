@@ -299,6 +299,10 @@
       pageObj.showTags = false;
     }
 
+    pageObj.userAuth = function(){
+      $location.path('/login');
+    }
+
     pageObj.goToPage = function(pageId){
       if(!isNaN(pageId)){
         pageId = pageObj.pages[pageId].id;

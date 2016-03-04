@@ -25,14 +25,17 @@
       <div class="error-message" ng-show="vm.errorRegister">
         {{ vm.errorRegister }}
       </div>
-      <!-- <div class="error-message" ng-show="!registerForm.email.$valid && !registerForm.$pristine">
-        The email is invalid
-      </div> -->
-      <div class="error-message" ng-show="registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
+      <div class="error-message" ng-show="registerForm.name.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
+        The name filed is required
+      </div>
+      <div class="error-message" ng-show="!registerForm.name.$error.required && registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
         The email is invalid
       </div>
-      <div class="error-message" ng-show="registerForm.email.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
+      <div class="error-message" ng-show="!registerForm.name.$error.required && registerForm.email.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
         The email filed is required
+      </div>
+      <div class="error-message" ng-show="registerForm.password.$error.required && !registerForm.name.$error.required && !registerForm.email.$error.required && !registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
+        The password filed is required
       </div>
       <div class="form-group">
         <input type="text" ng-model="vm.name" name="name" class="form-control input-name" placeholder="Name" required="required">
