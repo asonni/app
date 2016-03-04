@@ -33,13 +33,17 @@
                     maxRooms: 5
                 };
                 if (authData.google) {
-                    newUser.name = authData.google.displayName;
+                  newUser.name = authData.google.displayName;
                 }
                 if (authData.facebook) {
-                    newUser.name = authData.facebook.username;
+                  newUser.name = authData.facebook.username;
                 }
                 if (authData.twitter) {
-                    newUser.name = authData.twitter.displayName;
+                  newUser.name = authData.twitter.displayName;
+                }
+                if (authData.password) {
+                  console.log("got password"+vm.name);
+                  newUser.name = vm.name;
                 }
                 user.$ref().set(newUser);
               }
@@ -62,6 +66,28 @@
           console.error("Authentication failed:", error);
       });
     }
+
+    authWithPassword = function(obj){
+      ref.authWithPassword(obj, function(error, authData) {
+        if (error) {
+          console.log("Login Failed!", error);
+          $scope.errorLogin = "Login failed!";
+        } else {
+          console.log("Authenticated successfully with payload:", authData);
+        }
+      });
+    }
+    register = function(obj){
+      ref.createUser(obj, function(error, userData) {
+        if (error) {
+          console.log("Error creating user:", error);
+        } else {
+          console.log(userData);
+          console.log("Successfully created user account with uid:", userData.uid);
+          authWithPassword(obj);
+        }
+      });
+    }
     vm.facebookLogin = function () {
       firebaseAuthLogin('facebook');
     }
@@ -70,6 +96,12 @@
     }
     vm.twitterLogin = function () {
       firebaseAuthLogin('twitter');
+    }
+    vm.emailLogin = function () {
+      authWithPassword({email : vm.email, password : vm.password});
+    }
+    vm.register = function () {
+      register({email : vm.email, password : vm.password});
     }
   }
 })();
