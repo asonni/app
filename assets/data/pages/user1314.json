@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Religion",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Cherry-blossom-blooms-panning.m4v", "Cherry-blossom-blooms-tilt.m4v", "Cherry-blossom-blooms-zoom-out.m4v", "Cherry-blossom-nature-scene.m4v", "Cherry-blossom-petals-in-the-wind-2.m4v", "Cherry-blossom-petals-in-the-wind.m4v", "Cherry-blossoms-up-close-focus-shift.m4v"], "title":"video title","type":"background"},
+	"main_text":"Never lose an opportunity of seeing anything beautiful, for beauty is God's handwriting. Ralph Waldo Emerson<br><br>Moby Dick by Herman Melville<br><br>There's a Certain Slant of Light by Emily Dickinson<br><br>Holy Thursday (Experience) by William Blake<br><br>The Second Coming by Yeats<br><br>The Voice by Matthew Arnold <br><br>The Old Vicarage, Granchester by Rupert Brooke",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user119"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user277"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user284"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user327"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user399"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user419"
+		}
+	],
+	"autoSlideTimer": 2
+}

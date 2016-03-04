@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Versions of Reality",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Green-shapes-tunnel-motion-background2.m4v", "Green-shimmering-lights.m4v", "Green-sky-in-space.m4v", "Green-swipes.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Reality is merely an illusion, albeit a very persistent one.” Albert Einstein<br><br>Young Goodman Brown by Nathaniel Hawthorne<br><br>The Prince and the Pauper by Mark Twain<br><br>Don Quixote by Miguel de Cervantes",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user534"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user148"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user153"
+		}
+	],
+	"autoSlideTimer": 2
+}

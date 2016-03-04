@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Washington Irving",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Man-running-on-beach.m4v", "Man-running-towards-camera-in-slow-motion-4.m4v", "Man-running-towards-camera-in-slow-motion.m4v", "Man-smokes-cigarette-by-graffiti-wall.m4v", "Man-typing-on-laptop-keyboard-2.m4v", "Man-walking-away-down-the-dried-up-rivered.m4v", "Man-watches-sunset.m4v"],"title":"video title","type":"background"},
+	"main_text":"Washington Irving introduction<br><br>Rip Van Winkle <br><br>The Legend of Sleepy Hollow (Mountains)<br><br>The Legend of Sleepy Hollow",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user500"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user501"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user141"
+		}
+	],
+	"autoSlideTimer": 2
+}

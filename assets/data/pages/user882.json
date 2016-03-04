@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Amy Lowell",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Terrain.m4v", "String-theory.m4v", "String-theory2.m4v", "Storm-cloud.m4v", "Small-gun-fire.m4v", "Speeding-los-angeles-highway-cars.m4v", "Slow-motion-bright-orange-smoke.m4v"] ,"title":"video title","type":"background"},
+	"main_text":"Amy Lowell introduction<br><br>The Red Lacquer Music-Stand<br><br>Lilacs<br><br>Patterns<br><br>The Green Bowl<br><br>Patterns (Countryside)<br><br>Lilacs (Countryside)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user318"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user319"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user320"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user321"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user819"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user820"
+		}
+	],
+	"autoSlideTimer": 2
+}

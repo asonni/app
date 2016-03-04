@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Elizabeth Barrett Browning",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Space-shuttle-lighting-up-night-sky.m4v", "Space-shuttle-soaring-in-the-sky.m4v", "Space-warp.m4v", "Space-warp2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Elizabeth Barrett Browning introduction<br><br>Sonet 43<br><br>The Weakest Thing<br><br>Grief<br><br>The Best Thing In The World<br><br>The Cry Of The Children<br><br>The Cry Of The Children (?)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user454"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user455"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user456"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user457"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user458"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1034"
+		}
+	],
+	"autoSlideTimer": 2
+}

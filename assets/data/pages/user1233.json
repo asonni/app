@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Landscapes",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Clouds-moving-across-patagonia-countryside.m4v", "Clouds-moving-over-lush-valley-overlooking-na-pali-coast.m4v", "Clouds-moving-through-the-mountain.m4v", "Clouds-opening-and-sun-shining-through.m4v", "Clouds-over-hierve-el-agua.m4v", "Clouds-over-mountain-range.m4v", "Clouds-over-rock-canyon-cliffs-and-mountains.m4v"], "title":"video title","type":"background"},
+	"main_text":"Beauty awakens the soul to act.Dante Alighieri<br><br>Mendind Wall by Robert Frost<br><br>Mowing by Robert Frost<br><br>Stopping by Woods on a Snowy Evening by Robert Frost<br><br>The Mower's Song by Andrew Marvell<br><br>The Future by Matthew Arnold<br><br>Home Thoughts, From Abroad by Robert Browning<br><br>Coming Through the Rye by Robert Burns<br><br>I Wandered Lonely as a Cloud by William Wordsworth<br><br>The Ecstasy by John Donne<br><br>Christabel by Samuel Taylor Coleridge<br><br>Work Without Hope by Samuel Taylor Coleridge<br><br>Frost at Midnight by Samuel Taylor Coleridge<br><br>The Lime-Tree Bower, my Prision by Samuel Taylor Coleridge",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user241"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user242"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user245"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user350"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user393"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user409"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user414"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user445"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user471"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user477"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user480"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user481"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user483"
+		}
+	],
+	"autoSlideTimer": 2
+}

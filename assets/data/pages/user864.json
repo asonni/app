@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Charles Dickens",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Closeup-of-hands-being-held-2.m4v", "Extreme-closeup-of-lips-kissing.m4v", "Lipstick-mouth.m4v", "Orange-ink-in-water.m4v", "Lily-batch-of-flowers.m4v", "Slow-motion-swans-flying-in-morning-sun.m4v", "View-of-womans-legs-walking-down-bermuda-beach.m4v", "Time-lapse-clouds-with-sunset-on-mountain-1.m4v", "Thin-clouds-against-deep-bue-sky-time-lapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"Charles Dickens introduction<br><br>Great Expectations<br><br>Bleak House<br><br>Oliver Twist<br><br>David Copperfield",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user101"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user102"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user136"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user149"
+		}
+	],
+	"autoSlideTimer": 2
+}

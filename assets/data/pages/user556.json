@@ -1,0 +1,41 @@
+{
+	"id":"user556",
+	"title":"Wilkie Collins",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Arizona-grand-canyon-10.m4v", "Arizona-grand-canyon-2.m4v", "Arizona-grand-canyon-broad-view.m4v", "Arizona-grand-canyon-colorado-river.m4v", "Arizona-grand-canyon-pan.m4v", "Arizona-landscape-with-clouds.m4v", "Arizona-painted-desert-11.m4v", "Arizona-painted-desert-5.m4v", "Arizona-rain-in-canyon-9.m4v", "Aerial-shot-of-bryce-canyon-national-park-above-cliffs-and-valley.m4v", "Aerial-shot-of-bryce-canyon-national-park-above-cliffs-and-valley2.m4v", "Aerial-shot-of-bryce-canyon-national-park-looking-down-into-forest-in-canyo.m4v", "Aerial-shot-of-bryce-canyon-national-park-looking-down-into-red-spires.m4v", "Aerial-shot-of-bryce-canyon-national-park-looking-down-into-red-spires2.m4v", "Aerial-shot-of-bryce-canyon-national-park-over-open-high-desert.m4v", "Aerial-shot-of-bryce-canyon-national-park-passing-low-over-cliffs.m4v", "Aerial-shot-of-bryce-canyon-national-park-passing-low-over-red-spires.m4v", "Aerial-shot-of-bryce-canyon-national-park-tilt-up-from-rugged-red-spires.m4v", "Aerial-shot-of-canyons-resort-utah.m4v", "Aerial-shot-of-snow-canyon-state-park-st-george-utah.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Wilkie Collins introduction<br><br>The Moonstone<br><br>The Woman in White<br><br>A Terribly Strange Bed<br><br>The Fatal Cradle <br><br>The Biter Bit<br><br>The Dead Hand",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user99"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user529"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user530"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user531"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user532"
+		}
+	],
+	"autoSlideTimer": 2,
+	"slider_fade": true
+}

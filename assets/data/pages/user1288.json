@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Absurd",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-jellyfish-heading-to-surface.m4v", "Yellow-jellyfish.m4v", "Yellow-fireworks-exploding.m4v", "Yellow-and-red-ink-mix-in-water.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.” Dr. Seuss<br><br>Through the Looking-Glass by Lewis Carroll<br><br>The Walrus and the Carpenter by Lewis Carroll<br><br>Jabberwocky  by Lewis Carroll",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user146"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user337"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user338"
+		}
+	],
+	"autoSlideTimer": 2
+}

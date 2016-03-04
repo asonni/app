@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"Sorrow",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Snow-and-string-lights.m4v", "Snow-capped-mountain-at-dusk.m4v", "Snow-capped-timpanogos-mountain-in-wasatch-mountain-range.m4v", "Snow-covered-ground-tilt-to-mountain-landscape.m4v", "Snow-falling-at-sunset.m4v", "Snow-falling-in-oregon-forest-2.m4v", "Snow-falling-off-trees-in-oregon-forest.m4v", "Snow-falling-on-trees-in-oregon-forest.m4v"], "title":"video title","type":"background"},
+	"main_text":"I will not say, do not weep, for not all tears are an evil.” J.R.R. Tolkien<br><br>Grief by Elizabeth Barrett Browning<br><br>A Velediction: Forbiddding Mourning by John Donne<br><br>Holy Sonnet X: Death be not Proud by John Donne<br><br>Work Without Hope by Samuel Taylor Coleridge<br><br>The Lime-Tree Bower, my Prision by Samuel Taylor Coleridge<br><br>O Captain! My Captain! by Walt Whitman<br><br>The Mower’s Song by Andrew Marvell<br><br>The Raven by Edgar Allan Poe<br><br>No Worst, There I Snone. Pitched Past Pich of Grie by Gerard Manley Hopkins<br><br>Ae Fond Kiss, and Then we Sever by Robert Burns<br><br>Mid-Term Break by Seamus Heaney<br><br>Grief by Elizabeth Barrett Browning",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user456"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user467"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user469"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user480"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user483"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user227"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user350"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user352"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user369"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user416"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user427"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user456"
+		}
+	],
+	"autoSlideTimer": 2
+}

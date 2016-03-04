@@ -1,0 +1,12 @@
+{
+				"id": "user438",
+				"title": "A Farewell by Lord Alfred Tennyson",
+				"exclude_from_menu": "true",
+				"image": "John T Howard1.jpg",
+				"tag": "15",
+				"video": {
+					"src": ["Aerial-shot-of-forest-mountains-and-lake2.m4v", "Aerial-shot-of-forest-mountains-and-lake3.m4v", "Aerial-shot-of-forest-mountains-and-lake4.m4v", "Aerial-shot-of-green-forest-and-mountains-and-meadow.m4v", "Aerial-shot-of-green-forest-and-mountains-reveal.m4v", "Aerial-shot-of-green-forest-and-mountains-reveal2.m4v", "Aerial-shot-of-green-forest-and-mountains-with-trail.m4v", "Aerial-shot-of-green-forest-and-mountains.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Flow down, cold rivulet, to the sea,<br> Thy tribute wave deliver:<br> No more by thee my steps shall be,<br> For ever and for ever.<br><br> Flow, softly flow, by lawn and lea,<br> A rivulet then a river:<br> Nowhere by thee my steps shall be<br> For ever and for ever.<br><br> But here will sigh thine alder tree<br> And here thine aspen shiver;<br> And here by thee will hum the bee,<br> For ever and for ever.<br><br> A thousand suns will stream on thee,<br> A thousand moons will quiver;<br> But not by thee my steps shall be,<br> For ever and for ever."
+			}

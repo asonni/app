@@ -1,0 +1,61 @@
+{
+	"id":"user923",
+	"title":"Sylvia Plath",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Swirling-plasma.m4v","Slow-motion-bright-orange-smoke.m4v","Slow-motion-orange-on-white-paint-splatter.m4v", "Slow-motion-orange-paint-splatter-2.m4v", "Slow-motion-orange-paint-splatter.m4v"], "title":"video title","type":"background"},
+	"main_text":"Sylvia Plath introduction<br><br>Lady Lazarus<br><br>Lady Lazarus (Guns and Violence)<br><br>You're<br><br>Ariel<br><br>Ariel (City)<br><br>Ariel (?)<br><br>Daddy<br><br>Daddy (Violence)<br><br>The Applicant<br><br>The Applicant (City)<br><br>The Applicant (City)<br><br>The Moon and the Yew Tree",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user248"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user725"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user249"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user250"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user619"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1057"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user251"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user721"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user252"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user585"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user612"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user253"
+		}
+	],
+	"autoSlideTimer": 2
+}

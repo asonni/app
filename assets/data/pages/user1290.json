@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Morality and Ethics",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunset-obscura.m4v", "Sunset-ocean-waves.m4v", "Sunset-ocean-waves3.m4v", "Sunset-on-ocean.m4v", "Sunset-on-the-horizon-in-kenya-2.m4v", "Sunset-over-a-field-in-kenya-2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Good Actions give strength to ourselves and inspire good actions in others. Plato<br><br>Metamorphosis by Franz Kafka<br><br>The Prince by Nicolo Machiavelli<br><br>Beyond Good and Evil by Friedrich Wilhelm Nietzsche",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user105"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user129"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,33 @@
+{
+	"id":"user705",
+	"title":"Stories about Transformations",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunset-over-new-york-city-aerial-5.m4v", "Sunset-over-new-york-city-aerial-6.m4v", "Sunset-over-new-york-city-aerial-7.m4v", "Sunset-over-ocean.m4v", "Sunset-over-water-with-tree.m4v", "Sunset-over-water.m4v"],"title":"video title","type":"background"},
+	"main_text":"“I am not an angel," I asserted; "and I will not be one till I die: I will be myself.” Charlotte Brontë, Jane Eyre<br><br>A Little Princess by Frances Hodgson Burnett<br><br>Metamorphosis by Franz Kafka<br><br>Much Ado About Nothing by William Shakespeare<br><br>A Room with a View by E. M. Forster<br><br>The curious case of benjamin button by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user104"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user105"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user108"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user160"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user514"
+		}
+	],
+	"autoSlideTimer": 2
+}

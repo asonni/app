@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Stories about Fear",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-cloudy-grey-smoke.m4v","Slow-motion-dirty-smoke.m4v","Slow-motion-smoky-air.m4v", "Volcano-sunset.m4v", "Night-clouds.m4v", "Nightime-view-of-bridges.m4v", "Moving-through-new-york-city-street-dutch-angle.m4v", "Scenic-storm-clouds.m4v", "Sallent-sky.m4v", "Moonlight.m4v", "La-freeway-overpass-timelapse.m4v", "Old-footage-power-plant-3.m4v", "Aerial-warehouse-view.m4v"],"title":"video title","type":"background"},
+	"main_text":"Fear is contagious. You can catch it. NEIL GAIMAN, The Graveyard Book<br><br>The Nose by Nikolai Vasilievich Gogol<br><br>The Prince by Nicolo Machiavelli<br><br>The Time Machine by H. G. Wells<br><br>The War of the Worlds by H. G. Wells<br><br>A Haunted House by Virginia Woolf",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user70"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user152"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user174"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Stars",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Shooting-galaxy.m4v", "Slow-rotating-colorful-galaxy-cloud.m4v", "Starring-universe.m4v", "Starry-sky-in-space.m4v", "Stars-and-colors-in-space.m4v", "Stars-circling-in-galaxy.m4v", "Sunburst-on-surface.m4v", "Sunny-and-starry-sky-in-space.m4v", "Swirling-galaxy.m4v"], "title":"video title","type":"background"},
+	"main_text":"We are all in the gutter, but some of us are looking at the stars.” Oscar Wilde, Lady Windermere's Fan<br><br>Bright Star! Would I Were Steadfast as Thou Art by John Keats<br><br>The World by Henry Vaughan<br><br>Stars Wheel in Purple by Hilda Doolittle<br><br>The Star by H. G. Wells",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user336"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user378"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user463"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user508"
+		}
+	],
+	"autoSlideTimer": 2
+}

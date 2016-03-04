@@ -1,0 +1,61 @@
+{
+	"id":"user660",
+	"title":"Hilda Doolittle",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Colors-in-space.m4v", "Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v", "Multicolored-galaxy.m4v", "Multicolored-particle-field.m4v"],"title":"video title","type":"background"},
+	"main_text":"Hilda Doolittle introduction<br><br>Sea Poppies<br><br>Adonis<br><br>Leda<br><br>Helen<br><br>Stars Wheel In Purple<br><br>Sea Rose<br><br>Leda (Winter Mountains)<br><br>Helen (Smoke)<br><br>Leda (?)<br><br>Helen (Stars)<br><br>Leda (Astronaut)<br><br> Helen (Universe)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user459"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user460"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user461"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user462"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user463"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user464"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user828"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user895"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user942"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user1014"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1016"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user1017"
+		}
+	],
+	"autoSlideTimer": 2
+}

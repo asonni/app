@@ -1,0 +1,10 @@
+{
+				"id": "user386",
+				"title": "The Last Laugh by John Betjeman",
+				"exclude_from_menu": "true",
+				"image": "Gareth.jpg",
+				"tag": ["15", "10"],
+				"video": {
+					"src": ["Snowy-farm-zoom-out.m4v", "Snowy-forest-2.m4v", "Snowy-forest-tilt-to-mountain-sun-glare.m4v", "Snowy-land-by-river.m4v", "Snowy-mountains-10.m4v", "Snowy-mountains-11.m4v", "Snowy-mountains-12.m4v", "Snowy-mountains-14.m4v", "Snowy-mountains-3.m4v", "Snowy-mountains-7.m4v", "Snowy-mountains-8-2318.m4v", "Snowy-mountains-9.m4v", "Snowy-mountains.m4v"],
+					"type": "background"	
+				},"main_text":"I made hay while the sun shone.<br>My work sold.<br>Now, if the harvest is over<br>And the world cold,<br>Give me the bonus of laughter<br>As I lose hold."}

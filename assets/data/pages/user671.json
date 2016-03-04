@@ -1,0 +1,12 @@
+{
+	"id":"user671",
+	"title":"In my Craft or Sullen Art by Dylan Thomas",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "5"],
+	"video":{"src":["Blue-pink-and-red-sky-during-alaskan-sunset.m4v", "Blue-sky-over-rocky-water.m4v", "Breathtaking-landscape-sunrise-timelapse.m4v", "Butterflies-among-marigolds.m4v", "Butterflies-playing.m4v", "Clear-skies-full-blossom.m4v"],"title":"video title","type":"background"},
+	"main_text":"In my craft or sullen art<br><br>Exercised in the still night<br><br>When only the moon rages<br><br>And the lovers lie abed<br><br>With all their griefs in their arms,<br><br>I labour by singing light<br><br>Not for ambition or bread<br><br>Or the strut and trade of charms<br><br>On the ivory stages<br><br>But for the common wages<br><br>Of their most secret heart.<br><br>Not for the proud man apart<br><br>From the raging moon I write<br><br>On these spindrift pages<br><br>Nor for the towering dead<br><br>With their nightingales and psalms<br><br>But for the lovers, their arms<br><br>Round the griefs of the ages,<br><br>Who pay no praise or wages<br><br>Nor heed my craft or art.",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

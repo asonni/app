@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Inspiration, Writing and Art",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Dark-clouds-blanket-over-sky.m4v", "Dark-clouds-stretching-across-sky.m4v", "Dark-clouds-sweeping-above-sky.m4v", "Dark-glistening-waves-2.m4v", "Dark-glistening-waves.m4v"], "title":"video title","type":"background"},
+	"main_text":"You must not for one instant give up the effort to build new lives for yourselves. Creativity means to push open the heavy, groaning doorway to life. Daisaku Ikeda<br><br>The Picture of Dorian Gray by Oscar Wilde<br><br>Shakespeare by Matthew Arnold<br><br>Digging by Seamus Heaney<br><br>Northanger Abbey by Jane Austen<br><br>In my craft or sullen art by Dylan Thomas<br><br>The Fiddler in the Reels by Thomas Hardy",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user100"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user397"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user423"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user93"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user292"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user536"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,17 @@
+{
+	"id":"user683",
+	"title":"Weird Stories",
+	"image":"Hammonton Photography.jpg",
+	"tag":"30",
+	"video":{"src":[ "Red-galaxy.m4v", "Red-natural-rock-archway-2.m4v", "Red-retro-flowers.m4v", "Red-speed-lights-glow.m4v", "Red-speed-lights-glow2.m4v", "Red-wavy-energy.m4v", "Red-white-texture.m4v"],"title":"video title","type":"background"},
+	"main_text":"Shape without form, shade without colour, Paralysed force, gesture without motion;<br><br>The Princess by D. H. Lawrence",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user166"
+		}
+	],
+	"autoSlideTimer": 2
+}

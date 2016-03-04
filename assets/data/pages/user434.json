@@ -1,0 +1,12 @@
+{
+				"id": "user434",
+				"title": "The Eagle by Lord Alfred Tennyson",
+				"exclude_from_menu": "true",
+				"image": "Migration.jpg",
+				"tag": ["15", "41", "48"],
+				"video": {
+					"src": ["Aerial-of-sunrise-tide-rolling-onto-beach.m4v", "Aerial-over-beautiful-secluded-beach.m4v", "Aerial-over-hoboken-looking-toward-new-york-city.m4v", "Aerial-over-jersey-city-bridges-2.m4v", "Aerial-passby-shot-of-forest-and-mountainside.m4v", "Aerial-police-scene-nighttime-2.m4v", "Aerial-view-of-stone-rubble-and-ruins.m4v", "Aerial-view-of-sunset-over-sound.m4v", "Aerial-view-of-times-square-peeking-through-skyscrapers.m4v", "Aerial-view-over-hong-kong-island-looking-towards-victoria-peak-showing-the.m4v"],
+					"type": "background"	
+				},
+				"main_text": "He clasps the crag with crooked hands;<br>Close to the sun in lonely lands,<br>Ring'd with the azure world, he stands.<br><br>The wrinkled sea beneath him crawls;<br>He watches from his mountain walls,<br>And like a thunderbolt he falls."
+			}

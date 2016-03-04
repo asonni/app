@@ -1,0 +1,14 @@
+{
+	"id":"user614",
+	"title":"Musee des Beaux Arts by W. H. Auden (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "34", "8"],
+	"video":{"src": ["New-york-city-aerial-view-2.m4v", "New-york-city-aerial-view-3.m4v", "New-york-city-aerial-view-4.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"About suffering, they were never wrong,<br><br>The Old Masters: how well they understood<br><br>Its human position; how it takes place<br><br>While someone else is eating or opening a window or just walking dully<br><br>along;<br><br>How, when the aged are reverently, passionately waiting<br><br>For the miraculous birth, there always must be<br><br>Children who did not specially want it to happen, skating<br><br>On a pond at the edge of the wood:<br><br>They never forgot<br><br>That even the dreadful martyrdom must run its course<br><br>Anyhow in a corner, some untidy spot<br><br>Where the dogs go on with their doggy life and the torturer's horse<br><br>Scratches its innocent behind on a tree.<br><br><br><br>In Brughel's Icarus, for instance: how everything turns away<br><br>Quite leisurely from the disaster; the ploughman may<br><br>Have heard the splash, the forsaken cry,<br><br>But for him it was not an important failure; the sun shone<br><br>As it had to on the white legs disappearing into the green<br><br>Water; and the expensive delicate ship that must have seen<br><br>Something amazing, a boy falling out of the sky,<br><br>Had somewhere to get to and sailed calmly on.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

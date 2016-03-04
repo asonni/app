@@ -1,0 +1,97 @@
+{
+	"id":"user663",
+	"title":"John Betjeman",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Colors-in-space.m4v", "Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v", "Multicolored-galaxy.m4v", "Multicolored-particle-field.m4v"], "title":"video title","type":"background"},
+	"main_text":"John Betjeman introduction<br><br>How To Get On In Society<br><br>Diary Of A Church Mouse<br><br>Christmas<br><br>Seaside Golf<br><br>Death In Leamington<br><br>The Last Laugh<br><br>A Subaltern's Love Song<br><br>Loneliness<br><br>Business Girls<br><br>Meditation On The A30<br><br>In A Bath Teashop<br><br>How To Get On In Society (City)<br><br>Loneliness(City)<br><br>How To Get On In Society (City)<br><br>Death In Leamington(Winter)<br><br>A Subaltern's Love Song(Flowers)<br><br>Loneliness(Industrial)<br><br>Death In Leamington(Noir)<br><br>Meditation On The A30(Driving)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user381"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user382"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user383"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user384"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user385"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user386"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user387"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user388"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user389"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user390"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user391"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user591"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user606"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user609"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user731"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user843"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user1032"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user1037"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user1076"
+		},
+		{
+			"index": 21,
+			"url": "http://retin.ae/#!/page/user221"
+		},
+		{
+			"index": 22,
+			"url": "http://retin.ae/#!/page/user221"
+		}
+	],
+	"autoSlideTimer": 2
+}

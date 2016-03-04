@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Speeches about War",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tombstones-at-arlington-national-cemetery-5.m4v", "Confederate-soldiers-advance-in-battle-2.m4v", "Khr-guard-militaryprison2.m4v", "Khr-slo-Mo-Brit-Ww2-Commander-Soldiers-Run.m4v", "Khr-slo-Mo-German-Ww2-2soldiers.m4v", "Khr-guard-militaryprison2.m4v", "Khr-police-Prison-Barbed-Wire-Fence12.m4v", "Khr-slo-Mo-Brit-Ww2-Commander-Soldiers-Run.m4v", "Khr-slo-Mo-German-Ww2-2soldiers.m4v", "Soldier-night-dramatic-2.m4v", "Soldier-warming-hands-in-fire.m4v", "Soldier-writing-by-hand.m4v", "World-war-2-soldiers-run-over-hill-with-explosion.m4v", "World-war-2-soldiers-running-with-explosion.m4v", "Confederate-soldiers-advance-in-battle-2.m4v"], "title":"video title","type":"background"},
+	"main_text":"If you think of humanity as one large body, then war is like suicide, or at best, self mutilation.JEROME P. CRABB<br><br>'Weapons for squalid and trivial ends' by Aneurin Bevan<br><br>'The lady's not for turning' by Margaret Thatcher<br><br>'The flame of French resistance' by Charles de Gaulle<br><br>'We Shall Fight on the Beaches' by Winston Churchill",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user181"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user182"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user183"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user188"
+		}
+	],
+	"autoSlideTimer": 2
+}

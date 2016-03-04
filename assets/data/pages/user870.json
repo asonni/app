@@ -1,0 +1,75 @@
+{
+	"id":"user726",
+	"title":"Edgar Allan Poe",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Night-shot-of-miami-coastline-2.m4v", "Night-speeding-highway-lights-timelapse.m4v", "Night-timelapse-golden-gate-bridge.m4v", "Night-to-day-to-night-36-hour-transitions-looking-towards-the-rainbow-bridg.m4v"], 
+	"title":"video title",
+	"type":"background"},
+	"main_text":"Edgar Allan Poe introduction<br><br>Annabel Lee<br><br>The Raven <br><br>The Bells <br><br>A Dream Within a Dream <br><br>In Youth I Have Known One <br><br>Fall of the House of Usher <br><br>The Murders in the Rue Morgue <br><br>The Tell-Tale Heart<br><br>Fall of the House of Usher (City)<br><br>In Youth I Have Known One (Winter)<br><br>Fall of the House of Usher (Clouds)<br><br>The Murders in the Rue Morgue (Clouds)<br><br>The Tell-Tale Heart(Clouds)<br><br>The Tell-Tale Heart(Smoke)<br><br>The Murders in the Rue Morgue (?)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user351"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user352"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user353"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user354"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user355"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user356"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user357"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user358"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user596"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user733"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user839"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user840"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user841"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user899"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user909"
+		}
+	],
+	"autoSlideTimer": 2
+}

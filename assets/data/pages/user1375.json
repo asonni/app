@@ -1,0 +1,38 @@
+{
+	"id":"user726",
+	"title":"Equal Rights",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-sunrise-to-sunset-over-mountains-2.m4v", "Timelapse-of-winter-blizzard.m4v", "Hazy-rainbow.m4v","Amazon-clouds-time-lapse.m4v", "Amazon-rain-misty-view.m4v", "Amazon-rain.mp4", "La-scenic-skyline-roadway-timelapse.m4v", "Hazy-sunset-glow.m4v", "Slow-motion-random-colorful-particles.m4v","Neon-ink-in-water.m4v","Love-forms-in-confetti-2.m4v", "Sunrise-over-greek-mainland-from-lefkada.m4v", "Cloud-pattern-sky.m4v","Electric-blue-ink-in-water.m4v","Time-lapse-smooth-silky-clouds-over-mountain.m4v", "Time-lapse-snow-melting-on-branch.m4v", "Time-lapse-snowy-landscape.m4v","La-city-freeway-tl.m4v", "La-city-light-trail-timelapse.m4v", "La-city-overview-timelapse.m4v", "La-downtown-street-timelapse.m4v", "La-downtown-traffic-night-light-trails.m4v", "La-freeway-overpass-timelapse.m4v", "La-scenic-skyline-roadway-timelapse.m4v", "Time-lapse-snowy-mountain-range-close.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"The only stable state is the one in which all men are equal before the law. Aristotle<br><br>Stories About the Other<br><br>Speeches About Civil Rights<br><br>Stories About Freedom and Confinement<br><br>Race<br><br>Stories About Freedom<br><br>Freedom and Confinement",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user572"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user897"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1309"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1284"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1323"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1344"
+		}
+	],
+	"autoSlideTimer": 3
+}

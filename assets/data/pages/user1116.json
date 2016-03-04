@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"There's a certain Slant of light by Emily Dickinson",
+	"image":"Hammonton Photography.jpg",
+	"tag":["10", "15"],
+	"video":{"src":["Pov-boating-over-lake-with-beautiful-sunset.m4v", "Pov-elevated-train-journey-across-the-rainbow-bridge-and-through-tokyo-hons.m4v", "Pov-elevated-train-journey-across-the-rainbow-bridge-and-through-tokyo-hons4.m4v", "Pov-highway-driving-in-blizzard.m4v", "Pov-roller-coaster-loops.m4v", "Pov-time-lapse-city-car-at-night.m4v", "Pov-time-lapse-journey-on-the-modern-driverless-dubai-elevated-rail-metro-s.m4v", "Pov-yellow-roller-coaster-beginning.m4v"], "title":"video title","type":"background"},
+	"main_text":"There's a certain Slant of light,<br><br> Winter Afternoons -<br><br> That oppresses, like the Heft<br><br> Of Cathedral Tunes -<br><br><br><br>Heavenly Hurt, it gives us -<br><br> We can find no scar,<br><br> But internal difference -<br><br> Where the Meanings, are -<br><br><br><br>None may teach it - Any -<br><br> 'Tis the seal Despair -<br><br> An imperial affliction<br><br> Sent us of the Air -<br><br><br><br>When it comes, the Landscape listens -<br><br> Shadows - hold their breath -<br><br> When it goes, 'tis like the Distance<br><br> On the look of Death -",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

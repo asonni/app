@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Old",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Abandoned-desert-buildings.m4v", "Abandoned-house-in-desert.m4v", "Abandoned-room-covered-with-forgotten-junk.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Wrinkles should merely indicate where the smiles have been.” Mark Twain<br><br>Sailing to Byzantium by Yeats<br><br>When You are Old by Yeats<br><br>The Future by Matthew Arnold<br><br>Growing Old by Matthew Arnold",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user325"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user328"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user393"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user394"
+		}
+	],
+	"autoSlideTimer": 2
+}

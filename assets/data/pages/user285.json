@@ -1,0 +1,12 @@
+{
+				"id": "user285",
+				"title": "Three Things to Remember by William Blake",
+				"exclude_from_menu": "true",
+				"image": "Andrew Kuznetsov.jpg",
+				"tag": ["15", "37", "23"],
+				"video": {
+					"src": ["Civil-war-prisoner-shot-by-firing-squad.m4v", "Assault-rifle-shooting-bullet-3.m4v", "Baby-rattlesnake.m4v", "Bullet-casing-fallling.m4v", "Cable-sparks.m4v", "Car-burning-in-icy-lot-with-flames.m4v", "Cigarette-smoke-on-black-background.m4v"],
+					"type": "background"	
+				},
+				"main_text": "A Robin Redbreast in a cage,<br>Puts all Heaven in a rage.<br><br>A skylark wounded on the wing<br>Doth make a cherub cease to sing<br><br>He who shall hurt the little wren<br>Shall never be beloved by men."
+			}

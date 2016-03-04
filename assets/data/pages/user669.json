@@ -1,0 +1,42 @@
+{
+	"id":"user668",
+	"title":"Wealth and Money",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-champagne-bottle-pop-2130.m4v", "Slow-motion-champagne-flute-cheers.m4v", "Golden-san-francisco-city-skyline.m4v", "Golden-sun-shining-through-desert-tree-branches.m4v", "Golden-sunset-over-bay-waters.m4v", "Golden-sunset.m4v", "Mediterranean-coast-sunrise-10.m4v", "Sunset-palm-trees-time-lapse.m4v"],"title":"video title","type":"background"},
+	"main_text":"Money: power at its most liquid. Mason Cooley<br><br>Novellas About Money<br><br>Poverty<br><br>Stories about Wealth<br><br>Class<br><br>Stories About Class<br><br>Social Mobility<br><br>Money",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1326"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1292"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user595"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1080"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1079"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1078"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1232"
+		}
+	],
+	"autoSlideTimer": 2
+}
+

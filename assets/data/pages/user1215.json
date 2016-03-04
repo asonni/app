@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Walk",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tilt-from-tall-tree-tops-to-roots.m4v","Cloud-shadows-on-green-mountains.m4v","Wind-blowing-through-trees.m4v", "Wind-blowing-trees-and-gras.m4v","Sun-fading-behind-mountain-peaks-warped-perspective.m4v","Sun-glare-over-hillside.m4v"], "title":"video title","type":"background"},
+	"main_text":"Not all those who wander are lost. J.R.R. Tolkien, The Fellowship of the Ring, The Lord of the Rings<br><br>As I Ponder'd in Silence by Walt Whitman<br><br>She Walks in Beauty by Byron<br><br>Stopping by Woods on a Snowy Evening by Robert Frost<br><br>A Walk after Dark by W. H. Auden<br><br>Walking Around by Pablo Neruda<br><br>I Wandered Lonely as a Cloud by William Wordsworth",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user221"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user240"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user245"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user287"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user316"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user445"
+		}
+	],
+	"autoSlideTimer": 2
+}

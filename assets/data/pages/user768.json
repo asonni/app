@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Stories about Journeys",
+	"image":"Hammonton Photography.jpg",
+	"tag":["3", "30"],
+	"video":{"src":["Plane-taking-off-across-sun.m4v", "Plane-taking-off-at-night-3.m4v", "Plane-taking-off-at-night-4.m4v", "Plane-taking-off-extremely-close-up.m4v", "Plane-taking-off-extremely-close-up2.m4v", "Plane-through-lightning-strike.m4v", "Plane-wing-over-countryside-at-sunset.m4v", "Planes-taking-off-and-landing-in-early-night-sky.m4v"], "title":"video title","type":"background"},
+	"main_text":"We travel, some of us forever, to seek other states, other lives, other souls. Anais Nin<br><br>The Secret Sharer by Joseph Conrad<br><br>Around the World in Eighty Days by Jules Verne<br><br>The Time Machine by H. G. Wells<br><br>The Odyssey by Homer<br><br>Ivan the Fool by Leo Tolstoy",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user506"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user139"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user163"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user527"
+		}
+	],
+	"autoSlideTimer": 2
+}

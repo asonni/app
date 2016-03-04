@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Coming of Age",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pink-and-purple-clouds.m4v", "Pink-and-yellow-skies-above-ocean-2.m4v", "Pink-and-yellow-skies-above-ocean-3.m4v", "Pink-and-yellow-skies-above-ocean-4.m4v", "Pink-and-yellow-skies-above-ocean.m4v"], "title":"video title","type":"background"},
+	"main_text":"Little by little, one travels far” J.R.R. Tolkien<br><br>I Remember, I Remember by Philip Larkin<br><br>If by Rudyard Kipling<br><br>The Prodigal Son by Rudyard Kipling<br><br>Not A Child by Algernon Charles Swinburne<br><br>A Girl by Ezra Pound<br><br>anyone lived in a pretty how town by E. E. Cummings<br><br>The Jungle Book by Rudyard Kipling",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user230"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user233"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user234"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user344"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user364"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user449"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user131"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user230"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,57 @@
+{
+	"id":"user726",
+	"title":"Robert Browning",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pink-purple-and-blue-sky-in-space.m4v", "Red-and-orange-galaxy.m4v", "Red-galaxy.m4v", "Red-galaxy-with-sunburst.m4v", "Shooting-galaxy.m4v", "Slow-rotating-colorful-galaxy-cloud.m4v", "Starring-universe.m4v", "Starry-sky-in-space.m4v", "Stars-and-colors-in-space.m4v", "Stars-circling-in-galaxy.m4v", "Sunburst-on-surface.m4v", "Sunny-and-starry-sky-in-space.m4v", "Swirling-galaxy.m4v", "Tilt-down-from-dark-evening-sky-to-lighthouse.m4v", "Continent-topography-view-from-space-station.m4v"], "title":"video title","type":"background"},
+	"main_text":"Robert Browning introduction<br><br>My Last Duchess<br><br>Porphyria's Lover<br><br>The Laboratory<br><br>Home Thoughts, From Abroad<br><br>Love Among The Ruins<br><br>Life In A Love<br><br>Love In A Life<br><br>Home Thoughts, From Abroad (Driving)<br><br>Home Thoughts, From Abroad (Countryside)<br><br>Love In A Life (Summer)<br><br>Porphyria's Lover (Slow Motion)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user406"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user407"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user408"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user409"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user410"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user411"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user412"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user608"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user687"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user728"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1101"
+		}
+	],
+	"autoSlideTimer": 2
+}

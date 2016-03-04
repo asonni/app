@@ -1,0 +1,15 @@
+{
+	"id":"user587",
+	"title":"London by William Blake (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "18"],
+	"video":{"src": ["Timelapse-of-harbor-in-miami.m4v","Timelapse-of-cloudy-day-in-barcelona.m4v", "Time-lapse-wide-las-vegas-night-landscape.m4v", "Time-lapse-sunrise-over-residential-neighborhood.m4v", "Timelapse-dc-metro-station.m4v", "Timelapse-headlights-traffic.m4v"], 
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"I wander thro' each charter'd street.<br><br>Near where the charter'd Thames does flow<br><br>A mark in every face I meet<br><br>Marks of weakness, marks of woe.<br><br><br><br>In every cry of every Man.<br><br>In every Infants cry of fear.<br><br>In every voice; in every ban.<br><br>The mind-forg'd manacles I hear<br><br><br><br>How the Chimney-sweepers cry<br><br>Every blackening Church appalls.<br><br>And the hapless Soldiers sigh<br><br>Runs in blood down Palace walls<br><br><br><br>But most thro' midnight streets I hear<br><br>How the youthful Harlot's curse<br><br>Blasts the new-born Infant's tear<br><br>And blights with plagues the Marriage hearse",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

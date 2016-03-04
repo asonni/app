@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Sadness",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-colorful-panning-sunrise-winter-landscape-2.m4v", "Time-lapse-colorful-panning-sunrise-winter-landscape.m4v", "Time-lapse-fisheye-winter-landscape.m4v", "Time-lapse-clouds-rushing-across-utah-mountain-peaks.m4v", "Snow-and-string-lights.m4v", "Snow-capped-mountain-at-dusk.m4v", "Snow-capped-timpanogos-mountain-in-wasatch-mountain-range.m4v", "Snow-covered-ground-tilt-to-mountain-landscape.m4v", "Snow-falling-at-sunset.m4v", "Snow-falling-in-oregon-forest-2.m4v", "Snow-falling-off-trees-in-oregon-forest.m4v", "Snow-falling-on-trees-in-oregon-forest.m4v"], "title":"video title","type":"background"},
+	"main_text":"“There is no coming to consciousness without pain. People will do anything, no matter how absurd, in order to avoid facing their own Soul. One does not become enlightened by imagining figures of light, but by making the darkness conscious.” C.G. Jung<br><br>When We Two Parted by Byron<br><br>Solitude by Byron<br><br>Lilacs by Amy Lowell<br><br>Patterns by Amy Lowell<br><br>Grief by Elizabeth Barrett Browning<br><br>The Cry of the Children by Elizabeth Barrett Browning",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user260"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user263"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user319"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user320"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user456"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user458"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Noir Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Elevated-day-view-of-the-manhattan-skyline-from-the-empire-state-building.m4v", "Elevated-illuminated-downward-view-over-the-city-centre-and-marina-bay-south.m4v", "Elevated-view-from-the-top-of-the-arch-detriomphe-along-the-ave-de-la-grand.m4v", "Extensive-hillside-neighborhood-in-port-au-prince-haiti.m4v", "Factory-in-rotterdam-netherlands.m4v", "Factory-smoke-timelapse.m4v", "Falling-pills.m4v", "Fast-la-headlights-traffic-timelapse.m4v", "Flashing-lightning-over-city-at-night.m4v", "Forest-during-a-blizzard.m4v", "Joshua-tree-moon-rising-timelapse.m4v", "Joshua-tree-night-sky-silhouette.m4v", "Isolated-power-plant-at-night-landscape.m4v", "Incoming-and-outgoing-traffic-timelapse.m4v", "Going-down-shady-urban-alley.m4v", "Gray-smoke-clouds.m4v", "Gray-storm-clouds-moving-through-sky.m4v", "Guy-fires-gun-at-camera.m4v"], "title":"video title","type":"background"},
+	"main_text":"‘I think there are specific times where film noir is a natural concomitant of the mood. When there's insecurity, collapse of financial systems - that's where film noir always hits fertile ground.’ Werner Herzog<br><br>Violence and Guns Visuals<br><br>Fast<br><br>Smoke<br><br>Noir Visuals<br><br>Industrial",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user714"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user680"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user644"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user786"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user855"
+		}
+	],
+	"autoSlideTimer": 2
+}

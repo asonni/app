@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Violence",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Shooting-automatic-gun-on-backdrop-4.m4v","Shooting-automatic-gun-on-backdrop-4.m4v","Abandoned-car-on-fire.mp4","Slow-motion-rising-flames-closeup-2.m4v","Slow-motion-shooting-explosion.m4v","Slow-motion-strong-explosion.m4v","Car-burning-in-icy-lot-with-flames.m4v","Slow-motion-dark-ink-splatter-3.m4v","Slow-motion-dark-ink-splatter.m4v"], "title":"video title","type":"background"},
+	"main_text":"Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars... Hate cannot drive out hate: only love can do that.” Martin Luther King Jr.<br><br>The Nose by Nikolai Vasilievich Gogol<br><br>Alice's Adventures in Wonderland by Lewis Carroll<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>The Prince by Nicolo Machiavelli<br><br>The Jungle Book by Rudyard Kipling<br><br>Through the Looking-Glass by Lewis Carroll<br><br>Don Quixote by Miguel de Cervantes<br><br>Three Things to Remember by William Blake",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user70"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user106"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user131"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user153"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user285"
+		}
+	],
+	"autoSlideTimer": 2
+}

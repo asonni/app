@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"W. H. Auden",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Electric-blue-ink-in-water.m4v","Energy-storm.m4v","String-theory.m4v", "String-theory2.m4v", "Spinning-shapes-and-points-motion-background.m4v", "Spinning-shapes-and-points-motion-background2.m4v", "Spinning-shapes-and-points-motion-background3.m4v", "Electric-blue-ink-in-water.m4v"],"title":"video title","type":"background"},
+	"main_text":"W. H. Auden introduction<br><br>Musee Des Beaux Arts <br><br>A Walk After Dark <br><br>O Tell Me The Truth About Love <br><br>O What Is That Sound <br><br>Funeral Blues<br><br>The Unknown Citizen <br><br>Musee Des Beaux Arts (City)<br><br>O Tell Me The Truth About Love (Summer)<br><br>The Unknown Citizen (Autumn)<br><br>The Unknown Citizen (?)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user286"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user287"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user288"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user289"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user290"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user291"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user614"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user729"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user741"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user754"
+		}
+	],
+	"autoSlideTimer": 2
+}

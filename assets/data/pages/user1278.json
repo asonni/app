@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Principles",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-traffic-patterns.m4v", "Time-lapse-sunset-on-sky-scrapers.m4v", "Time-lapse-sunset-over-distant-city-skyline.m4v", "T-l-day-to-night-high-angle-wide-shot-traffic-on-nanpu-bridge-spiral-shangh.m4v", "T-l-pedestrians-and-traffic-across-shibuya-crossing-at-night-shibuya-tokyo-.m4v", "T-l-people-walking-in-the-new-modern-shanghai-south-railway-station-shangha.m4v"], "title":"video title","type":"background"},
+	"main_text":"“A people that values its privileges above its principles soon loses both.” Dwight D. Eisenhower<br><br>Little Women by Louisa May Alcott<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>Mansfield Park by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user112"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user96"
+		}
+	],
+	"autoSlideTimer": 2
+}

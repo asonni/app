@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Seamus Heaney",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Bright-galaxy-explosion.m4v", "Lit-up-eastern-hemisphere-graphic.m4v", "Bright-colored-galaxy.m4v", "Color-formations-in-space.m4v", "Colors-in-space.m4v", "Color-swirl-in-space.m4v", "Eagle-nebula.m4v", "Galactic-color-formations.m4v", "Green-and-blue-sky-in-space.m4v", "Green-sky-in-space.m4v", "Lit-up-eastern-hemisphere-graphic.m4v", "Lit-up-european-continent-graphic.m4v", "Lit-up-starry-sky-in-space.m4v", "Multicolored-galaxy.m4v"],"title":"video title","type":"background"},
+	"main_text":"Seamus Heaney introduction<br><br>Blackberry-Picking<br><br>Digging<br><br>Death Of A Naturalist<br><br>Twice Shy<br><br>Casualty<br><br>Mid-Term Break<br><br>Mid-Term Break (Noir)<br><br>Casualty (Noir)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user422"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user423"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user424"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user425"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user426"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user427"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1036"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1040"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,13 @@
+{
+				"id":"user551",
+				"title":"Curators",
+				"exclude_from_menu":"true",
+				"image": "jasohill.jpg",
+				"video":{
+							"src": ["Starry-sky-in-space.m4v", "Starry-sky-timelapse-above-rockface.m4v", "Starry-sky-timelapse-joshua-tree.m4v", "Starry-sky-timelapse-joshua-tree4.m4v", "Stars-above-tree-canopy.m4v", "Stars-and-clouds-pass-by-rock-formations.m4v"],
+							"title": "video title",
+							"type": "background"
+						},
+				"shuffle": "true",
+				"main_text":"We are supporting curators, offering a commission to curate work for Retin.ae. Take a look around the themes on the Retin.ae platform and then email us your suggestions for new theme/channel, together with the content we should include in it. We will then let the public and our judges decide their favourites and commission those chosen to curate work for Retin.ae<br><br>Here is how to do it:<br>Step 1: Take a look around the Retin.ae platform and decide on a theme you prefer and would like to curate.<br><br>Step 2: Email us at curators@retin.ae your contact details, and all the information on the theme/channel you would like to curate, including the title, where will it be included (if it is a channel), the content that would be part of it and why you think the theme/page should be created.<br><br>Step 3: You will receive an email from us if you get nominated. We will feature your work on the platform and conduct an interview about your work.<br><br>Step 4: We will open the nominations to the general public for them to choose their favourites and also, our judges will pick their favourites.<br><br>Step 5: If you are one of the winner, we will contact you and commission you to curate work for Retin.ae."
+			}

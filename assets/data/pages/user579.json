@@ -1,0 +1,48 @@
+{
+	"id":"user579",
+	"title":"Stories about Lies",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Metro-arriving-in-station.m4v", "Metro-doors-opening-and-closing-in-station.m4v", "Metro-train-car-pulling-into-station.m4v", "Metro-train-pulling-into-station.m4v", "Metro-train-pulling-out-of-station.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Stories about Lies introduction<br><br>Northanger Abbey by Jane Austen<br><br>Much Ado About Nothing by William Shakespeare<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>The Prince by Nicolo Machiavelli<br><br>The Importance of Being Earnest by Oscar Wilde<br><br>A Doll's House : a play by Henrik Ibsen<br><br>The Woman in White by Wilkie Collins<br><br>A Room with a View by E. M. Forster",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user93"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user108"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user121"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user126"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user160"
+		}
+	],
+	"autoSlideTimer": 2
+}

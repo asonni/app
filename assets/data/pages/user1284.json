@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Race",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-golden-sunset-into-cityscape.m4v", "Time-lapse-road-rush-intersection.m4v", "Time-lapse-road-rush-night-chaos.m4v", "Time-lapse-road-rush-night-chaos2.m4v"], "title":"video title","type":"background"},
+	"main_text":"I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.” Martin Luther King Jr.<br><br>The Adventures of Tom Sawyer by Mark Twain<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Moby Dick by Herman Melville<br><br>Don Quixote by Miguel de Cervantes<br><br>Gone With the Wind by Margaret Mitchel",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user116"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user153"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user107"
+		}
+	],
+	"autoSlideTimer": 2
+}

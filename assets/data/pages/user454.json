@@ -1,0 +1,12 @@
+{
+				"id": "user454",
+				"title": "Sonnet 43 by Elizabeth Barrett Browning",
+				"exclude_from_menu": "true",
+				"image": "Joysaphine.jpg",
+				"tag": ["15", "9", "43", "38"],
+				"video": {
+					"src": ["Purple-buddha.m4v", "Purple-flowers-framed-by-green-leaves.m4v", "Purple-fractal-background.m4v", "Purple-lupines-near-beautiful-mountain-creek.m4v", "Purple-particle-orbs.m4v", "Purple-retro-flower-layers.m4v"],
+					"type": "background"	
+				},
+				"main_text": "How do I love thee? Let me count the ways.<br> I love thee to the depth and breadth and height<br> My soul can reach, when feeling out of sight<br> For the ends of Being and ideal Grace.<br> I love thee to the level of everday's<br> Most quiet need, by sun and candlelight.<br> I love thee freely, as men strive for Right;<br> I love thee purely, as they turn from Praise.<br> I love thee with the passion put to use<br> In my old griefs, and with my childhood's faith.<br> I love thee with a love I seemed to lose<br> With my lost saints,- I love thee with the breath,<br> Smiles, tears, of all my life!- and, if God choose,<br> I shall but love thee better after death."
+			}

@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Money",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Clouds-passing-moon.m4v", "Clouds-passing-star-filled-night-sky.m4v","Craters-on-the-moon.m4v","Tilt-down-from-dark-evening-sky-to-lighthouse.m4v","Tilt-up-cactus-night-lapse.m4v","Wide-sky-timelapse-above-joshua-tree.m4v","Clouds-and-stars-overhead-at-night-timelapse.m4v","Time-lapse-moon-rising-through-night-sky.m4v","Night-shot-of-miami-coastline-2.m4v"], "title":"video title","type":"background"},
+	"main_text":"I love money. I love everything about it. I bought some pretty good stuff. Got me a $300 pair of socks. Got a fur sink. An electric dog polisher. A gasoline powered turtleneck sweater. And, of course, I bought some dumb stuff, too. –Steve Martin<br><br>Arithmatic on the Frontier by Rudyard Kipling<br><br>If You Forget Me by Pablo Neruda<br><br>Canto XLV by Ezra Pound<br><br>They are all Gone Into the World of Light! by Henry Vaughan<br><br>The Cry of the Children by Elizabeth Barrett Browning<br><br>The $30,000 Bequest by Mark Twain<br><br>How Much Land Does a Man Need? by Leo Tolstoy",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user237"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user315"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user363"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user376"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user458"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user524"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user543"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"William Wordsworth",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Bright-galaxy-explosion.m4v", "Lit-up-eastern-hemisphere-graphic.m4v", "Bright-colored-galaxy.m4v", "Color-formations-in-space.m4v", "Colors-in-space.m4v", "Color-swirl-in-space.m4v", "Eagle-nebula.m4v", "Galactic-color-formations.m4v", "Green-and-blue-sky-in-space.m4v"], "title":"video title","type":"background"},
+	"main_text":"William Wordsworth introduction<br><br>I Wandered Lonely As A Cloud<br><br>Composed Upon Westminster Bridge<br><br>Lines Written In Early Spring <br><br>London, 1802<br><br>Composed Upon Westminster Bridge (City)<br><br>I Wandered Lonely As A Cloud (Universe)<br><br>I Wandered Lonely As A Cloud (Noir)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user445"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user446"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user447"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user448"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user611"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1018"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1039"
+		}
+	],
+	"autoSlideTimer": 2
+}

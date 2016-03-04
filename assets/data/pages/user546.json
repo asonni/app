@@ -1,0 +1,14 @@
+					
+{
+	"id":"user544",
+	"title":"His Girl Friday",
+	"image":"his-girl-friday.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "his_girl_friday_512kb.mp4"}
+	]
+}					

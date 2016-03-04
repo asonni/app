@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Hope",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sun-hidden-behind-clouds.m4v", "Sun-orb-covered-by-smoke.m4v", "Sun-over-aspen-mountains.m4v", "Sun-peeking-over-vibrant-green-hills.m4v", "Sun-peering-through-big-white-storm-clouds.m4v", "Sun-rays-beam-through-cloudy-sky.m4v"], "title":"video title","type":"background"},
+	"main_text":"If you lose hope, somehow you lose the vitality that keeps moving, you lose that courage to be, that quality that helps you go on in spite of it all. And so today I still have a dream.” Martin Luther King Jr.” George Harrison<br><br>Work Without Hope by Samuel Taylor Coleridge<br><br>Gone With the Wind by Margaret Mitchel<br><br>Hope is a Thing with Feathers by Emily Dickinson<br><br>He Wishes for the Cloths of Heaven by Yeats<br><br>To Hope by John Keats",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user480"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user107"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user274"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user322"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user331"
+		}
+	],
+	"autoSlideTimer": 2
+}

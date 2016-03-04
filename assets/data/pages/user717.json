@@ -1,0 +1,30 @@
+{
+	"id":"user717",
+	"title":"Speeches about the Possition of Women",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Aerial-view-of-stone-rubble-and-ruins.m4v", "Aerial-view-of-sunset-over-sound.m4v", "Aerial-view-of-times-square-peeking-through-skyscrapers.m4v", "Aerial-view-over-hong-kong-island-looking-towards-victoria-peak-showing-the.m4v", "Aerial-warehouse-view.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"Speeches about the Possition of Women<br><br>'Freedom or Death' by Emmeline Pankhurst<br><br>'Professions for Women' by Virginia Woolf<br><br>'A Room of One's Own - Shakespeare's Sister' by Virginia Woolf<br><br>'The lady's not for turning' by Margaret Thatcher",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user176"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user178"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user179"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user182"
+		}
+	],
+	"autoSlideTimer": 2
+}

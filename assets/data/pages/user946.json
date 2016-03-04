@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"William Butler Yeats",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Clouds-steadily-move-over-the-sky.m4v", "Cloudy-atmosphere-view-from-space-station.m4v", "Cloudy-sky-above-big-ben.m4v", "Cloudy-sunset-windmill-field.m4v", "Cloudy-topography-view-of-earth.m4v"], "title":"video title","type":"background"},
+	"main_text":"William Butler Yeats introduction<br><br>He Wishes for the Cloths of Heaven<br><br>Easter 1916<br><br>Leda and the Swan <br><br>Sailing to Byzantium <br><br>The Lake Isle of Innisfree <br><br>The Second Coming <br><br>When You are Old <br><br>When You are Old (Winter)<br><br>Easter 1916 (Winter)<br><br>When You are Old (Arid)<br><br>He Wishes for the Cloths of Heaven (City)<br><br>He Wishes for the Cloths of Heaven (Africa)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user322"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user323"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user324"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user325"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user326"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user327"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user328"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user824"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user825"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user832"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1069"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user1109"
+		}
+	],
+	"autoSlideTimer": 2
+}

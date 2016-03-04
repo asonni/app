@@ -1,0 +1,30 @@
+{
+	"id":"user726",
+	"title":"Genre",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Electric-blue-ink-in-water.m4v","Energy-storm.m4v","String-theory.m4v", "Aerial-shot-of-forest-and-mountains-and-fields.m4v","La-city-freeway-tl.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"“All good books are alike in that they are truer than if they had really happened and after you are finished reading one you will feel that all that happened to you and afterwards it all belongs to you: the good and the bad, the ecstasy, the remorse and sorrow, the people and the places and how the weather was. If you can get so that you can give that to people, then you are a writer.” Ernest Hemingway<br><br>Horror<br><br>Fantasy<br><br>Romance<br><br>Crime",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1300"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1269"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user774"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1318"
+		}
+	],
+	"autoSlideTimer": 3
+}

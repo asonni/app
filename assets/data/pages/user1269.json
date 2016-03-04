@@ -1,0 +1,21 @@
+{
+	"id":"user726",
+	"title":"Fantasy",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Cloud-pattern-sky.m4v", "Woman-doing-strange-dance-in-vaudeville-show.m4v", "Blue-pink-and-red-sky-during-alaskan-sunset.m4v","Inverse-smoke-stacks.m4v","Time-lapse-purple-and-golden-clouds.m4v","Neon-signs-above-shops-along-nanjing-road-shanghai-china-asia.m4v","Starfish-tentacles-timelapse.m4v","Oil-on-gulf-water.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Science fiction deals with improbable possibilities, fantasy with plausible impossibilities.” Miriam Allen de Ford<br><br>Peter Pan by J. M. Barrie<br><br>The Wonderful Wizard of Oz by L. Frank Baum",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user123"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user150"
+		}
+	],
+	"autoSlideTimer": 2
+}

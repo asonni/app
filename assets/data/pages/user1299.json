@@ -1,0 +1,77 @@
+{
+	"id":"user726",
+	"title":"Dissatisfaction",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Dry-canyon.m4v", "Dry-winter-northern-california-highway.m4v", "Endless-desert-in-united-arab-emirates.m4v", "Dusty-winds-blowing-past-farm-town.m4v"], "title":"video title","type":"background"},
+	"main_text":"“What difference does it make to the dead, the orphans and the homeless, whether the mad destruction is wrought under the name of totalitarianism or in the holy name of liberty or democracy?”  Ghandi<br><br>Utopia by Thomas More<br><br>The Age of Innocence by Edith Wharton<br><br>The Great Gatsby by F. Scott Fitzgerald<br><br>Siddhartha by Hermann Hesse<br><br>Madame Bovary by Gustave Flaubert<br><br>Eveline by James Joyce<br><br>Vers de Societe by Philip Larkin<br><br>This be the Verse by Philip Larkin<br><br>High Windows by Philip Larkin<br><br>The Prodigal Son by Rudyard Kipling<br><br>The Chimney Sweeper (Experience) by William Blake<br><br>Musee des Beaux Arts by W. H. Auden<br><br>Dream Song 14: Life, friends, is Boring by John Berryman<br><br>The Hollow Men by T. S. Eliot<br><br> Walking Around by Pablo Neruda<br><br>The Odor of Chrysanthemums by D. H. Lawrence",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user103"		
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user110"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user111"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user125"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user229"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user231"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user232"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user234"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user282"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user286"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user302"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user305"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user316"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user495"
+		}
+	],
+	"autoSlideTimer": 2
+}

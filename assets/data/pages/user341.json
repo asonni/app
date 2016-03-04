@@ -1,0 +1,12 @@
+{
+				"id": "user341",
+				"title": "The Many by Algernon Charles Swinburne",
+				"exclude_from_menu": "true",
+				"image": "Elvin.jpg",
+				"tag": ["15", "17"],
+				"video": {
+					"src": ["City-b-panning.m4v", "City-cropped.m4v", "City-lights-landscape-timelapse.m4v", "City-panning.m4v", "City-sprawl-1.m4v", "City-sprawl-4.m4v", "City-sprawl-5.m4v", "City-sprawl-6.m4v", "City-street-to-river-sunrise-time-lapse.m4v", "Cityscape-in-nepal-2.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Greene, garlanded with February's few flowers<br> Ere March came in with Marlowe's rapturous rage;<br> Peele, from whose hand the sweet white locks of age<br> Took the mild chaplet woven of honored hours;<br> Nash, laughing hard; Lodge, flushed from lyric bowers;<br> And Lilly, a goldfinch in a twisted cage<br> Fed by some gay great lady's pettish page<br> Till short sweet songs gush clear like short spring showers;<br> Kid, whose grim sport still gamboled over graves;<br> And Chettle, in whose fresh funereal verse<br> Weeps Marian yet on Robin's wildwood hearse;<br> Cooke, whose light boat of song one soft breath saves,<br> Sighed from a maiden's amorous mouth averse;<br> Live likewise ye--Time takes not you for slaves."
+			}

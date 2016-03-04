@@ -1,0 +1,29 @@
+{
+	"id":"780",
+	"title":"Clouds Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunrise-wispy-clouds-timelapse.m4v", "Giant-clouds-billow-into-the-sky.m4v","Dense-cloud-sunset-timelapse.m4v","Time-lapse-clouds-with-pines.m4v","Time-lapse-clouds.m4v","Timelapse-blue-sky-with-clouds.m4v", "Swirling-sunset-sky.m4v"],"title":"video title","type":"background"},
+	"main_text":"No person has the right to rain on your dreams.” Martin Luther King Jr.<br><br>Hope is the thing with feathers by Emily Dickinson (Clouds)<br><br>The Fall of the House of Usher By Edgar Allan Poe (Clouds)<br><br>The Murders in the Rue Morgue by Edgar Allan Poe (Clouds)<br><br>The Tell-Tale Heart by Edgar Allan Poe (Clouds)",
+	"shuffle": false,			
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user695"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user839"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user840"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user841"
+		}
+	],
+	"autoSlideTimer": 2
+}

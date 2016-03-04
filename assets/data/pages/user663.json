@@ -1,0 +1,17 @@
+{
+	"id":"user663",
+	"title":"Stories about Normality",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Or-columbia-gorge-multnomah-falls-3.m4v", "Oregon-metolius-river-flowing-water.m4v", "Oregon-rainclouds-timelapse.m4v", "Hospital-sunrise-panning.m4v", "Maui-clouds.m4v", "Maui-mountain-clouds.m4v", "Mediterranean-sunset.m4v", "Mississippi-river-sunset-pink.m4v", "Misty-forest-during-sunset.m4v", "Pink-and-purple-clouds.m4v", "Pink-and-yellow-skies-above-ocean-2.m4v", "Pink-and-yellow-skies-above-ocean-3.m4v", "Pink-and-yellow-skies-above-ocean-4.m4v", "Pink-and-yellow-skies-above-ocean.m4v"],"title":"video title","type":"background"},
+	"main_text":"Everything has beauty, but not everyone sees it.Confucius<br><br>The Miller's Daughter by Emile Zola",
+	"shuffle": true,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user521"
+		}
+	],
+	"autoSlideTimer": 2
+}

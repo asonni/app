@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Gerard Manley Hopkins",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-exploding-piggy-bank-glitter.m4v", "Slow-motion-explosion-from-left.m4v", "Slow-motion-fall-leaves-fluttering-by-tree-2153.m4v", "Slow-motion-falling-and-spilling-pills.m4v", "Slow-motion-falling-apples.m4v", "Slow-motion-falling-autumn-leaves-2156.m4v", "Slow-motion-falling-bills-3.m4v", "Slow-motion-falling-bills.m4v"], "title":"video title","type":"background"},
+	"main_text":"Gerard Manley Hopkins introduction<br><br>No Worst, There I Snone. Pitched Past Pich of Grief<br><br>God's Grandeur <br><br>Repeat That, Repeat<br><br>Peace <br><br>I Wake And Feel The Fell of Dark, Not Day<br><br>The Soldier<br><br>As Kingfishers Catch Fire<br><br>Repeat That, Repeat (Abstract)<br><br>God's Grandeur (Abstract)<br><br>The Soldier (War)<br><br>I Wake And Feel The Fell of Dark, Not Day (Universe)<br><br>Peace (Smoke)<br><br>No Worst, There Is None. Pitched Past Pich of Grief (Noir)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user369"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user370"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user371"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user372"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user373"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user374"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user375"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user632"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user633"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user749"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1019"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user1027"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user1038"
+		}
+	],
+	"autoSlideTimer": 2
+}

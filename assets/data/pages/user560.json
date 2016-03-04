@@ -1,0 +1,24 @@
+{
+	"id":"user560",
+	"title":"Franz Kafka",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Dry-canyon.m4v", "Dry-winter-northern-california-highway.m4v", "Endless-desert-in-united-arab-emirates.m4v", "Dusty-winds-blowing-past-farm-town.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Franz Kafka introduction<br><br>Metamorphosis<br><br>The Trail",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user105"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user156"
+		}
+	],
+	"autoSlideTimer": 2
+}

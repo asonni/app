@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Friendship",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Old-film-countdown-to-vaudeville-show-1598.m4v", "Old-film-reel-countdown.m4v", "Old-footage-beach.m4v", "Old-footage-power-plant-3.m4v", "Old-footage-power-plant-4.m4v", "Old-footage-power-plant-5.m4v"], "title":"video title","type":"background"},
+	"main_text":"“It is easier to forgive an enemy than to forgive a friend.” William Blake<br><br>A Little Princess by Frances Hodgson Burnett<br><br>Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>The Hound of the Baskervilles by Sir Arthur Conan Doyle<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>The Happy Prince by Oscar Wilde<br><br>To a Friend by Matthew Arnold<br><br>The Apology by Ralph Waldo Emerson<br><br> The Pleasures of Friendship by Stevie Smith<br><br>The Devoted Friend by Oscar Wilde<br><br>The Pupil by Henry James<br><br>Northanger Abbey by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user104"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user128"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user169"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user396"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user404"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user484"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user502"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user517"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user93"
+		}
+	],
+	"autoSlideTimer": 2
+}

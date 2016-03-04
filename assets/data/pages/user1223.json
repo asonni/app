@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Realistic and Complicated",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Boston-skyline-4.m4v", "Boston-sunrise-skyline.m4v", "Boston-time-lapse-at-night.m4v", "Boston-time-lapse-sunrise.m4v", "Boston-time-lapse-sunrise2.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Unconsciously we all have a standard by which we measure other men, and if we examine closely we find that this standard is a very simple one, and is this: we admire them, we envy them, for great qualities we ourselves lack. Hero worship consists in just that. Our heroes are men who do things which we recognize, with regret, and sometimes with a secret shame, that we cannot do. We find not much in ourselves to admire, we are always privately wanting to be like somebody else. If everybody was satisfied with himself, there would be no heroes.” Mark Twain<br><br>The River-Merchant's Wife by Ezra Pound<br><br>Coming Through the Rye by Robert Burns<br><br>Ae Fond Kiss, and Then we Sever by Robert Burns<br><br>Let Me Not to the Marriage of True Minds by William Shakespeare<br><br>Th'espense of Spirit in a Waste of Shame by William Shakespeare<br><br>That Time of the Year Thou Mayst in me Behold by William Shakespeare<br><br>My Mistress' Eyes are Nothing Like the Sun by William Shakespeare<br><br>A Velediction: Forbiddding Mourning by John Donne<br><br>The Good Morrow by John Donne<br><br>The River-Merchant's Wife by Ezra Pound",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user368"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user414"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user416"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user439"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user441"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user443"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user444"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user467"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user468"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user368"
+		}
+	],
+	"autoSlideTimer": 2
+}

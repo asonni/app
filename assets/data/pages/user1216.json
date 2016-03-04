@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Thought",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Orange-and-green-canyon-1.m4v", "Orange-and-green-cliffs-2.m4v", "Orange-and-green-cliffs.m4v", "Orange-and-green-golf-course.m4v", "Orange-and-green-rocky-cliffs.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Science fiction is the most important literature in the history of the world, because it's the history of ideas, the history of our civilization birthing itself. ...Science fiction is central to everything we've ever done, and people who make fun of science fiction writers don't know what they're talking about.” Ray Bradbury<br><br>The Thought – Fox by Ted Hughes<br><br>Home Thoughts, From Abroad by Robert Browning<br><br>Let Me Not to the Marriage of True Minds by William Shakespeare<br><br>As I Ponder'd in Silence by Walt Whitman<br><br>Thoughts. by Walt Whitman",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user309"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user409"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user439"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user221"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user224"
+		}
+	],
+	"autoSlideTimer": 2
+}

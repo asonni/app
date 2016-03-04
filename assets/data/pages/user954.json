@@ -1,0 +1,87 @@
+{
+	"id":"user726",
+	"title":"Stories about Women",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tilt-from-tall-tree-tops-to-roots.m4v", "Tilt-shift-la-freeway-timelapse.m4v", "Tilt-up-abandoned-office-to-tree-trunk-and-roots-in-ceiling.m4v", "Tilt-up-airplane-cabin-to-seatbelt-sign.m4v", "Tilt-up-building-at-night.m4v", "Tilt-up-cactus-night-lapse.m4v", "Tilt-up-from-nature-to-skyscrapers.m4v"], 
+	"title":"video title",
+	"type":"background"},
+	"main_text":"I write for those women who do not speak, for those who do not have a voice because they were so terrified, because we are taught to respect fear more than ourselves. We've been taught that silence would save us, but it won't.Audre Lorde<br><br>Athenaise by Kate Chopin<br><br>Kew Gardens by Virginia Woolf<br><br>Prelude by Katherine Mansfield<br><br>The Dilettante by Edith Wharton<br><br>Pride and Prejudice by Jane Austen<br><br>Sense and Sensibility by Jane Austen<br><br>Northanger Abbey by Jane Austen<br><br>Emma by Jane Austen<br><br>Gone With the Wind by Margaret Mitchel<br><br>Little Women by Louisa May Alcott<br><br>Tess of the d'Urbervilles by Thomas Hardy<br><br>A Doll's House : a play by Henrik Ibsen<br><br>Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant<br><br>Anna Karenina by Leo Tolstoy<br><br>Pygmalion by Bernard Shaw<br><br>Madame Bovary by Gustave Flaubert<br><br>Women in Love by D. H. Lawrence<br><br>A Room with a View by E. M. Forster",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user499"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user494"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user168"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user510"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user91"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user92"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user93"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user94"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user107"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user112"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user126"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user144"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user145"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user147"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user158"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user160"
+		}
+	],
+	"autoSlideTimer": 2
+}

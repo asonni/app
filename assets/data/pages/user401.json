@@ -1,0 +1,12 @@
+{
+				"id": "user401",
+				"title": "Days by Ralph Waldo Emerson",
+				"exclude_from_menu": "true",
+				"image": "James Clear.jpg",
+				"tag": ["15", "55"],
+				"video": {
+					"src": ["Wind-blowing-through-trees.m4v", "Wind-blowing-trees-and-gras.m4v", "Wind-mills-and-lightning-in-copenhagen-field.m4v", "Wind-turbine-against-speckled-blue-sk.m4v", "Winding-creek-through-autumn-woods-3.m4v", "Winding-creek-through-autumn-woods-zoom-out.m4v", "Windmill-farm.m4v", "Windmill-rows-on-hills.m4v", "Windy-flurry-at-night.m4v", "Windy-road-during-hurricane-sandy.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Daughters of Time, the hypocritic Days,<br> Muffled and dumb like barefoot dervishes,<br> And marching single in an endless file,<br> Bring diadems and fagots in their hands.<br> To each they offer gifts after his will,<br> Bread, kingdoms, stars, and sky that holds them all.<br> I, in my pleached garden, watched the pomp,<br> Forgot my morning wishes, hastily<br> Took a few herbs and apples, and the Day<br> Turned and departed silent. I, too late,<br> Under her solemn fillet saw the scorn."
+			}

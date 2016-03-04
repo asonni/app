@@ -1,0 +1,15 @@
+{
+	"id":"user643",
+	"title":"I Heard A Fly Buzz-When I Died- by Emily Dickinson (Winter)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "34", "10"],
+	"video":{"src": ["Glowing-snow-wind-blast.m4v", "Glowing-sun-over-mountain-landscape.m4v", "Glowing-white-mountains.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"I heard a Fly buzz-when I died-<br><br>The Stillness in the Room<br><br>Was like the Stillness in the Air-<br><br>Between the Heaves of Storm-<br><br><br><br>The Eyes around-had wrung them dry-<br><br>And Breaths were gathering firm<br><br>For that last Onset-when the King<br><br>Be witnessed-in the Room-<br><br><br><br>I willed my Keepsakes-Signed away<br><br>What portion of me be<br><br>Assignable-and then it was<br><br>There interposed a Fly-<br><br><br><br>With Blue-uncertain stumbling Buzz-<br><br>Between the light-and me-<br><br>And the Windows failed-and then<br><br>I could not see to see-",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

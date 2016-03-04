@@ -1,0 +1,17 @@
+{
+	"id":"user726",
+	"title":"Femme Fatale Stories",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pan-across-blue-mosque-ceilings.m4v", "Pan-across-city-buildings-daybreak-time-lapse.m4v", "Pan-across-snow-capped-mountains.m4v", "Pan-across-toronto-city-after-dark.m4v", "Pan-and-scan-visual-screens.m4v", "Pan-around-la-nightlapse.m4v", "Pan-around-snow-covered-trees.m4v", "Pan-city-skyline-with-giant-lightning-bolt.m4v", "Pan-interior-of-a-castle.m4v", "Pan-of-book-in-school-library.m4v", "Pan-of-city-skyscrapers.m4v"], "title":"video title","type":"background"},
+	"main_text":"Out of the ash I rise with my red hair And I eat men like air. <br><br>Odyssey by Homer",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user163"
+		}
+	],
+	"autoSlideTimer": 2
+}

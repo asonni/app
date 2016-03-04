@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"In A Station Of The Metro by Ezra Pound",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "17", "3"],
+	"video":{"src":["Awesome-cloud-timelapse-over-mountain-range.m4v", "Big-fluffy-white-storm-clouds.m4v", "Big-lightning-strike-over-dc.m4v"], "title":"video title","type":"background"},
+	"main_text":"The apparition of these faces in the crowd;<br><br>Petals on a wet, black bough.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

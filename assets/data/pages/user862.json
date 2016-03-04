@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Ted Hughes",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Lights-from-cars-timelapse.m4v", "Light-cloud.m4v", "Light-concert-spectrum.m4v", "Light-glowing-traffic-on-highway.m4v", "Light-grey-clouds-in-sky-2.m4v", "Light-hall-escalator.m4v", "Light-particles-in-purple-orb.m4v", "Light-pattern-space.m4v", "Light-sea-shimmer.m4v", "Light-shining-down-through-clouds-on-valley.m4v", "Light-shining-through-cave.m4v", "Light-through-the-trees.m4v", "Light-vibe-spectrum.m4v"], "title":"video title","type":"background"},
+	"main_text":"Ted Hughes introduction<br><br>The Thought - Fox<br><br>Orf<br><br>Old Age Gets Up<br><br>Thistles<br><br>Orf (Countryside)<br><br>The Thought - Fox (Countryside)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user309"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user310"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user311"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user312"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1084"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1091"
+		}
+	],
+	"autoSlideTimer": 2
+}

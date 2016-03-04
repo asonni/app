@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Rules and Order",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Aerial-night-shot-panning-past-new-york-ge-building.m4v", "Aerial-night-view-of-nyc-skyline-ad-empire-state-building.m4v", "Aerial-night-view-passing-the-empire-state-building.m4v", "Aerial-nyc-approaching-times-square.m4v", "Aerial-view-of-bustling-times-square-at-night-4.m4v"], "title":"video title","type":"background"},
+	"main_text":"Chaos was the law of nature; Order was the dream of man.<br><br>The War of the Worlds by H. G. Wells<br><br>The Jungle Book by Rudyard Kipling<br><br>The Life and Adventures of Robinson Crusoe by Daniel Defoe",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user152"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user131"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user137"
+		}
+	],
+	"autoSlideTimer": 2
+}

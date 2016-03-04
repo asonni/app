@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Morality, Reputation and Spirit",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Berlin-graffiti-montage-2.m4v", "Berlin-graffiti-montage.m4v", "Blue-and-yellow-ink-water.m4v", "Blue-deep-sea-jellyfish.m4v", "Clear-jellyfish-swimming-upwards.m4v", "Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v"], "title":"video title","type":"background"},
+	"main_text":"The arc of the moral universe is long, but it bends towards justice.” Martin Luther King Jr.<br><br>Morality<br><br>Principles<br><br>Respect and Reputation<br><br>Nobility of Spirit<br><br>Selfishness<br><br>Spirit",
+	"shuffle": true,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1290"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1278"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1282"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1328"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1325"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1249"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,69 @@
+{
+	"id":"user726",
+	"title":"Stevie Smith",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-moving-clouds-on-earth-under-the-space-station.m4v", "Slow-rotating-colorful-galaxy-cloud.m4v", "Slow-rotating-daffodil-petals-close-up.m4v", "Slow-rotating-looking-up-at-redwood-trees.m4v", "Slowly-moving-single-daffodil.m4v", "Slowly-passing-overhead-continent.m4v", "Slowly-rotating-pink-orchid-petals.m4v", "Slowly-rotating-wet-red-rose-bouquet.m4v", "Slowly-sweeping-over-large-cavern.m4v", "Slow-beach-waves.m4v", "Slow-dark-light-orbs.m4v", "Slow-floating-above-highway.m4v"], "title":"video title","type":"background"},
+	"main_text":"Stevie Smith introduction<br><br>The Pleasures Of Friendship<br><br>Not Waving But Drowning<br><br>Alone In The Woods<br><br>Never Again<br><br>Drugs Made Pauline Vague<br><br>I Do Not Speak<br><br>I Remember<br><br>Lady 'Rogue' Singleton<br><br>Drugs Made Pauline Vague (Abstract)<br><br>I Do Not Speak (Abstract)<br><br>I Remember (Countryside)<br><br>Never Again (Countryside)<br><br>Drugs Made Pauline Vague (Water)<br><br>The Pleasures Of Friendship (Beach)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user484"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user485"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user486"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user487"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user488"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user489"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user490"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user491"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user624"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user627"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user664"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user688"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user957"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user1082"
+		}
+	],
+	"autoSlideTimer": 2
+}

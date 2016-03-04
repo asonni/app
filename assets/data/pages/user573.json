@@ -1,0 +1,15 @@
+{
+	"id":"user573",
+	"title":"The Many by Algernon Charles Swinburne (Driving)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "17"],
+	"video":{"src": ["Cars-on-the-highway.m4v", "Cars-timelapse-to-setting-sun.m4v", "Car-burning-in-icy-lot-with-flames.m4v", "Car-crash-breaks-axel.m4v", "Car-driving-down-forest-road-aerial.m4v", "Car-driving-point-of-view-timelapse.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Greene, garlanded with February's few flowers<br><br> Ere March came in with Marlowe's rapturous rage;<br><br> Peele, from whose hand the sweet white locks of age<br><br> Took the mild chaplet woven of honored hours;<br><br> Nash, laughing hard; Lodge, flushed from lyric bowers;<br><br> And Lilly, a goldfinch in a twisted cage<br><br> Fed by some gay great lady's pettish page<br><br> Till short sweet songs gush clear like short spring showers;<br><br> Kid, whose grim sport still gamboled over graves;<br><br> And Chettle, in whose fresh funereal verse<br><br> Weeps Marian yet on Robin's wildwood hearse;<br><br> Cooke, whose light boat of song one soft breath saves,<br><br> Sighed from a maiden's amorous mouth averse;<br><br> Live likewise ye--Time takes not you for slaves.",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

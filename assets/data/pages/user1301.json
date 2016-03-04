@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Suicide", 
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-dropping-and-breaking-television.m4v", "Slow-motion-dropping-and-breaking-tv.m4v", "Slow-motion-dropping-and-smashing-watermelon.m4v", "Slow-motion-exploding-champagne.m4v", "Slow-motion-exploding-piggy-bank-coins-and-confetti.m4v", "Slow-motion-dropping-and-breaking-piggy-bank.m4v", "Slow-motion-destroying-sheet-of-glass.m4v", "Slow-motion-dart-popping-water-balloon.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Deep in earth my love is lying And I must weep alone.” Edgar Allan Poe<br><br>Leda and the Swan by Yeats<br><br>Suicide in the Trenches by Siegfried Sassoon<br><br>Bleak House by Charles Dickens",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user324"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user428"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user102"
+		}
+	],
+	"autoSlideTimer": 2
+}

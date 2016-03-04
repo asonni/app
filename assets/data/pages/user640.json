@@ -1,0 +1,48 @@
+{
+	"id":"user640",
+	"title":"Siegfried Sassoon",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v", "Multicolored-galaxy.m4v", "Multicolored-particle-field.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Siegfried Sassoon introduction<br><br>Suicide in The Tranches<br><br>Glory of Women<br><br>Does It Matter?<br><br>The Dug-Out<br><br>Elegy<br><br>Hero<br><br>Hero (Abstract)<br><br>Glory (City)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user428"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user429"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user430"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user431"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user432"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user433"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user628"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user885"
+		}
+	],
+	"autoSlideTimer": 2
+}

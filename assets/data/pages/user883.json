@@ -1,0 +1,113 @@
+{
+	"id":"user726",
+	"title":"Emily Dickinson",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Redblood-warp.m4v", "Neon-ink-in-water.m4v", "Hallway-graffiti.m4v", "Lightning-strikes-in-clouds.m4v", "Electric-blue-ink-in-water.m4v", "Energy-storm.m4v", "Giant-clouds-billow-into-the-sky.m4v", "Thailand-train-arriving.m4v", "Thee-motorcycles-speed-on-desert-highway.m4v"], "title":"video title","type":"background"},
+	"main_text":"Emily Dickinson introduction<br><br>I Heard a Fly Buzz-When I Died<br><br>I Heard a Fly Buzz-When I Died (Beach)<br><br>I Heard a Fly Buzz-When I Died (Winter)<br><br>Because I Could Not Stop For Death<br><br>Because I Could Not Stop For Death (Winter)<br><br>Because I Could Not Stop For Death (Industrial)<br><br>Because I Could Not Stop For Death (Tunnel)<br><br> For Each Ecstatic Instant<br><br>For Each Ecstatic Instant (Nature)<br><br>For Each Ecstatic Instant (White)<br><br>For Each Ecstatic Instant (Flowers)<br><br>Hope Is A Thing With Feathers<br><br>Hope Is A Thing With Feathers (Abstract)<br><br>Hope Is A Thing With Feathers (Clouds)<br><br>Hope Is A Thing With Feathers (Spring)<br><br>Hope Is A Thing With Feathers (?)<br><br>Hope Is A Thing With Feathers (Fast)<br><br>I Felt A Cleaving In My Mind<br><br>I Felt A Cleaving In My Mind (Abstract)<br><br>I Died For Beauty - But It Was Scarce<br><br>I Died For Beauty - But It Was Scarce (Winter)<br><br>There's A Certain Slant Of Light<br><br>There's A Certain Slant Of Light (?)<br><br>There's A Certain Slant Of Light (Autumn)<br><br>There's A Certain Slant Of Light (?)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user271"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user642"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user643"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user272"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user648"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1065"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1075"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user273"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user649"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user710"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1103"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user274"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user623"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user695"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user746"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user955"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user987"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user275"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user629"
+		},
+		{
+			"index": 21,
+			"url": "http://retin.ae/#!/page/user276"
+		},
+		{
+			"index": 22,
+			"url": "http://retin.ae/#!/page/user636"
+		},
+		{
+			"index": 23,
+			"url": "http://retin.ae/#!/page/user277"
+		},
+		{
+			"index": 24,
+			"url": "http://retin.ae/#!/page/user634"
+		},
+		{
+			"index": 25,
+			"url": "http://retin.ae/#!/page/user738"
+		},
+		{
+			"index": 26,
+			"url": "http://retin.ae/#!/page/user1116"
+		}
+	],
+	"autoSlideTimer": 2
+}

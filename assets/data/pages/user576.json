@@ -1,0 +1,36 @@
+{
+	"id":"user576",
+	"title":"Dream",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Colors-in-space.m4v", "Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v", "Multicolored-galaxy.m4v", "Multicolored-particle-field.m4v", "Shooting-galaxy.m4v", "Shooting-galaxy2.m4v", "Shooting-stars-over-desert-tree.m4v", "Shooting-stars-timelapse.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Reality is that which, when you stop believing in it, doesn't go away.” Philip K. Dick, I Hope I Shall Arrive Soon<br><br>'I Have a Dream' by Dr. Martin Luther King<br><br>Darkness by Byron<br><br>The Dream by Byron<br><br>Dream Song 14: Life, Friends, is Boring  by John Berryman<br><br>A Dream Within a Dream by Edgar Allan Poe",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user187"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user261"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user262"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user302"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user354"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Inspiration",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Night-aerial-view-of-times-squar.m4v", "Night-clock-panning.m4v", "Night-clouds.m4v", "Night-driving-across-golden-gate-bridge.m4v", "Night-driving-on-overpass.m4v", "Night-la-highway-time-lapse.m4v", "Night-lights-la-road-timelapse.m4v", "Night-rain-driving-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"As we let our own light shine, then we are unciousiously give other people permission to do the same' Nelson Mandela.<br><br>Inspiration, Writing and Art<br><br>Inspiration<br><br>Inspiring Speeches<br><br>Thought<br><br>Stories About Imagination<br><br>Hope",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1333"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1217"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user835"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1216"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user758"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1247"
+		}
+	],
+	"autoSlideTimer": 2
+}

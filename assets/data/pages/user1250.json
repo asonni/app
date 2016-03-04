@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Loss",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-colorful-panning-sunrise-winter-landscape-2.m4v", "Time-lapse-colorful-panning-sunrise-winter-landscape.m4v", "Time-lapse-fisheye-winter-landscape.m4v", "Time-lapse-clouds-rushing-across-utah-mountain-peaks.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Deep in earth my love is lying And I must weep alone.” Edgar Allan Poe<br><br>That Time of the Year Thou Mayst in me Behold by William Shakespeare<br><br> Patterns by Amy Lowell<br><br>A Dead Friend by Andrew  Swinburne<br><br> Annabel Lee by Edgar Allan Poe",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user443"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user320"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user339"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user351"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,38 @@
+{
+	"id":"user692",
+	"title":"Stories about Dreams",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunrise-breaking-over-city-time-lapse.m4v", "Sunrise-city-panning.m4v", "Sunrise-clouds-2.m4v", "Sunrise-clouds.m4v", "Sunrise-construction-washington-dc.m4v", "Sunrise-freedom-tower-and-financial-district-nyc-aerial.m4v", "Sunset-menorca.m4v", "Sunset-moon-rising-joshua-tree.m4v", "Sunset-obscura.m4v"],
+	"title":"video title","type":"background"},
+	"main_text":"Reality leaves a lot to the imagination.” John Lennon<br><br>Young Goodman Brown by Nathaniel Hawthorne<br><br>God Sees the Truth, but Waits by Leo Tolstoy<br><br>Gone With the Wind by Margaret Mitchel<br><br>The Age of Innocence by Edith Wharton<br><br>The Adventures of Tom Sawyer by Mark Twain<br><br>Winter Dreams by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user534"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user528"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user107"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user110"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user116"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user173"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Art and Language",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Green-and-black-ink-water.m4v", "Green-and-blue-sky-in-space.m4v", "Green-clouds.m4v", "Green-shapes-tunnel-motion-background.m4v", "Green-shapes-tunnel-motion-background2.m4v", "Green-shimmering-lights.m4v", "Green-sky-in-space.m4v", "Green-swipes.m4v"], "title":"video title","type":"background"},
+	"main_text":"Every book, every volume you see here, has a soul. The soul of the person who wrote it and of those who read it and lived and dreamed with it. Every time a book changes hands, every time someone runs his eyes down its pages, its spirit grows and strengthens. CARLOS RUIZ ZAFON, The Shadow of the Wind<br><br>Music<br><br>Language and Communication<br><br>Art and Culture<br><br>Writing<br><br>Inspiration, Writing and Art<br><br>Education<br><br>Science",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1222"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1283"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1279"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1073"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1333"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1289"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1273"
+		}
+	],
+	"autoSlideTimer": 2
+}

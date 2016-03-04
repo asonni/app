@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Community",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["New-york-city-aerial-view-2.m4v", "New-york-city-aerial-view-3.m4v", "New-york-city-aerial-view-4.m4v"], "title":"video title","type":"background"},
+	"main_text":"“That millions of people share the same forms of mental pathology does not make these people sane.” Erma Bombeck<br><br>Young Goodman Brown by Nathaniel Hawthorne<br><br>The Time Machine by H. G. Wells<br><br>The War of the Worlds by H. G. Wells",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user534"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user152"
+		}
+	],
+	"autoSlideTimer": 2
+}

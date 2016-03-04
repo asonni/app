@@ -1,0 +1,41 @@
+{
+	"id":"user703",
+	"title":"Driving Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Traffic-along-freeway-overpass-aerial.m4v", "Traffic-and-neon-signs-on-the-vegas-strip.m4v", "Traffic-at-the-larc-de-triomphe.m4v", "Traffic-on-bridge-2.m4v", "Traffic-on-bridge-3.m4v", "Traffic-sandy-hill.m4v", "Pov-la-driving-2.m4v", "Pov-la-driving.m4v", "Pov-nyc-car-ride.m4v"],"title":"video title","type":"background"},
+	"main_text":"We travel, some of us forever, to seek other states, other lives, other souls. Anais Nin<br><br>The Many by Algernon Charles Swinburne (Driving)<br><br>The Road Not Taken by Robert Frost (Driving)<br><br>Home Thoughts, From Abroad by Robert Browning (Driving)<br><br>Canto XLV by Ezra Pound (Driving)<br><br>The Ecstasy by John Donne (Driving)<br><br>Meditation on the A30 by John Betjeman (Driving)<br><br>The Road Not Taken by Robert Frost (Driving)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user573"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user577"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user608"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user890"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1025"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1076"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1076"
+		}
+	],
+	"autoSlideTimer": 2
+}

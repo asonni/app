@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Freedom and Confinement",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Aerial-shot-of-amtrak-train-in-desert-with-mountains.m4v", "Aerial-shot-of-farm-fields-from-above-tilt-up.m4v", "Aerial-shot-of-fields-with-mountains-in-distance.m4v", "Aerial-shot-of-forest-and-mountains-and-fields.m4v", "Aerial-shot-of-forest-and-mountains-with-dead-trees.m4v", "Aerial-shot-of-forest-and-mountains-with-dead-trees2.m4v", "Aerial-shot-of-forest-and-mountainside.m4v", "Aerial-shot-of-forest-mountains-and-lake.m4v"], "title":"video title","type":"background"},
+	"main_text":"I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice. Martin Luther King Jr.<br><br>Speeches about Civil Rights<br><br>Fate and Free Will<br><br>Stories About Freedom<br><br>Stories about Freedom and Confinement",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user897"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1280"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1323"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1309"
+		}
+	],
+	"autoSlideTimer": 2
+}

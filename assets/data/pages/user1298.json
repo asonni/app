@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Pride",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-dark-ink-splatter.m4v", "Slow-motion-dart-popping-water-balloon.m4v", "Slow-motion-destroying-sheet-of-glass.m4v", "Slow-motion-diet-coke-rain.m4v", "Slow-motion-dirty-smoke.m4v", "Slow-motion-drilling-into-concrete-1.m4v", "Slow-motion-dropping-and-breaking-piggy-bank.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The fear of appearances is the first symptom of impotence.” Fyodor Dostoyevsky in Crime and Punishment<br><br>Utopia by Thomas More<br><br>Much Ado About Nothing by William Shakespeare<br><br>Far From the Madding Crowd by Thomas Hardy<br><br>Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant<br><br>This Side of Paradise by F. Scott Fitzgerald<br><br>The Iliad by Homer<br><br>Pride and Prejudice by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user103"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user108"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user144"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user155"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user162"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user91"
+		}
+	],
+	"autoSlideTimer": 2
+}

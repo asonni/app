@@ -1,0 +1,49 @@
+{
+	"id":"user726",
+	"title":"Virginia Woolf",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Abstract-black-ovals-and-spinning-orb.m4v", "Abstract-bright-green-form-visualization-12.m4v", "Abstract-construction-crane.m4v", "Abstract-moving-green-web.m4v", "Abstract-ocean-with-light-flares.m4v", "Abstract-particle-texture.m4v", "Abstract-plasma-with-light-streak.m4v", "Abstract-pool-waves.m4v", "Abstract-purple-and-magenta-sparks.m4v"],	"title":"video title","type":"background"},
+	"main_text":"Virginia Woolf introduction<br><br>Kew Gardens<br><br>Kew Gardens (Countryside)<br><br>Professions for Women (City)<br><br>Professions for Women (Noir)<br><br>Professions for Women (City)<br><br>Mark on the Wall<br><br>A Haunted House<br><br>Professions for Women<br><br>A Room Of One's Own - Shakespeare's Sister",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user494"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user668"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1010"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1031"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1062"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user170"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user174"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user178"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user179"
+		}
+	],
+	"autoSlideTimer": 2
+}

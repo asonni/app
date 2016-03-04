@@ -1,0 +1,34 @@
+{
+	"id":"user726",
+	"title":"E. E. Cummings",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Continent-topography-view-from-space-station.m4v","Space-shuttle-lighting-up-night-sky.m4v", "Space-shuttle-soaring-in-the-sky.m4v","Spinning-earth-animation.m4v"],
+	"title":"video title","type":"background"},
+	"main_text":"E. E. Cummings introduction<br><br>anyone lived in a pretty how town<br><br>next to of course god america I<br><br>since feeling is first <br><br>somewhere I have never traveled<br><br>my father moved through dooms of love",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user449"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user450"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user451"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user452"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user453"
+		}
+	],
+	"autoSlideTimer": 2
+}

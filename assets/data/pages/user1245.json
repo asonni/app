@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Infatuation",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Storm-surge-surf-waves.m4v","Stormy-seas.m4v", "Wake-following-ship-in-pacific-ocean.m4v","Aerial-shot-of-speed-boat-flyover.m4v", "Hd-pirate-ship.m4v"], "title":"video title","type":"background"},
+	"main_text":"“There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.” William Shakespeare, Hamlet<br><br> A birthday by Christina Rossetti<br><br>To his Coy Mistress by Andrew Marvell <br><br>The Garden by Marvell <br><br>Annabel Lee by Edgar Allan Poe<br><br>Give All to Love by Ralph Waldo Emerson<br><br>Porphyria's Lover by Robert Browning<br><br>Love Among the Ruins by Robert Browning<br><br>Life in a Love by Robert Browning<br><br>Love in a Life by Robert Browning<br><br>Th'espense of Spirit in a Waste of Shame by William Shakespeare",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user266"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user346"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user348"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user351"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user405"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user407"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user410"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user411"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user412"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user441"
+		}
+	],
+	"autoSlideTimer": 2
+}

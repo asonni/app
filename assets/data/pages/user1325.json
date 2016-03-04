@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Novellas About Selflessness and Spirit",  
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Man-running-on-beach.m4v","Silhouette-of-mountains-with-golden-sunset.m4v", "Silhouetted-jump-into-pool.m4v", "Silhouettes-at-scenic-sunset.m4v"], "title":"video title","type":"background"},
+	"main_text":"There is some good in this world, and it's worth fighting for.” J.R.R. Tolkien, The Two Towers<br><br>Rip Van Winkle by Washington Irving<br><br>Captain Burle by Emile Zola<br><br>Alyosa the Pot by Leo Tolstoy<br><br>The Three Strangers by Thomas Hardy<br><br>Ivan the Fool by Leo Tolstoy<br><br>The Lagoon by Joseph Conrad<br><br>The Dance of Death by Gustave Flaubert<br><br>The Happy Prince by Oscar Wilde",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user500"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user522"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user526"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user537"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user527"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user504"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user171"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user169"
+		}
+	],
+	"autoSlideTimer": 2
+}

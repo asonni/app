@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Animals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-swans-flying-against-trees-2.m4v", "Slow-motion-swans-flying-against-trees-4.m4v", "Slow-motion-swans-flying-against-trees.m4v", "Slow-motion-swans-flying-in-morning-sun.m4v", "Slow-motion-swans-flying-through-blue-sky.m4v", "Slow-motion-bald-eagle-catches-fish.m4v", "Slow-motion-bald-eagle-in-flight.m4v", "Slow-motion-bald-eagle-skimming-water.m4v", "Slow-motion-bald-eagle-soaring-over-treetops.m4v", "Slow-motion-bald-eagle-spearing-fish.m4v"], "title":"video title","type":"background"},
+	"main_text":"“If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.” Mark Twain<br><br>The Eagle by Lord Alfred Tennyson<br><br>To a Skylark by Percy Bysshe Shelley<br><br>Macavity - the Mystery Cat by T. S. Eliot<br><br>The Thought – Fox by Ted Hughes<br><br>Orf by Ted Hughes<br><br>As Kingfishers Catch Fire by Gerard Manley Hopkins<br><br>Diary of a Church Mouse by John Betjeman<br><br>To a Mouse by Robert Burns",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user434"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user476"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user306"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user309"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user310"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user375"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user382"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user415"
+		}
+	],
+	"autoSlideTimer": 2
+}

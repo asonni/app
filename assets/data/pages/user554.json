@@ -1,0 +1,13 @@
+{
+				"id":"user554",
+				"title":"Writers",
+				"exclude_from_menu":"true",
+				"image": "Leo Hidalgo.jpg",
+				"video":{
+							"src": ["Leaves-blowing-in-wind-on-new-york-street.m4v", "Leaves-falling-in-autumn-creek.m4v", "Leaves-on-the-forest-floor-2.m4v", "Leaves-on-the-forest-floor.m4v"],
+							"title": "video title",
+							"type": "background"
+						},
+				"shuffle": "true",
+				"main_text":"We are supporting writers, offering a commission to write for Retin.ae. Take a look around the themes on the Retin.ae platform and then email us a piece of your writing which could be used in one or more of our themes or sections. It can be old or new content. We will then let the public and our judges decide their favourites and commission those chosen to create writing for Retin.ae<br><br>Here is how to do it:<br>Step 1: Take a look around the Retin.ae platform and decide on some themes which your work would be relevant to.<br><br>Step 2: Email us at writers@retin.ae your contact details, your content (if the file is too big then please use a service such as Dropbox, or YouSendIt), together with the title and the themes that you feel the content could be used for.<br><br>Step 3: You will receive an email from us if you get  nominated. We will feature your work on the platform and conduct an interview about your work.<br><br>Step 4: We will open the nominations to the general public for them to choose their favourites and also, our judges will pick their favourites.<br><br>Step 5: If you are one of the winner, we will contact you and commission you to write for Retin.ae."
+			}

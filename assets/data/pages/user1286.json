@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Contrasting Regions",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pan-of-trees-in-the-carmel-mountains.m4v", "Pan-of-vancouver-skyline-at-dusk-2.m4v", "Pan-of-vancouver-skyline-at-dusk.m4v", "Pan-sunset-to-space-shuttle.m4v", "Pan-up-as-space-shuttle-lifts-off.m4v", "Pan-up-stream.m4v", "Pan-up-stream6.m4v", "Panama-city-from-water.m4v", "Panama-city-from-water1.m4v", "Panning-down-view-of-sparkling-cave.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I love New York, even though it isn't mine, the way something has to be, a tree or a street or a house, something, anyway, that belongs to me because I belong to it.”<br><br>Alice’s Adventures in Wonderland by Lewis Carroll<br><br> The Age of Innocence by Edith Wharton<br><br>The Scarlet Letter by Nathaniel Hawthorne<br><br>The Hound of the Baskervilles by Arthur Conan Doyle",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user106"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user110"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user113"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user128"
+		}
+	],
+	"autoSlideTimer": 2
+}

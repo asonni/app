@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Green",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Spinning-abstract-flashes-2.m4v","Dark-green-ink-in-water.m4v", "Slow-motion-splashing-green-paint-splatter.m4v", "Spinning-kaleidoscope-flower.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Green in nature is one thing, green in literature another. Nature and letters seem to have a natural antipathy; bring them together and they tear each other to pieces.” Virginia Woolf, Orlando<br><br>The Echoing Green by William Blake<br><br>Fern Hill by Dylan Thomas<br><br>The Green Bowl by Amy Lowell<br><br>The Mower's Song by Marvell",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user281"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user294"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user321"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user350"
+		}
+	],
+	"autoSlideTimer": 2
+}

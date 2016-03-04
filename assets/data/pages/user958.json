@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Joseph Conrad",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-huge-splash-of-water-2.m4v", "Slow-motion-liquid-steady-flow.m4v", "Slow-motion-liquid-waves.m4v", "Slow-motion-ice-cubes-into-wavy-water.m4v", "Slow-motion-ice-dropping-into-water-glass.m4v", "Slow-motion-jumping-splashing-waves.m4v", "Slow-motion-bubbles-floating-to-the-surface.m4v","Slow-motion-circle-of-water-2.m4v", "Slow-motion-circle-of-water.m4v", "Slow-motion-clear-bubbles-rising-to-surface.m4v","Slow-motion-fountain-spray-hitting-pond.m4v"], "title":"video title","type":"background"},
+	"main_text":"Joseph Conrad introduction<br><br>Amy Foster<br><br>The Lagoon<br><br>An Outpost of Progress<br><br>The Secret Sharer<br><br>Heart of Darkness",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user503"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user504"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user505"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user506"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user135"
+		}
+	],
+	"autoSlideTimer": 2
+}

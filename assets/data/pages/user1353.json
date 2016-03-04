@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Winter Visions",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Snow-and-string-lights.m4v", "Snow-capped-mountain-at-dusk.m4v", "Snow-capped-timpanogos-mountain-in-wasatch-mountain-range.m4v", "Snow-covered-ground-tilt-to-mountain-landscape.m4v", "Snow-falling-at-sunset.m4v", "Snow-falling-in-oregon-forest-2.m4v", "Snow-falling-off-trees-in-oregon-forest.m4v", "Snow-falling-on-trees-in-oregon-forest.m4v"], "title":"video title","type":"background"},
+	"main_text":"Winter Visions introduction<br><br>Winter<br><br>Winter Visuals<br><br>Winter Mountains",
+	"shuffle": true,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1236"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user913"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user691"
+		}
+	],
+	"autoSlideTimer": 2
+}

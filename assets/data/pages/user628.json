@@ -1,0 +1,15 @@
+{
+	"id":"user628",
+	"title":"Hero by Siegfried Sassoon (Abstract)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "4", "42"],
+	"video":{"src": ["Bright-yellow-sun-in-cloudy-sky.m4v", "Bright-yellow-sun-in-sky-over-ocean-2.m4v", "Bright-yellow-sun-in-sky-over-ocean.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"'Jack fell as he'd have wished,' the Mother said,<br><br> And folded up the letter that she'd read. <br><br> 'The Colonel writes so nicely.' Something broke<br><br> In the tired voice that quavered to a choke.<br><br> She half looked up. 'We mothers are so proud<br><br> Of our dead soldiers.' Then her face was bowed.<br><br><br><br> Quietly the Brother Officer went out.<br><br> He'd told the poor old dear some gallant lies<br><br> That she would nourish all her days, no doubt.<br><br> For while he coughed and mumbled, her weak eyes<br><br> Had shone with gentle triumph, brimmed with joy,<br><br> Because he'd been so brave, her glorious boy.<br><br><br><br> He thought how 'Jack', cold-footed, useless swine,<br><br> Had panicked down the trench that night the mine<br><br> Went up at Wicked Corner; how he'd tried <br><br> To get sent home, and how, at last, he died,<br><br> Blown to small bits. And no one seemed to care <br><br> Except that lonely woman with white hair.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

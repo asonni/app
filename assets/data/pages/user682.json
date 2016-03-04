@@ -1,0 +1,33 @@
+{
+	"id":"user682",
+	"title":"Edith Wharton",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pink-circles-and-light.m4v", "Pink-circles-of-light.m4v", "Pink-geometric-shapes-rotating.m4v", "Pink-geometric-shapes-rotating2.m4v", "Pink-light-beams.m4v", "Pink-purple-and-blue-sky-in-space.m4v", "Pink-vortex.m4v"],"title":"video title","type":"background"},
+	"main_text":"“There are two ways of spreading light: to be the candle or the mirror that receives it.” <br><br>The Dilettante<br><br>Souls Belated<br><br>Xingu<br><br>The Angel in the Grave<br><br>The Age of Innocence",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user510"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user511"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user512"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user513"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user110"
+		}
+	],
+	"autoSlideTimer": 2
+}

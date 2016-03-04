@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Foolishness and Folly",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sweeping-california-city-aerial.m4v", "Sweeping-california-coast-aerial.m4v", "Sweeping-new-york-city-aerial-looking-downtown.m4v", "Sweeping-suburban-homes-aerial-2.m4v", "Sweeping-view-of-nyc-at-night-4.m4v", "Sweeping-view-of-nyc-at-night-6.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” Albert Einstein<br><br>Romeo and Juliet by William Shakespeare<br><br>The War of the Worlds by H. G. Wells<br><br>Madame Bovary by Gustave Flaubert<br><br>The Birthmark by Nathaniel Hawthorne",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user109"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user152"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user535"
+		}
+	],
+	"autoSlideTimer": 2
+}

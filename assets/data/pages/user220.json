@@ -1,0 +1,14 @@
+					
+{
+	"id":"user544",
+	"title":"The Battleship Potemkin",
+	"image":"battleshippotemkin1.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"A dramatized account of a great Russian naval mutiny and a resulting street demonstration which brought on a police massacre.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "TheBattleshipPotemkinsergeiM.Eisenstein1925.mp4"}
+	]
+}						

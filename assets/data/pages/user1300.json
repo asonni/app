@@ -1,0 +1,89 @@
+{
+	"id":"user726",
+	"title":"Horror",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-eerie-bright-green-flames.m4v", "Slow-motion-eerie-green-flames.m4v","Slow-motion-falling-sideways-flames.m4v", "Slow-motion-full-force-explosion.m4v","Slow-motion-slowly-burning-firewood.m4v","Slow-motion-sped-up-blazing-flames.m4v", "Slow-motion-water-in-flames.m4v", "Slow-motion-water-in-flames2.m4v","Slow-motion-wispy-flames.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The charm of horror only tempts the strong” Jean Lorrain<br><br>Annabel Lee by Edgar Allan Poe<br><br>The Raven by Edgar Allan Poe<br><br>The Murders in the Rue Morgue by Edgar Allan Poe<br><br>The Tell-Tale Heart by Edgar Allan Poe<br><br>Porphyria's Lover by Robert Browning<br><br>Christabel by Samuel Taylor Coleridge<br><br>The Rime of the Ancient Mariner by Samuel Taylor Coleridge<br><br>Rip Van Winkle by Washington Irvine<br><br>The Beast in the Jungle by Henry James<br><br>Night of the Living Dead by George Romero<br><br>Bleak House by Charles Dickens<br><br>Dracula by Bram Stoker<br><br> Frankenstein by Mary Wollstonecraft Shelley<br><br>The Hound of the Baskervilles by Arthur Conan Doyle<br><br>The Legend of Sleepy Hollow by Washington Irving<br><br>A Haunted House by Virginia Woolf<br><br>Phantom of the Opera<br><br>The Curse by John Berryman<br><br>Easter 1916 by Yeats",
+	"shuffle": true,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user351"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user352"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user357"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user358"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user407"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user477"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user478"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user500"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user518"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user545"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user102"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user122"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user124"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user128"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user141"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user174"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user197"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user301"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user323"
+		}
+	],
+	"autoSlideTimer": 2
+}

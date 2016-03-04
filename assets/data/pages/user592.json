@@ -1,0 +1,20 @@
+{
+	"id":"user592",
+	"title":"Stories about Passivity",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Time-lapse-city-scape-on-the-water.m4v", "Time-lapse-city-skyline.m4v", "Time-lapse-cloud.m4v", "Time-lapse-effect-with-moving-traffic.m4v", "Time-lapse-electric-night-scape-in-las-vegas.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"“The only thing necessary for the triumph of evil is for good men to do nothing.” Edmund Burke<br><br>Mansfield Park by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user96"
+		}
+	],
+	"autoSlideTimer": 2
+}

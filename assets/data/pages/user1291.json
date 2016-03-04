@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Appearances",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-traffic-patterns-at-night.m4v", "Time-lapse-traffic-patterns-bridges.m4v", "Time-lapse-traffic-patterns-day-into-nigh.m4v", "Time-lapse-traffic-patterns-day-into-night-zoom.m4v", "Time-lapse-traffic-patterns-zoom-out-residential.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The fear of appearances is the first symptom of impotence.” Fyodor Dostoyevsky in Crime and Punishment<br><br>The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle<br><br>A Little Princess by Frances Hodgson Burnett<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>Frankenstein by Mary Wollstonecraft Shelley<br><br>The Legend of Sleepy Hollow by Washington Irving<br><br>The Prince and the Pauper by Mark Twain<br><br>Madame Bovary by Gustave Flaubert<br><br>This Side of Paradise by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user118"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user104"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user124"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user141"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user148"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user155"
+		}
+	],
+	"autoSlideTimer": 2
+}

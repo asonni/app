@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Stories about Freedom and Confinement",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sky-at-sunrise-timelapse.m4v", "Sky-at-sunset.m4v", "Sky-in-between-two-wall-ruins.m4v", "Skyline-view-of-the-empire-state-building.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I am no bird; and no net ensnares me: I am a free human being with an independent will.” Charlotte Brontë, Jane Eyre<br><br>Alice’s Adventures in Wonderland by Lewis Carroll<br><br>Through the Looking-Glass by Lewis Carroll<br><br>Madame Bovary by Gustave Flaubert<br><br>Eveline by James Joyce<br><br>The Dead by James Joyce<br><br>The Story of an Hour by Kate Chopin<br><br>The Diamond as Big as the Ritz by F. Scott Fitzgerald<br><br>The Yellow Wallpaper by Charlotte Perkins Gilman",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user106"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user498"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user515"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user89"
+		}
+	],
+	"autoSlideTimer": 2
+}

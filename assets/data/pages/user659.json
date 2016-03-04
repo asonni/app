@@ -1,0 +1,29 @@
+{
+	"id":"user659",
+	"title":"Emile Zola",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":[ "Colorful-rays-from-space.m4v", "Colorful-retro-flower.m4v", "Colorful-sky-and-haystack-rock-at-cannon-beach-in-oregon.m4v", "Colorful-sky-at-sunset-on-cannon-beach-in-oregon.m4v"],"title":"video title","type":"background"},
+	"main_text":"Emile Zola introduction<br><br>Nana<br><br>The Miller's Daughter<br><br>Captain Burle<br><br>The Death of Oliver Becaille",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user520"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user521"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user522"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user523"
+		}
+	],
+	"autoSlideTimer": 2
+}

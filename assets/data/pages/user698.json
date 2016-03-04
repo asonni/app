@@ -1,0 +1,33 @@
+{
+	"id":"user698",
+	"title":"Stories about Poverty",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunset-at-sea-of-galilee-2.m4v", "Sunset-at-sea-of-galilee-2521.m4v"],"title":"video title","type":"background"},
+	"main_text":"Stories about Poverty introduction<br><br>Little Women by Louisa May Alcott<br><br>David Copperfield by Charles Dickens<br><br>Eveline by James Joyce<br><br>The Rocking Horse Winner by D. H. Lawrence<br><br>Alyosa the Pot by Leo Tolstoy",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user112"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user149"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user526"
+		}
+	],
+	"autoSlideTimer": 2
+}

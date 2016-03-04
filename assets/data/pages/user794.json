@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"Algernon Charles Swinburne",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Los-angeles-cargo-ship-at-dock.m4v", "Los-angeles-city-daylight-tl.m4v", "Los-angeles-dodger-stadium-parking.m4v", "Los-angeles-downtown-city-time-lapse.m4v", "Los-angeles-downtown-city-time-lapse2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Algernon Charles Swinburne introduction<br><br>A Dead Friend <br><br>Shakespeare <br><br>The Many <br><br>Babyhood <br><br>On the Death of my Friend Robert Browning <br><br>Not a Child<br><br>The Many (Driving)<br><br>On the Death of my Friend Robert Browning (Winter Mountains)<br><br>A Dead Friend (Winter)<br><br>Not a Child (Autumn)<br><br>On the Death of my Friend Robert Browning (Arid)<br><br>Not a Child (City)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user339"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user340"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user341"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user342"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user343"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user344"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user573"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user814"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user823"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user844"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user859"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user887"
+		}
+	],
+	"autoSlideTimer": 2
+}

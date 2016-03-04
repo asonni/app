@@ -1,0 +1,43 @@
+{
+	"id":"user726",
+	"title":"Christina Rossetti",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-dark-ink-splatter.m4v", "Slow-motion-dart-popping-water-balloon.m4v", "Slow-motion-destroying-sheet-of-glass.m4v", "Slow-motion-diet-coke-rain.m4v", "Slow-motion-dirty-smoke.m4v", "Slow-motion-drilling-into-concrete-1.m4v", "Slow-motion-dropping-and-breaking-piggy-bank.m4v"], 
+	"title":"video title",
+	"type":"background"},
+	"main_text":"Christina Rossetti introduction<br><br>A Birthday <br><br>A Better Resurrection <br><br>Remember <br><br>In An Artist's Studio<br><br>Winter: My Secret <br><br>Winter: My Secret (Winter)<br><br>Winter: My Secret (Winter Mountains)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user266"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user267"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user268"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user269"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user270"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user732"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user831"
+		}
+	],
+	"autoSlideTimer": 2
+}

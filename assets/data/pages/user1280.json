@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Fate and Free Will",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tunnels-in-the-secret-garden.m4v", "Tunnels-in-the-secret-garden1.m4v", "Sanibel-egrets-feeding-at-sunset.m4v", "Sanibel-sunset-10.m4v", "Sanibel-sunset-3.m4v", "Sanibel-sunset-5.m4v", "Sanibel-sunset-and-waves.m4v", "Sunset-at-cannon-beach-in-oregon.m4v", "Wave-of-clouds-streaking-across-the-sky.m4v", "Wave-washing-away-heart-in-sand.m4v", "Waves-crash-on-coastal-rock.m4v", "Waves-rolling-over-rocks-2927.m4v", "Waves-slamming-into-people-wading-in-ocean.m4v", "Waves-washing-over-chunks-of-sea-salt-2.m4v", "Waves-washing-over-chunks-of-sea-salt-4.m4v", "Waves-washing-over-chunks-of-sea-salt.m4v", "Waves-with-ruins-in-background-3.m4v", "Waves-with-shades-of-green.m4v"], "title":"video title","type":"background"},
+	"main_text":"Two roads diverged in a wood, and I- I took the one less traveled by, And that has made all the difference. Robvert Frost<br><br>Romeo and Juliet by William Shakespeare<br><br>The Scarlet Letter by Nathaniel Hawthorne<br><br>Tess of the d'Urbervilles by Thomas Hardy<br><br>Moby Dick by Herman Melville<br><br>The War of the Worlds H. G. Wells<br><br>The Iliad by Homer<br><br>Fate by Ralph Waldo Emerson",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user109"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user113"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user152"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user162"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user400"
+		}
+	],
+	"autoSlideTimer": 2
+}

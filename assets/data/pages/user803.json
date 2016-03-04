@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Stars and the Universe Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Shooting-galaxy.m4v", "Shooting-galaxy2.m4v", "Shooting-stars-over-desert-tree.m4v", "Shooting-stars-timelapse.m4v", "Starry-sky-timelapse-joshua-tree4.m4v", "Stars-above-tree-canopy.m4v", "Stars-and-clouds-pass-by-rock-formations.m4v", "Stars-and-colors-in-space.m4v", "Stars-circling-in-galaxy.m4v", "Stars-showing-over-antenna-dish.m4v", "Stars-through-tree-tops.m4v"],"title":"video title","type":"background"},
+	"main_text": "We are all in the gutter, but some of us are looking at the stars.” Oscar Wilde, Lady Windermere's Fan<br><br>Helen by Hilda Doolittle (Stars)<br><br>'Inaugural Address' by Franklin D. Roosevelt (Stars)<br><br>Helen by Hilda Doolittle (Universe)<br><br>I wandered lonely as a cloud by William Wordsworth (Universe)<br><br>I Wake And Feel The Fell Of Dark, Not Day by Gerard Manley Hopkins (Universe)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1014"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1015"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1017"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1018"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1019"
+		}
+	],
+	"autoSlideTimer": 2
+}

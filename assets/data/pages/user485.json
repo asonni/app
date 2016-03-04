@@ -1,0 +1,12 @@
+{
+				"id": "user485",
+				"title": "Not Waving But Drowning by Stevie Smith",
+				"exclude_from_menu": "true",
+				"image": "Dan Zen.jpg",
+				"tag": ["15", "10", "22"],
+				"video": {
+					"src": ["Awesome-cloud-timelapse-over-mountain-range.m4v", "Big-fluffy-white-storm-clouds.m4v", "Big-lightning-strike-over-dc.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Nobody heard him, the dead man,<br> But still he lay moaning:<br> I was much further out than you thought<br> And not waving but drowning.<br><br> Poor chap, he always loved larking<br> And now he's dead<br> It must have been too cold for him his heart gave way,<br> They said.<br><br> Oh, no no no, it was too cold always<br> (Still the dead one lay moaning)<br> I was much too far out all my life<br> And not waving but drowning."
+			}

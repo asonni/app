@@ -1,0 +1,42 @@
+{
+	"id":"user695",
+	"title":"Stories about Suffering",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sanibel-egrets-feeding-at-sunset.m4v", "Sanibel-sunset-10.m4v", "Sanibel-sunset-3.m4v", "Sanibel-sunset-5.m4v", "Sanibel-sunset-and-waves.m4v", "Sunset-at-cannon-beach-in-oregon.m4v"],"title":"video title","type":"background"},
+	"main_text":"As my sufferings mounted I soon realized that there were two ways in which I could respond to my situation -- either to react with bitterness or seek to transform the suffering into a creative force. I decided to follow the latter course.” Martin Luther King Jr.<br><br>A Little Princess by Frances Hodgson Burnett<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant<br><br>David Copperfield by Charles Dickens<br><br>The Idiot by Fyodor Dostoyevsky<br><br>Eveline by James Joyce<br><br>The dead by James Joyce",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user104"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user144"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user149"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user157"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user497"
+		}
+	],
+	"autoSlideTimer": 2
+}
+

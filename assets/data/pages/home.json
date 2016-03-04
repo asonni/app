@@ -1,0 +1,35 @@
+{
+	"id":"home",
+	"title":"Home",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Time-lapse-smooth-silky-clouds-over-mountain.m4v", "Graffiti-tags.m4v", "Colors-in-space.m4v", "Time-lapse-snowy-mountain-range-close.m4v", "Redblood-warp.m4v","Color-swirl-in-space2.m4v","Yellow-and-red-ink-mix-in-water.m4v","Swirling-fiery-streaks.m4v","Red-white-texture.m4v","Fireworks-montage2.m4v", "Graffiti-tags.m4v", "Graffiti-animation.m4v", "Jellyfish-floating-up.m4v", "Jellyfish-in-aquarium.m4v", "Jellyfish-in-aquarium2.m4v", "Swirling-plasma.m4v", "Liquid-smoke.m4v", "Neon-plasma-swirls.m4v", "Shifting-ceramic-tiles.m4v", "Slow-rotating-colorful-galaxy-cloud.m4v", "Yellow-jellyfish.m4v", "Orange-ink-in-water.m4v", "Starfish-tentacles-timelapse.m4v", "Streaming-light-shower-explosion.m4v", "Multicolored-galaxy.m4v", "Multicolored-particle-field.m4v",  "Yellow-fireworks-exploding.m4v", "Yellow-and-red-ink-mix-in-water.m4v", "Swirling-plasma.m4v","Slow-motion-bright-orange-smoke.m4v"], 
+	"title":"video title",
+	"type":"background"},
+	"main_text":"What are you looking at?<br><br>Retin.ae is the collective unconscious.<br><br>Experience. Interpretation. Creation.<br><br>Step into a world by clicking any of the next pages, or find your own way by clicking the menu icon.<br><br>Noir<br><br>Chaos<br><br>Women<br><br>Love and Desire<br><br>Talent/Commissions",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 5, 
+			"url": "http://retin.ae/#!/page/user1356"
+		},
+		{
+			"index": 6, 
+			"url": "http://retin.ae/#!/page/user1337"
+		},
+		{
+			"index": 7, 
+			"url": "http://retin.ae/#!/page/user722"
+		},
+		{
+			"index": 8, 
+			"url": "http://retin.ae/#!/page/user1340"
+		},
+		{
+			"index": 9, 
+			"url": "http://retin.ae/#!/page/user1360"
+		}
+	],
+	"autoSlideTimer": 4
+	}

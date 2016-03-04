@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Equal Rights and The Other",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Berlin-graffiti-montage-2.m4v", "Berlin-graffiti-montage.m4v", "Blue-and-yellow-ink-water.m4v", "Blue-deep-sea-jellyfish.m4v", "Clear-jellyfish-swimming-upwards.m4v", "Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The only stable state is the one in which all men are equal before the law.” Aristotle<br><br>The Other<br><br>Race<br><br>Speeches about Civil Rights",
+	"shuffle": true,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user572"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1284"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user897"
+		}
+	],
+	"autoSlideTimer": 2
+}

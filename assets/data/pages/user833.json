@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"John Donne",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Hd-fireworks-fireworks-13.m4v", "Hd-fireworks-fireworks-20.m4v", "Hd-fireworks-fireworks-6.m4v", "Hd-fireworks.m4v"], "title":"video title","type":"background"},
+	"main_text":"John Donne introduction<br><br>The Sun Rising<br><br>The Flea<br><br>A Velediction: Forbiddding Mourning <br><br>The Good Morrow <br><br>Holy Sonnet X: Death Be Not Proud<br><br>Holy Sonnet XIV: Batter My Heart, Three-Personed God<br><br>The Ecstasy<br><br>The Ecstasy (Driving)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user465"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user466"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user467"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user468"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user469"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user470"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user471"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1025"
+		}
+	],
+	"autoSlideTimer": 2
+}

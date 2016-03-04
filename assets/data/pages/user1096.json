@@ -1,0 +1,29 @@
+{
+	"id":"user961",
+	"title":"Stories about Religion",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Wide-shot-panning-to-waterfall.m4v","Slow-motion-cascading-waterfall.m4v", "Slow-motion-cascading-waterfalls-tilt-close.m4v","Slow-motion-crashing-whitewater-waterfall.m4v","Slow-motion-on-icy-river-rapids1.m4v","Slow-motion-pond-fountain-shooting-water.m4v","Slow-motion-small-rapids-waterfalls-1.m4v","Intense-water-rushing-over-boulders.m4v","Winter-leaves.m4v"],"title":"video title","type":"background"},
+	"main_text":"“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.” <br><br>The Pursuit of God by  A. W. Tozer<br><br>Young Goodman Brown by Nathaniel Hawthorne<br><br>God See's the Truth, but Waits by Leo Tolstoy<br><br>Moby Dick by Herman Melville",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user159"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user534"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user528"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user119"
+		}
+	],
+	"autoSlideTimer": 2
+}

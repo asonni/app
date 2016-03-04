@@ -1,0 +1,66 @@
+{
+	"id":"user726",
+	"title":"Family",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Dark-clouds-blanket-over-sky.m4v", "Dark-clouds-stretching-across-sky.m4v", "Dark-clouds-sweeping-above-sky.m4v", "Cloud-pattern-sky.m4v", "Los-angeles-downtown-freeway-light-trails2.m4v", "Los-angeles-harbor-bridge-at-sunset.m4v", "Los-angeles-office-buildings-lights.m4v", "Los-angeles-timelapse-night-lights.m4v", "Los-angeles-traffic-light-trails.m4v", "Los-angeles-zoom-out-101-timelapse.m4v", "Blue-pink-and-red-sky-during-alaskan-sunset.m4v","Time-lapse-purple-and-golden-clouds.m4v","Oil-on-gulf-water.m4v", "Dark-glistening-waves-2.m4v", "Dark-glistening-waves.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"In every conceivable manner, the family is link to our past, bridge to our future.Alex Haley<br><br>Stories About Parents<br><br>Motherhood<br><br>Stories About Babies<br><br>Stories About the Family<br><br>Stories About Marriage<br><br>Baby<br><br>Birth<br><br>Children<br><br>Family<br><br>Home<br><br>Marriage<br><br>Children, Youth and Innocence<br><br>Motherhood and Family",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user590"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1268"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user681"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user765"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1070"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1228"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1243"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1267"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user1313"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user1305"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1315"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user1338"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user1354"
+		}
+	],
+	"autoSlideTimer": 3
+}

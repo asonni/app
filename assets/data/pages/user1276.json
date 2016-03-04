@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Guilt and Blame",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-cloudy-grey-smoke.m4v","Slow-motion-dirty-smoke.m4v","Slow-motion-smoky-air.m4v", "Volcano-sunset.m4v", "Night-clouds.m4v", "Nightime-view-of-bridges.m4v", "Moving-through-new-york-city-street-dutch-angle.m4v", "Scenic-storm-clouds.m4v", "Sallent-sky.m4v", "Moonlight.m4v", "La-freeway-overpass-timelapse.m4v", "Old-footage-power-plant-3.m4v", "Aerial-warehouse-view.m4v"], "title":"video title","type":"background"},
+	"main_text":"A clear conscience is the sure sign of a bad memory.” Mark Twain<br><br>The Hound of the Baskervilles by Arthur Conan Doyle<br><br>David Copperfield by Charles Dickens<br><br>Tell Tale Heart  by Edgar Allan Poe<br><br>The Scarlet Letter by Nathaniel Hawthorne",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user128"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user149"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user358"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user113"
+		}
+	],
+	"autoSlideTimer": 2
+}

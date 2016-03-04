@@ -1,0 +1,12 @@
+{
+				"id": "user275",
+				"title": "I felt a cleaving in my mind by Emily Dickinson",
+				"exclude_from_menu": "true",
+				"image": "SuperFantastic.jpg",
+				"tag": ["15", "6"],
+				"video": {
+					"src": ["Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v", "Swirling-plasma.m4v"],
+					"type": "background"	
+				},
+				"main_text": "I felt a cleaving in my mind<br>As if my brain had split;<br>I tried to match it, seam by seam,<br>But could not make them fit.<br><br>The thought behind I strove to join<br>Unto the thought before,<br>But sequence ravelled out of reach<br>Like balls upon a floor."
+			}

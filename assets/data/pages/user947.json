@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Jane Austen",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sky-at-sunrise-timelapse.m4v", "Sky-at-sunset.m4v", "Sky-in-between-two-wall-ruins.m4v", "Skyline-view-of-the-empire-state-building.m4v"], "title":"video title","type":"background"},
+	"main_text":"Jane Austen introduction<br><br>Pride and Prejudice <br><br>Sense and Sensibility <br><br>Northanger Abbey <br><br>Emma <br><br>Persuasion <br><br>Mansfield Park",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user91"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user92"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user93"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user94"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user95"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user96"
+		}
+	],
+	"autoSlideTimer": 2
+}

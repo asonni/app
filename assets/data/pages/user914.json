@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Beach Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Colorful-beach-chairs-and-umbrella-on-beach.m4v", "Colorful-morning-sky-over-ocean-aerial.m4v", "Colorful-sky-at-sunset-on-cannon-beach-in-oregon.m4v", "Colorful-sky-and-haystack-rock-at-cannon-beach-in-oregon.m4v", "Waikiki-sunset-view-with-palms.m4v", "Maui-palms-and-vivid-rainbow.m4v", "Serene-beach-at-sunset-with-beach-goer.m4v", "Serene-beach-at-sunset.m4v", "Sea-of-galilee-through-trees-at-sunset-2.m4v", "Sea-of-galilee-through-trees-at-sunset-3.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I am a citizen of the world.”<br><br>If You Forget Me by Pablo Neruda (Beach)<br><br>I Heard A Fly Buzz-When I Died- by Emily Dickinson (Beach)<br><br>Born Yesterday by Philip Larkin (Beach)<br><br>The Voice by Matthew Arnold (Beach)<br><br>Dover Beach by Matthew Arnold (Beach)<br><br>Oh! Snatched Away In Beauty's Bloom by Byron (Beach)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user637"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user642"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user651"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user679"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user804"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1083"
+		}
+	],
+	"autoSlideTimer": 2
+}

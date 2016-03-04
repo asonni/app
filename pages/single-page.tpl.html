@@ -1,0 +1,40 @@
+<div ng-if="pageObj.page.contentArr" class="grid-100 slider-wrepper" ng-class="{clickable: pageObj.displayClick}" ng-init="pageObj.dotsSldr = true;">
+  <div class="play-btn-wrapper">
+    <a ng-if="pageObj.videoState.type == 'normal' && pageObj.currNormalVideoSrc && pageObj.displayPlayBtn" ng-click="pageObj.videoControl.playPause('normal')" data-d="{{pageObj.videoState.type}}" class="play-video" ng-class="{'paused': pageObj.videoState.playing}"><img ng-src="{{pageObj.videoState.playPauseImg || 'assets/imgs/play-btn.png'}}" alt="play" title="play"/></a>
+  </div>  
+  <div class="slider-element" ng-class="{presentation: pageObj.page.type == 'presentation'}" ng-show="!pageObj.page.custom_slider">
+    <li ng-repeat="item in pageObj.page.contentArr track by $index" ng-bind-html="item" ng-click="pageObj.checkForEvents($index)"></li>
+  </div>
+  <!-- <a class="click-to-view" ng-href="{{pageObj.slide_link}}" ng-class="{clickable: pageObj.slide_link}" target="_blank">click to view</a> -->
+  <p class="slider-page-number" ng-show="pageObj.currentSlide"><span ng-bind="pageObj.currentSlide"></span><span class="separator"> of </span><span ng-bind="pageObj.sldrLength"</p>
+  <!-- <div class="clearfix" ng-if="pageObj.dotsSldr == true;">
+    <div class="grid-30 prefix-35 dots-slider-wrapper" style="height: 26px; position: relative;">
+      <ul class="dots-slider">
+        <li ng-repeat="item in pageObj.page.contentArr" class=""><span class="button">&nbsp;</span></li>
+      </ul>
+      <a href="" class="dot-arrows left" ng-click="pageObj.sliderGoTo('first')">&nbsp;</a>
+      <a href="" class="dot-arrows right" ng-click="pageObj.sliderGoTo('last')">&nbsp;</a>
+      <p class="sldr-index" ng-if="pageObj.sldrLength">
+        <span ng-bind="pageObj.currentSlide"></span><span class="separator"> of </span><span ng-bind="pageObj.sldrLength"></span>
+      </p>
+    </div>
+  </div> -->
+</div>
+
+<div ng-show="pageObj.showNormalPlayer && pageObj.videoState.type == 'normal' && pageObj.currNormalVideoSrc" class="video-wrapper">
+  <video id="playerNormal" controls>
+    <source src="{{pageObj.currNormalVideoSrc | trustUrl}}" data-t="{{pageObj.currNormalVideoSrc}}" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+  <a href="" class="close-btn glyphicon glyphicon-remove" ng-click="pageObj.videoControl.close('normal')"></a>
+</div>
+
+<div class="custom-slider-wrapper" ng-show="pageObj.page.custom_slider && pageObj.page.custom_slider.length">
+  <ul class="custom-slider slider-element">
+    <li ng-repeat="cs in pageObj.page.custom_slider">
+      <h3 class="slider-title" ng-show="cs.title" ng-bind="cs.title"></h3>
+      <img ng-src="{{(pageObj.isMobile ? pageObj.thumbsBaseUrl : pageObj.imagesBaseUrl) + cs.image}}" alt="cs.title">
+    </li>
+  </ul>
+  <p class="slider-page-number" ng-show="pageObj.custom_slider_index"><span ng-bind="pageObj.custom_slider_index"></span><span class="separator"> of </span><span ng-bind="pageObj.page.custom_slider.length"</p>
+</div>

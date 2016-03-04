@@ -1,0 +1,12 @@
+{
+				"id": "user249",
+				"title": "You're by Sylvia Plath",
+				"exclude_from_menu": "true",
+				"image": "Auntie P.jpg",
+				"tag": ["15", "31"],
+				"video": {
+					"src": ["Aerial-shot-of-lighthouse-with-sparkling-water-with-zoom-out.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water-with-zoom-out2.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water.m4v","Vibrant-sunset-over-field.m4v"],
+					"type": "background"	
+				},"shuffle": "true",
+				"main_text": "Clownlike, happiest on your hands,<br>Feet to the stars, and moon-skulled,<br>Gilled like a fish. A common-sense<br>Thumbs-down on the dodo's mode.<br>Wrapped up in yourself like a spool,<br>Trawling your dark as owls do.<br>Mute as a turnip from the Fourth<br>Of July to All Fools' Day,<br>O high-riser, my little loaf.<br><br>Vague as fog and looked for like mail.<br>Farther off than Australia.<br>Bent-backed Atlas, our traveled prawn.<br>Snug as a bud and at home<br>Like a sprat in a pickle jug.<br>A creel of eels, all ripples.<br>Jumpy as a Mexican bean.<br>Right, like a well-done sum.<br>A clean slate, with your own face on."
+			}

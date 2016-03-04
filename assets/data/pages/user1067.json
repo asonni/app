@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Ralph Waldo Emerson",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Spiral-galaxy.m4v", "Spiral-universe.m4v","Slow-rotating-colorful-galaxy-cloud.m4v","Spinning-starry-sky.m4v","Spinning-into-oblivion.m4v","Swirling-galaxy.m4v"], "title":"video title","type":"background"},
+	"main_text":"Ralph Waldo Emerson introduction<br><br>Fate <br><br>Days<br><br>Celestial Love<br><br>Ode To Beauty<br><br>The Apology<br><br>Give All To Love<br><br>Give All To Love (Abstract)<br><br>Days (Abstract)<br><br>Celestial (?)<br><br>Fate (Tunnel)<br><br>Days (?)<br><br>Give All To Love (Flowers)<br><br>Fate (?)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user400"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user401"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user402"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user403"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user404"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user405"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user630"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user631"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user653"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user1026"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1028"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user1107"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user1115"
+		}
+	],
+	"autoSlideTimer": 2
+}

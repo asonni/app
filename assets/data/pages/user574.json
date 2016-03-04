@@ -1,0 +1,40 @@
+{
+	"id":"user574",
+	"title":"Stories about Good vs. Evil",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Slow-motion-dark-ink-splatter.m4v", "Slow-motion-dart-popping-water-balloon.m4v", "Slow-motion-destroying-sheet-of-glass.m4v", "Slow-motion-diet-coke-rain.m4v", "Slow-motion-dirty-smoke.m4v", "Slow-motion-drilling-into-concrete-1.m4v", "Slow-motion-dropping-and-breaking-piggy-bank.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"“The world is a dangerous place to live, not because of the people who are evil, but because of the people who don't do anything about it.” ― Albert Einstein<br><br>Dracula by Bram Stoker<br><br>Beyond Good and Evil by Friedrich Wilhelm Nietzsche<br><br>The Idiot by Fyodor Dostoyevsky<br><br>Young goodman brown by Nathaniel Hawthorne<br><br>The nose by Nikolai Vasilievich Gogol<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user122"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user129"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user157"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user534"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user70"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user115"
+		}
+	],
+	"autoSlideTimer": 2
+}

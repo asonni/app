@@ -1,0 +1,51 @@
+{
+	"id":"user726",
+	"title":"William Shakespeare",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["View-of-womans-legs-walking-down-bermuda-beach.m4v", "View-over-hong-kong-from-victoria-peak-the-illuminated.m4v", "View-upwards-from-underneath-the-eiffel-tower-in-paris.m4v"],
+	"title":"video title",
+	"type":"background"},
+	"main_text":"William Shakespeare introduction<br><br>Let Me Not To The Marriage Of True Minds<br><br>Shall I Compare Thee To A Summer's Day?<br><br>Th' Expense Of Spirit In A Waste Of Shame<br><br>Not Marble, Nor The Gilded Monuments<br><br>That Time Of The Year Thou Mayst In Me Behold<br><br>My Mistress' Eyes Are Nothing Like the Sun<br><br>Not Marble, Nor The Gilded Monuments (?)<br><br>Much Ado About Nothing<br><br>Romeo and Juliet",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user439"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user440"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user441"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user442"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user443"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user444"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1035"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user108"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user109"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,15 @@
+{
+	"id":"user629",
+	"title":"I felt a cleaving in my mind by Emily Dickinson (Abstract)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "6"],
+	"video":{"src": ["Bright-colored-galaxy.m4v", "Bright-fireworks-lighting-up-the-sky.m4v", "Bright-galaxy-explosion.m4v", "Bright-light-warp-tunnel.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"I felt a cleaving in my mind<br><br>As if my brain had split;<br><br>I tried to match it, seam by seam,<br><br>But could not make them fit.<br><br><br><br>The thought behind I strove to join<br><br>Unto the thought before,<br><br>But sequence ravelled out of reach<br><br>Like balls upon a floor.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

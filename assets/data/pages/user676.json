@@ -1,0 +1,61 @@
+{
+	"id":"user676",
+	"title":"Byron",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Orange-and-yellow-retro-flower.m4v", "Orange-ink-in-water.m4v", "Orange-winter-sunset-2.m4v", "Orange-winter-sunset.m4v", "Orange-yellow-black-and-brown-flowers-turning-4.m4v"],"title":"video title","type":"background"},
+	"main_text":"Byron introduction<br><br>She Walks In Beauty<br><br>Stanzas Written On A Road Between Florance and Pisa<br><br>When We Two Parted<br><br>When We Two Parted (Wind)<br><br>When We Two Parted (Panning)<br><br>Darkness<br><br>The Dream<br><br>Solitude<br><br>Solitude (?)<br><br>Oh! Snatched Away In Beauty's Bloom<br><br>Oh! Snatched Away In Beauty's Bloom (Beach)<br><br>There Be None Of Beauty's Daughters",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user240"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user259"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user260"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1030"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1120"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user261"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user262"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user263"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user1087"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user264"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1083"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user265"
+		}
+	],
+	"autoSlideTimer": 2
+}

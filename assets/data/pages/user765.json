@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Stories about Family",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-colorful-pink-sunset-on-water.m4v", "Time-lapse-cruising-over-water.m4v", "Time-lapse-dark-eerie-clouds-over-water.m4v", "Time-lapse-golden-skies-over-water.m4v", "Time-lapse-light-fades-over-lake.m4v", "Time-lapse-night-scape-over-water.m4v", "Time-lapse-night-skies-over-water.m4v", "Time-lapse-sailing-over-water.m4v", "Time-lapse-slow-moving-clouds-over-body-of-water.m4v", "Time-lapse-starry-skies-over-wate.m4v", "Time-lapse-sun-setting-over-ocean.m4v", "Time-lapse-sunrise-over-ocean.m4v", "Time-lapse-sunrise-over-peaceful-water.m4v"],"title":"video title","type":"background"},
+	"main_text":"Stories about Family introduction<br><br>The Rocking Horse Winner by D. H. Lawrence<br><br>An Imaginative Woman by Thomas Hardy<br><br>Wuthering Heights by Emily Brontë<br><br>Bleak House by Charles Dickens<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Frankenstein by Mary Wollstonecraft Shelley<br><br>War and Peace by Leo Tolstoy<br><br>Eveline by James Joyce",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user175"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user98"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user102"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user124"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user172"
+		}
+	],
+	"autoSlideTimer": 2
+}

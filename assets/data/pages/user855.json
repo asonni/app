@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Industrial Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Elevated-illuminated-downward-view-over-the-city-centre-and-marina-bay-south.m4v", "Elevated-view-from-the-top-of-the-arch-detriomphe-along-the-ave-de-la-grand.m4v", "Extensive-hillside-neighborhood-in-port-au-prince-haiti.m4v", "Factory-in-rotterdam-netherlands.m4v", "Factory-smoke-timelapse.m4v", "Trailer-top-15.m4v", "Trailer-truck-driving-down-open-road-in-desert-at-sunset.m4v", "Trucks-passing-on-open-road-in-desert.m4v", "Warehouse-buildings-aerial.m4v", "Wide-shot-of-oil-rig.m4v", "Wide-angle-cloud-and-sky-scraper-timelapse.m4v", "Pan-across-toronto-city-after-dark.m4v"], "title":"video title","type":"background"},
+	"main_text":"Freeman and slave, patrician and plebeian, lord and serf, guildmaster and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, that each time ended, either in the revolutionary reconstitution of society at large, or in the common ruin of the contending classes.” ― Karl Marx, The Communist Manifesto<br><br>Canto XLV by Ezra Pound (Industrial)<br><br>To a Skylark by Percy Bysshe Shelley (Industrial)<br><br>High Windows by Philip Larkin (Industrial)<br><br>Loneliness by John Betjeman (Industrial)<br><br>Because I Could Not Stop For Death-by Emily Dickinson (Industrial)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user910"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user917"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user923"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1032"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1065"
+		}
+	],
+	"autoSlideTimer": 2
+}

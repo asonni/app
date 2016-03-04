@@ -1,0 +1,125 @@
+{
+	"id":"user726",
+	"title":"Stories and Poetry about Time",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Cloud-blue-panning.m4v", "Cloud-blur.m4v", "Cloud-landscape-reflective-sun-timelapse.m4v", "Cloud-reflections-in-building.m4v", "Cloud-screen-covering-sunset.m4v", "Cloud-shadows-on-green-mountains.m4v", "Cloud-shadows-over-desert-mountains-time-lapse.m4v", "Cloud-shadows-over-mountains-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"Scars have the strange power to remind us that our past is real.” Cormac McCarthy, All the Pretty Horses<br><br>The Scarlet Letter by Nathaniel Hawthorne<br><br>The Time Machine by H. G. Wells<br><br>Birches by Robert Frost<br><br>A Better Resurrection by Christina Rossetti<br><br>Old Age Gets Up by Ted Hughes<br><br>To his Coy Mistress by Andrew Marvell<br><br>A Dream Within a Dream by Edgar Allan Poe<br><br>The World by Henry Vaughan<br><br>The Water-Fall by Henry Vaughan<br><br>The Future by Matthew Arnold<br><br>Growing Old by Matthew Arnold<br><br>Days by Ralph Waldo Emerson<br><br>Home Thoughts, From Abroad by Robert Browning<br><br>A Red, Red Rose by Robert Burns<br><br>The Soldier by Rupert Brooke<br><br>The Dead by Rupert Brooke<br><br>Ulysses by Lord Alfred Tennyson<br><br>Let Me Not to the Marriage of True Minds by William Shakespeare<br><br>Not Marble, Nor the Gilded Monuments by William Shakespeare<br><br>That Time of the Year Thou Mayst in Me Behold by William Shakespeare<br><br>anyone lived in a pretty how town by E. E. Cummings<br><br>The Flea by John Donne<br><br>Holy Sonnet X: Death be Not Proud by John Donne<br><br>Ozymandias by Percy Bysshe Shelley<br><br>The Odor of Chrysanthemums by D. H. Lawrence<br><br>The Story of an Hour by Kate Chopin<br><br>Prelude by Katherine Mansfield<br><br>The Lagoon by Joseph Conrad",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user113"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user244"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user267"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user311"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user346"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user354"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user378"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user379"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user393"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user394"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user401"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user409"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user413"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user418"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user420"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user437"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user439"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user442"
+		},
+		{
+			"index": 21,
+			"url": "http://retin.ae/#!/page/user443"
+		},
+		{
+			"index": 22,
+			"url": "http://retin.ae/#!/page/user449"
+		},
+		{
+			"index": 23,
+			"url": "http://retin.ae/#!/page/user466"
+		},
+		{
+			"index": 24,
+			"url": "http://retin.ae/#!/page/user469"
+		}, 
+		{
+			"index": 25,
+			"url": "http://retin.ae/#!/page/user474"
+		},
+		{
+			"index": 26,
+			"url": "http://retin.ae/#!/page/user495"
+		},
+		{
+			"index": 27,
+			"url": "http://retin.ae/#!/page/user498"
+		},
+		{
+			"index": 28,
+			"url": "http://retin.ae/#!/page/user168"
+		},
+		{
+			"index": 29,
+			"url": "http://retin.ae/#!/page/user504"
+		}
+	],
+	"autoSlideTimer": 2
+}

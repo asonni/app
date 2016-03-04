@@ -1,0 +1,51 @@
+<div class="clearfix landing-page-content">
+  
+  <!-- PREVIEW MODULE -->
+  <section ng-class="{'inactive': !pageObj.selectedPage}" class="grid-33 hide-on-tablet hide-on-mobile preview">
+    <h3 class="preview-title">{{pageObj.selectedPage.title}}</h3>
+    <p class="thereIsMoreText" ng-bind="pageObj.selectedPage.short_description">...</p>
+    <div class="img-wrapper"><img ng-src="{{pageObj.thumbsBaseUrl+pageObj.selectedPage.image || pageObj.selectedPage.slider_content[0].image}}"/></div>
+  </section>
+  
+  <!-- GRID MODULE -->
+  <section class="grid-66 tablet-grid-100 mobile-grid-100 right-content grid-module">
+    
+   <!--  <div class="clearfix">
+      <div class="grid-60 tags-wrapper">
+        <div class="filters-bar">
+          <a href="" class="tags-button" ng-click="pageObj.showTags = !pageObj.showTags"><span>More </span><span class="icon glyphicon glyphicon-chevron-down"></span></a>
+          <a href="" ng-show="pageObj.selectedTag" class="clear-filter" ng-click="pageObj.filterByTag(0)">Clear Filter <span class="icon glyphicon glyphicon-remove"></span></a>
+        </div>
+      </div>
+    </div> -->
+
+      <p class="show-results" ng-show="pageObj.filtering">Showing results for {{pageObj.filtering}}</p>
+      <p class="show-results" ng-show="pageObj.selectedTag">Showing results for tag {{pageObj.tags[pageObj.selectedTag].name}}</p>
+      <ul class="tiles clearfix">
+        <li ng-repeat="page in pageObj.filteredPages = (pageObj.lazyPages.pages | filter:{title: pageObj.filtering}:false | selectedTags:pageObj.getTag())" ng-if="page.id != 'landing'" class="tile grid-33 tablet-grid-33 mobile-grid-50" title="{{page.title}}" on-finish-render="allRendered">
+          <a href="" ng-mouseover="pageObj.showPreview(page)" ng-click="pageObj.goToPage(pageObj.selectedPage.id)" class="item">
+            <div class="img-container">
+              <img class="image-tile" ng-src="{{pageObj.thumbsBaseUrl+page.image}}"/>
+            </div>
+            <h3 class="title">{{page.title}}</h3>
+          </a>
+        </li>
+        <p class="list-placeholder" ng-show="!pageObj.filteredPages.length">0 results found for your current filter selection</p>
+      </ul>
+
+  </section>
+
+</div>
+
+ <div class="overlay expanded tagsOverlay" ng-mouseleave="pageObj.hideTags()" ng-class="{active: pageObj.showTags}">
+  
+  <ul class="tags clearfix">
+    
+    <li class="grid-15 tablet-grid-25 mobile-grid-50" ng-repeat="tag in pageObj.tags" ng-click="pageObj.filterByTag(tag.id); pageObj.showTags = !pageObj.showTags; pageObj.hideTags()" ng-class="{active: pageObj.selectedTag == tag.id}">
+      <a href="">{{tag.name}}</a>
+    </li>
+    <li class="clearTags"><a href="" ng-click="pageObj.filterByTag(); pageObj.showTags = !pageObj.showTags; pageObj.hideTags()">Reset</a></li>
+
+  </ul>
+
+</div>

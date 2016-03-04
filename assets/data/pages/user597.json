@@ -1,0 +1,14 @@
+{
+	"id":"user597",
+	"title":"The Chimney Sweeper (Experience) by William Blake (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "18", "21", "22", "8"],
+	"video":{"src": ["City-sprawl-5.m4v", "City-sprawl-6.m4v", "City-street-to-river-sunrise-time-lapse.m4v", "Cityscape-in-nepal-2.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"A little black thing among the snow:<br><br>Crying weep, weep, in notes of woe!<br><br>Where are thy father & mother? say?<br><br>They are both gone up to the church to pray.<br><br><br><br>Because I was happy upon the heath.<br><br>And smil'd among the winters snow:<br><br>They clothed me in the clothes of death.<br><br>And taught me to sing the notes of woe.<br><br><br><br>And because I am happy. & dance & sing.<br><br>They think they have done me no injury:<br><br>And are gone to praise God & his Priest & King,<br><br>Who made up a heaven of our misery.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

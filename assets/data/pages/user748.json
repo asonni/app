@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Gustave Flaubert",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Fire-ball-with-transparent-alpha-channel-looping.m4v", "Fire-storm.m4v", "Fireworks-in-the-sky-at-dc-fourth-of-july-celebration.m4v", "Fireworks-montage.m4v", "Fireworks-montage2.m4v"],"title":"video title","type":"background"},
+	"main_text":"Gustave Flaubert introduction<br><br>A Simple Soul<br><br>Madame Bovary<br><br>The Dance of Deeath",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user533"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user171"
+		}
+	],
+	"autoSlideTimer": 2
+}

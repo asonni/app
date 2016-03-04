@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Ocean",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Storm-surge-surf-waves.m4v","Stormy-seas.m4v", "Wake-following-ship-in-pacific-ocean.m4v","Aerial-shot-of-speed-boat-flyover.m4v", "Hd-pirate-ship.m4v"], "title":"video title","type":"background"},
+	"main_text":"“It is a curious situation that the sea, from which life first arose should now be threatened by the activities of one form of that life. But the sea, though changed in a sinister way, will continue to exist; the threat is rather to life itself.” Rachel Carson, The Sea Around Us<br><br>Ballad of the Long-Lagged Bait by Dylan Thomas<br><br>In the White Giant's Thigh by Dylan Thomas<br><br>Moby Dick by Herman Melville<br><br>The Life and Adventures of Robinson Crusoe by Daniel Defoe",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user296"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user298"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user137"
+		}
+	],
+	"autoSlideTimer": 2
+}

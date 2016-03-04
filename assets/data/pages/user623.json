@@ -1,0 +1,15 @@
+{
+	"id":"user623",
+	"title":"Hope is the thing with feathers by Emily Dickinson (Abstract)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["10", "15", "5", "39"],
+	"video":{"src": ["Blue-full-moon-at-night.m4v", "Blue-lake-titicaca-water.m4v", "Blue-light-orbs-on-horizon.m4v", "Blue-line-ripples.m4v", "Blue-ocean-water-framed-by-palm-trees-2.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Hope is the thing with feathers<br><br>That perches in the soul,<br><br>And sings the tune--without the words,<br><br>And never stops at all,<br><br><br><br>And sweetest in the gale is heard;<br><br>And sore must be the storm <br><br>That could abash the little bird<br><br>That kept so many warm.<br><br><br><br>I've heard it in the chillest land,<br><br>And on the strangest sea;<br><br>Yet, never, in extremity,<br><br>It asked a crumb of me.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

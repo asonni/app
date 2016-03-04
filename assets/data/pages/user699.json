@@ -1,0 +1,21 @@
+{
+	"id":"user699",
+	"title":"Stories about Courage",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunset-at-the-beach-3.m4v", "Sunset-at-the-beach.m4v"],"title":"video title","type":"background"},
+	"main_text":"Courage is found in unlikely places.” J.R.R. Tolkien<br><br>War and Peace by Leo Tolstoy<br><br>The Jungle Book by Rudyard Kipling",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user131"
+		}
+	],
+	"autoSlideTimer": 2
+}

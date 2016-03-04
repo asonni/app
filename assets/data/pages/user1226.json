@@ -1,0 +1,97 @@
+{
+	"id":"user726",
+	"title":"Social Commentaries",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunrise-breaking-over-city-time-lapse.m4v", "Sunrise-city-panning.m4v", "Sunrise-construction-washington-dc.m4v", "Sunrise-freedom-tower-and-financial-district-nyc-aerial.m4v", "Sun-hidden-behind-clouds.m4v", "Sun-orb-covered-by-smoke.m4v", "Sun-over-aspen-mountains.m4v", "Sun-peeking-over-vibrant-green-hills.m4v", "Sun-peering-through-big-white-storm-clouds.m4v", "Sun-rays-beam-through-cloudy-sky.m4v"], "title":"video title","type":"background"},
+	"main_text":"“In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.” Friedrich Nietzsche<br><br>My Last Duchess by Robert Browning<br><br>The Laboratory by Robert Browning<br><br>Home Thoughts, From Abroad by Robert Browning<br><br>The Soldier by Rupert Brooke<br><br>The Dead by Rupert Brooke<br><br>Casualty by Seamus Heaney<br><br>Glory of Women by Siegfried Sassoon<br><br>The Charge of the Light by Lord Alfred Tennyson<br><br>Ulysses by Lord Alfred Tennyson<br><br>Not Marble, Nor the Gilded Monuments by William Shakespeare<br><br>Composed Upon Westminster Bridge by William Wordsworth<br><br>Lines Written in Early Spring by William Wordsworth<br><br>London, 1802 by William Wordsworth<br><br>The Cry of the Children by Elizabeth Barrett Browning<br><br>England in 1819 by Percy Bysshe Shelley<br><br>The Rime of the Ancient Mariner by Samuel Taylor Coleridge<br><br>Frost at Midnight by Samuel Taylor Coleridge<br><br>Kubla Khan by Samuel Taylor Coleridge<br><br>The Lime-Tree Bower, my Prision by Samuel Taylor Coleridge<br><br>O Captain! My Captain! by Walt Whitman<br><br>Canto XLV by Ezra Pound",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user406"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user408"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user409"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user418"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user420"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user426"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user429"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user436"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user437"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user442"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user446"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user447"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user448"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user458"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user475"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user478"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user481"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user482"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user483"
+		},
+		{
+			"index": 21,
+			"url": "http://retin.ae/#!/page/user227"
+		},
+		{
+			"index": 22,
+			"url": "http://retin.ae/#!/page/user363"
+		}
+	],
+	"autoSlideTimer": 2
+}

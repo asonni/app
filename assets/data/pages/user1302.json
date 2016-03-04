@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Ambition and Self Improvement",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Man-running-on-beach.m4v","Silhouette-of-mountains-with-golden-sunset.m4v", "Silhouetted-jump-into-pool.m4v", "Silhouettes-at-scenic-sunset.m4v"], "title":"video title","type":"background"},
+	"main_text":"We should not judge people by their peak of excellence; but by the distance they have travelled from the point where they started. Henry Ward Beecher<br><br>Great Expectations by Charles Dickens<br><br>Little Women by Louisa May Alcott<br><br>War and Peace by Leo Tolstoy<br><br>Winter Dreams by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user101"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user112"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user173"
+		}
+	],
+	"autoSlideTimer": 2
+}

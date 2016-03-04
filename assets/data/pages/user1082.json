@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"The Pleasures Of Friendship by Stevie Smith (Beach)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "45"],
+	"video":{"src":["View-of-womans-legs-walking-down-bermuda-beach.m4v","Wide-santa-monica-beach-tilt-shift-timelapse.m4v","Crowded-new-york-beach.m4v","People-at-the-beach-in-hawaii.m4v","People-on-the-beach-at-dusk.m4v"], "title":"video title","type":"background"},
+	"main_text":"The pleasures of friendship are exquisite,<br><br>How pleasant to go to a friend on a visit!<br><br>I go to my friend, we walk on the grass,<br><br>And the hours and moments like minutes pass.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

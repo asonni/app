@@ -1,0 +1,73 @@
+{
+	"id":"user726",
+	"title":"People",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Downtown-boston-night-traffic.m4v", "Downtown-city-pov-drive-timelapse.m4v", "Downtown-city-sunset-timelapse.m4v", "Downtown-construction-3.m4v", "Downtown-construction-5.m4v", "Downtown-construction.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Real people do real things. A collective of a whole bunch of people who do things in their own locale, in their own neighborhoods – the sum is bigger than the parts, and the parts will grow.”<br><br>Thoughts by Walt Whitman<br><br>High Windows by Philip Larkin<br><br>The Amercian by Rudyard Kipling<br><br>The Applicant by Sylvia Plath<br><br>The Hollow Men by T. S. Eliot<br><br>The Many by Algernon Charles Swinburne<br><br>In the Station of the Metro by Ezra Pound<br><br>Portrait d'Une Femme by Ezra Pound<br><br>The River-Merchant's Wife by Ezra Pound<br><br>The World by Henry Vaughan<br><br>How to Get on in Society by John Betjeman<br><br>Far From the Madding Crowd by Thomas Hardy<br><br>The Story of My Life by Helen Keller<br><br>The Power of Nightmares<br><br>The Battleship Potemkin",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user224"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user232"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user235"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user252"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user305"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user341"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user365"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user367"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user368"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user378"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user381"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user140"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user196"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user220"
+		}
+	],
+	"autoSlideTimer": 2
+}

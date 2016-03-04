@@ -1,0 +1,20 @@
+{
+	"id":"user590",
+	"title":"Stories about Parents",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Time-lapse-traffic-patterns.m4v", "Time-lapse-sunset-on-sky-scrapers.m4v", "Time-lapse-sunset-over-distant-city-skyline.m4v", "T-l-day-to-night-high-angle-wide-shot-traffic-on-nanpu-bridge-spiral-shangh.m4v", "T-l-pedestrians-and-traffic-across-shibuya-crossing-at-night-shibuya-tokyo-.m4v", "T-l-people-walking-in-the-new-modern-shanghai-south-railway-station-shangha.m4v"], 
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"“I came from a mother and father who always made me secure in my beliefs, and that’s where the love came from.”<br><br>Persuasion by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user95"
+		}
+	],
+	"autoSlideTimer": 2
+}

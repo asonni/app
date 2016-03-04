@@ -1,0 +1,30 @@
+{
+	"id":"user717",
+	"title":"Classic Romance Stories",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Yellow-moon-shining-through-dark-clouds-at-night.m4v", "Yellow-moon-through-slow-black-clouds-at-night.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"The beautiful things of the earth become more dear as they elude pursuit.<br><br>An Imaginative Woman by Thomas Hardy<br><br>The Secret Adversary by Agatha Christie<br><br>The End of Something by Ernest Hemingway<br><br>The Moonstone by Wilkie Collins",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user175"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user142"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user541"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user99"
+		}
+	],
+	"autoSlideTimer": 2
+}

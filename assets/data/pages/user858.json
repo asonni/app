@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Mythology",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-dark-ink-splatter.m4v", "Slow-motion-dart-popping-water-balloon.m4v", "Slow-motion-destroying-sheet-of-glass.m4v", "Slow-motion-diet-coke-rain.m4v", "Slow-motion-dirty-smoke.m4v", "Slow-motion-drilling-into-concrete-1.m4v", "Slow-motion-dropping-and-breaking-piggy-bank.m4v"], "title":"video title","type":"background"},
+	"main_text":"Mythology introduction<br><br>The lady of shalott by Lord Alfred Tennyson<br><br>Ulysses by Lord Alfred Tennyson<br><br>Adonis by Hilda Doolittle<br><br>Leda by Hilda Doolittle<br><br>Helen by Hilda Doolittle<br><br>Christabel by Samuel Taylor Coleridge<br><br>The Odyssey by Homer",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user435"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user437"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user460"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user461"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user462"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user477"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user163"
+		}
+	],	
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,51 @@
+{
+	"id":"user726",
+	"title":"Madness",
+	"main_text":"It is sometimes an appropriate response to reality to go insane.” Philip K. Dick, VALIS<br><br>Alice's Adventures in Wonderland by Lewis Carroll<br><br>Moby Dick by Herman Melville<br><br>Through the Looking-Glass by Lewis Carroll<br><br>Don Quixote by Miguel de Cervantes<br><br>The Mark on the Wall by Virginia Woolf<br><br>Lady Lazarus by Sylvia Plath<br><br>Ariel by Sylvia Plath<br><br>Daddy by Sylvia Plath<br><br>I Felt a Cleaving in my Mind by Emily Dickinson<br><br>The Nose by Nikolai Vasilievich Gogol",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Swirling-plasma.m4v","Slow-motion-bright-orange-smoke.m4v","Slow-motion-orange-on-white-paint-splatter.m4v", "Slow-motion-orange-paint-splatter-2.m4v", "Slow-motion-orange-paint-splatter.m4v"],"title":"video title","type":"background"},
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user106"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user153"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user170"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user248"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user250"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user251"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user275"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user70"
+		}
+	],
+	"autoSlideTimer": 2
+}

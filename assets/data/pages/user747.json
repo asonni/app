@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"The Young Soldier by Wilfred Owen (Guns)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "4", "20"],
+	"video":{"src":["Assault-rifle-shooting-bullet-3.m4v", "Bullet-casing-fallling.m4v", "Tombstones-at-arlington-national-cemetery-5.m4v", "Guy-fires-gun-at-camera.m4v", "Gun-fire-5.m4v", "Gun-fire-6.m4v", "Rifle-firing-bullet.m4v", "Rifleman-shoots-gun-at-camera-in-black-and-white.m4v", "Rifle-shooting-bullet-2.m4v"], "title":"video title","type":"background"},
+	"main_text":"It is not death<br><br>Without hereafter<br><br>To one in dearth<br><br>Of life and its laughter,<br><br><br><br>Nor the sweet murder<br><br>Dealt slow and even<br><br>Unto the martyr<br><br>Smiling at heaven:<br><br><br><br>It is the smile<br><br>Faint as a (waning) myth,<br><br>Faint, and exceeding small<br><br>On a boy's murdered mouth.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

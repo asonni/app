@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Three Things to Remember by William Blake",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "37", "23"],
+	"video":{"src":["Pan-of-country-hillside-2.m4v", "Pan-of-dry-desert.m4v", "Pan-of-dry-tan-desert-mountains.m4v", "Pan-of-dwellings-near-a-city.m4v", "Pan-of-mountains-and-hills-in-desert.m4v", "Pan-of-new-york-city-manhattan-skyline.m4v", "Pan-of-piccadilly-circus.m4v", "Pan-of-rolling-fields-with-low-clouds-2.m4v", "Pan-of-rolling-fields-with-low-clouds.m4v", "Pan-of-silhouetted-mountains-in-sunset.m4v", "Pan-of-stone-ruins-2.m4v", "Pan-of-times-square-in-new-york-city.m4v"], "title":"video title","type":"background"},
+	"main_text":"A Robin Redbreast in a cage,<br><br>Puts all Heaven in a rage.<br><br><br><br>A skylark wounded on the wing<br><br>Doth make a cherub cease to sing<br><br><br><br>He who shall hurt the little wren<br><br>Shall never be beloved by men.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

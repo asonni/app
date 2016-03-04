@@ -1,0 +1,12 @@
+{
+				"id": "user322",
+				"title": "He Wishes for the Cloths of Heaven by William Butler Yeats",
+				"exclude_from_menu": "true",
+				"image": "Fabio Gismondi.jpg",
+				"tag": ["15", "18", "39", "22"],
+				"video": {
+					"src": ["Boston-skyline-4.m4v", "Boston-sunrise-skyline.m4v", "Boston-time-lapse-at-night.m4v", "Boston-time-lapse-at-night2.m4v", "Boston-time-lapse-sunrise.m4v", "Boston-time-lapse-sunrise2.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Had I the heavens' embroidered cloths,<br> Enwrought with golden and silver light,<br> The blue and the dim and the dark cloths<br> Of night and light and the half-light,<br> I would spread the cloths under your feet:<br> But I, being poor, have only my dreams;<br> I have spread my dreams under your feet;<br> Tread softly because you tread on my dreams."
+			}

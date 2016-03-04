@@ -1,0 +1,17 @@
+{"id":"user206","title":"","exclude_from_menu":"true","image":"","tag": "39","normal_videos": [
+		{"index": 0, "name": ""}
+	],"main_text":"</p>"}
+						
+{
+	"id":"user544",
+	"title":"Reefer Madness",
+	"image":"reefer madness.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"Cautionary tale features a fictionalized and highly exaggerated take on the use of marijuana. A trio of drug dealers lead innocent teenagers to become addicted to 'reefer' cigarettes by holding wild parties with jazz music.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "reefer_madness1938_512kb.mp4"}
+	]
+}						

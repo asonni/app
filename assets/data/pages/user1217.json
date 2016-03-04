@@ -1,0 +1,85 @@
+{
+	"id":"user726",
+	"title":"Inspiration",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Dark-haired-bearded-man-standing-next-to-fire.m4v", "Dark-purple-lines-and-energy.m4v", "Dark-spray.m4v", "Dark-storm-clouds-move-across-sky.m4v", "Dark-storm-clouds-roll-in.m4v", "Dark-stormy-clouds-moving-across-sky.m4v", "Dark-sunset-over-valley.m4v"], "title":"video title","type":"background"},
+	"main_text":"Creative thinking inspires ideas. Ideas inspire change. Barbara Januszkiewicz<br><br>'Freedom or Death' by Emmeline Pankhurst<br><br>'A Room of One's Own - Shakespeare's Sister' by Virginia Woolf<br><br>'Inaugural Address' by Franklin D. Roosevelt<br><br>'A Tryst with Destiny' by Jawaharlal Nehru<br><br>As I Ponder'd in Silence by Walt Whitman<br><br>O Captain! My Captain! by Walt Whitman<br><br>If by Rudyard Kipling<br><br>The Answer by Rudyard Kipling<br><br>For Each Ecstatic Instant by Emily Dickinson<br><br>Hope is a Thing With Feathers by Emily Dickinson<br><br>In My Craft or Sullen Art by Dylan Thomas<br><br>The Love Song by T. S. Eliot<br><br>The Thought - Fox by Ted Hughes<br><br>Tonight I Can Write by Pablo Neruda<br><br>God's Grandeur by Gerard Manley Hopkins<br><br>Meditation on the A30 by John Betjeman<br><br>The Charge of the Light by Lord Alfred Tennyson<br><br>The Ecstasy by John Donne",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user176"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user179"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user185"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user191"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user221"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user227"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user233"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user236"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user273"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user274"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user292"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user303"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user309"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user317"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user370"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user390"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user436"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user471"
+		}
+	],
+	"autoSlideTimer": 2
+}

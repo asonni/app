@@ -1,0 +1,80 @@
+{
+	"id":"user667",
+	"title":"Rudyard Kipling",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Full-moon-zooms-out.m4v", "Galaxy-over-joshua-tree-timelapse.m4v", "Fumes-at-desert-power-plant.m4v", "Deep-burning-sunset-timelapse.m4v", "Deep-into-the-valley.m4v", "Delicate-cherry-blossom-flowers.m4v", "Extreme-close-up-of-water-running-through-culvert.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Rudyard Kipling introduction<br><br>If<br><br>If (City)<br><br>The Prodigal Son<br><br>The Prodigal Son (Aerial)<br><br>The Prodigal Son (Downtown)<br><br>The Prodigal Son (City)<br><br>The Prodigal Son (Morning)<br><br>The Prodigal Son (Noir)<br><br>An American<br><br>An American (City)<br><br>An American (City)<br><br>An American (City)<br><br>The Answer<br><br>Arithmatic on the Frontier<br><br>As the Bell Clicks<br><br>The Man Who Would Be King",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user233"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user621"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user234"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user580"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user600"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user601"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user650"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user755"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user235"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user617"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user622"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user893"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user236"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user237"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user238"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user239"
+		}
+	],
+	"autoSlideTimer": 2
+}

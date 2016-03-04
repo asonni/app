@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"America",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["New-york-city-manhattan-skyline-4.m4v", "New-york-city-manhattan-skyline-5.m4v","Orange-and-green-canyon-1.m4v", "Orange-and-green-cliffs-2.m4v", "Orange-and-green-cliffs.m4v", "Orange-and-green-golf-course.m4v", "Orange-and-green-rocky-cliffs.m4v", "New-york-city-manhattan-skyline-7.m4v", "New-york-city-manhattan-skyline.m4v", "New-york-city-skyline-aerial.m4v"], "title":"video title","type":"background"},
+	"main_text":"God created war so that Americans would learn geography.” Mark Twain<br><br>Stories about America<br><br>Speeches about America<br><br>America<br><br>What Makes America",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user767"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user713"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1310"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1097"
+		}
+	],
+	"autoSlideTimer": 2
+}

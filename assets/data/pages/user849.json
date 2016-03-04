@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Samuel Taylor Coleridge",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Aerial-shot-of-green-valley-with-river.m4v", "Aerial-shot-of-green-valley-with-river2.m4v", "Aerial-shot-of-green-valley-with-river3.m4v", "Aerial-shot-of-green-valley-with-river4.m4v", "Aerial-shot-of-horses-running-in-green-valley.m4v"], "title":"video title","type":"background"},
+	"main_text":"Samuel Taylor Coleridge introduction<br><br>Christabel<br><br>The Rime of the Ancient Mariner<br><br>Epigram<br><br>Work Without Hope<br><br>Frost at Midnight<br><br>Kubla Khan<br><br>The Lime-Tree Bower, My Prision<br><br>Work Without Hope (City)<br><br>The Lime-Tree Bower, My Prision (Abstract)<br><br>Kubla Khan (Abstract)<br><br>Frost at Midnight (Winter Mountains)<br><br>Frost at Midnight (Night Sky)<br><br>Kubla Khan (Abstract)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user477"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user478"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user479"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user480"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user481"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user482"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user483"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user567"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user625"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user626"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user830"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user872"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user951"
+		}
+	],
+	"autoSlideTimer": 2
+}

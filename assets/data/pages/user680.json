@@ -1,0 +1,33 @@
+{
+	"id":"user680",
+	"title":"Fast Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Arriving-in-grand-central-station-timelapse.m4v", "Arriving-train-in-nyc-station-timelapse.m4v", "Barcelona-night-drive.m4v", "Boston-time-lapse-at-night.m4v", "Both-sides-of-traffic.m4v", "California-freeway-driving.m4v", "Fast-la-headlights-traffic-timelapse.m4v"],"title":"video title","type":"background"},
+	"main_text":"Fast Visuals<br><br>Tonight I Can Write by Pablo Neruda (Fast)<br><br>Drunk As Drunk by Pablo Neruda (Fast)<br><br>Hope is the thing with feathers by Emily Dickinson (Fast)<br><br>Dream Song 14: Life, friends, is boring by John Berryman (Fast)<br><br>The Curse by John Berryman (Fast)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user793"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user863"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user987"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1022"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1023"
+		}
+	],
+	"autoSlideTimer": 2
+}

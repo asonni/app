@@ -1,0 +1,17 @@
+{
+	"id":"user726",
+	"title":"Stories about Isolation",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Trailer-top-15.m4v", "Trailer-truck-driving-down-open-road-in-desert-at-sunset.m4v", "Trucks-passing-on-open-road-in-desert.m4v", "Warehouse-buildings-aerial.m4v", "Wide-shot-of-oil-rig.m4v", "Wide-angle-cloud-and-sky-scraper-timelapse.m4v", "Pan-across-toronto-city-after-dark.m4v"], "title":"video title","type":"background"},
+	"main_text":"“As with many people, Charles, who could not talk, wrote with fullness. He set down his loneliness and his perplexities, and he put on paper many things he did not know about himself.” John Steinbeck, East of Eden<br><br>Kew Gardens by Virginia Woolf",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user494"
+		}
+	],
+	"autoSlideTimer": 2
+}

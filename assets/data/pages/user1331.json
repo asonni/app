@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Isolation, Emptiness and Exile",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Train-by-mississippi-river.m4v", "Train-passing-through-desert.m4v", "Train-pulling-into-metro-station.m4v", "Train-station-3.m4v", "Train-tracks-through-mountains.m4v"], "title":"video title","type":"background"},
+	"main_text":"Even the Technology that promises to unite us, divides us. Each of usis now electronically connected to the globe, and yet we feel utterly alone. Dan Brown, Angel and Demons, Robert Langdon<br><br>The Lagoon by Joesph Conrad<br><br>Walking around by Pablo Neruda<br><br>An outpost of progress by Joseph Conrad<br><br>A farewell by Lord Alfred Tennyson<br><br>The War of the Worlds by H. G. Wells<br><br>Solitude by Byron<br><br>Simple Soul by Gustave Flaubert<br><br>Angel in the Grave by Edith Wharton",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user504"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user316"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user505"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user438"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user152"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user263"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user533"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user513"
+		}
+	],
+	"autoSlideTimer": 2
+}

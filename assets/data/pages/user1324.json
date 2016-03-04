@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Novellas About Boredom",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Scenic-storm-clouds.m4v", "Scenic-sun-in-cloudy-sky.m4v", "Scenic-mountain-view-with-autumn-trees.m4v", "Scenic-vibrant-mountain-landscape-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Have you been out in society recently? 'Cause it's S..T.”<br><br>An Imaginative Woman by Thomas Hardy<br><br>The End of Something by Ernest Hemingway<br><br>Souls Belated by Edith Wharton",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user175"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user541"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user511"
+		}
+	],
+	"autoSlideTimer": 2
+}

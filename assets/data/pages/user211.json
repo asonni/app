@@ -1,0 +1,14 @@
+						
+{
+	"id":"user544",
+	"title":"The House on Haunted Hill",
+	"image":"Vincent_Price_in_House_on_Haunted_Hill.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"A millionaire offers ten thousand dollars to five people who agree to be locked in a large, spooky, rented house overnight with he and his wife.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "The_House_on_Haunted_Hill_512kb.mp4"}
+	]
+}						

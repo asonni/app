@@ -1,0 +1,12 @@
+{
+	"id":"user688",
+	"title":"Never Again by Stevie Smith (Countryside)",
+	"image":"Hammonton Photography.jpg",
+	"tag":"15",
+	"video":{"src":["Sunrise-hdr-2501.m4v", "Sunrise-time-lapse-over-ocean.m4v", "Sunrise-timelapse-at-lake-titicaca-peru.m4v", "Sunrise-to-sunset-over-valley.m4v", "Sunrise-wispy-clouds-timelapse.m4v"],"title":"video title","type":"background"},
+	"main_text":"Never again will I weep<br><br> And wring my hands<br><br> And beat my head against the wall<br><br> Because<br><br> Me nolentem fata trahunt<br><br> But<br><br> When I have had enough<br><br> I will arise<br><br> And go unto my Father<br><br> And I will say to Him:<br><br> Father, I have had enough.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

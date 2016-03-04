@@ -1,0 +1,13 @@
+						{
+	"id":"user193",
+	"title":"This is the Army",
+	"image":"Murat Tasiroglu.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"In WWI dancer Jerry Jones stages an all-soldier show on Broadway, called Yip Yip Yaphank. Wounded in the war, he becomes a producer. In WWII his son Johnny Jones, who was before his father's assistant, gets the order to stage a new all-soldier show, called This is the Army. But in his personal life he has problems, because he refuses to marry his fiancée until the war is over."",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "this_is_the_army_512kb.mp4"}
+	]
+}						

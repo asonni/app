@@ -1,0 +1,57 @@
+{
+	"id":"user726",
+	"title":"America",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Clouds-pass-slowly-over-goblin-valley-2.m4v","Clouds-over-hierve-el-agua.m4v","Cloud-shadows-over-desert-mountains-time-lapse.m4v", "Cloud-shadows-over-mountains-timelapse.m4v", "Upward-shot-of-cliff-exposing-tree-roots.m4v","Dry-canyon.m4v", "Vibrant-monument-valley-landscape.m4v","Sun-drifting-above-desert-canyon.m4v","Chicago-building-tilt-traffic-timelapse.m4v", "Chicago-city-night-view-tl.m4v", "Chicago-city-river-view-timelapse.m4v", "Chicago-city-sunrise-time-lapse.m4v", "Chicago-river-at-evening-with-building-in-background.m4v",  "Sun-drifting-past-desert-redrocks.m4v", "Police-officer-and-car-on-road-during-storm.m4v", "Police-vehicles.m4v"], "title":"video title","type":"background"},
+	"main_text":"You know what made us the biggest, meanest, Big Mac eating, calorie-counting, world-dominating kick-ass powerhouse country in the history of the human race? The pursuit of happiness. Not happiness. The pursuit. WILL FERGUSON<br><br>Howl by Allen Ginsberg<br><br>The Adventures of Tom Sawyer by Mark Twain<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>Autobiography of Benjamin Franklin by Benjamin Franklin<br><br>'Inaugural Address' by John F. Kennedy<br><br>'Gettysburg Address' by Abraham Lincoln<br><br>I hear America Singing by Walt Whitman<br><br>Pioneers! O Pioneers! By Walt Whitman<br><br>The American by Rudyard Kipling<br><br>Next to of Course God America by E.E. Cummings<br><br>The Diamond as Big as the Ritz by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user41"		
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user116"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user134"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user189"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user190"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user225"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user226"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user235"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user450"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user515"
+		}
+	],
+	"autoSlideTimer": 2
+}

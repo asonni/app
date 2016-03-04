@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Winter",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-colorful-panning-sunrise-winter-landscape-2.m4v", "Time-lapse-colorful-panning-sunrise-winter-landscape.m4v", "Time-lapse-fisheye-winter-landscape.m4v", "Time-lapse-clouds-rushing-across-utah-mountain-peaks.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Winter is coming.” George R.R. Martin in A Game of Thrones<br><br>Frost at Midnight by Samuel Taylor Coleridge<br><br>Winter Dreams by F. Scott Fitzgerald<br><br>Birches by Robert Frost<br><br>Stopping by Woods on a Snowy Evening by Robert Frost",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user481"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user173"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user244"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user245"
+		}
+	],
+	"autoSlideTimer": 2
+}

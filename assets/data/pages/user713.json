@@ -1,0 +1,33 @@
+{
+	"id":"user713",
+	"title":"Speeches about America",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["New-york-city-aerial-view-2.m4v", "New-york-city-aerial-view-3.m4v", "New-york-city-aerial-view-4.m4v", "New-york-city-manhattan-skyline-4.m4v", "New-york-city-manhattan-skyline-5.m4v", "New-york-city-manhattan-skyline-7.m4v", "New-york-city-manhattan-skyline.m4v", "New-york-city-skyline-aerial.m4v"],"title":"video title","type":"background"},
+	"main_text":"“If you want to understand a society, take a good look at the drugs it uses. And what can this tell you about American culture? Well, look at the drugs we use. Except for pharmaceutical poison, there are essentially only two drugs that Western civilization tolerates: Caffeine from Monday to Friday to energize you enough to make you a productive member of society, and alcohol from Friday to Monday to keep you too stupid to figure out the prison that you are living in.” Bill Hicks<br><br>'The Emancipation Proclamation' by Abraham Lincoln<br><br>'Inaugural Address' by Franklin D. Roosevelt<br><br>'I Have a Dream' by Dr. Martin Luther King<br><br>'Inaugural Address' by John F. Kennedy<br><br>'Gettysburg Address' by Abraham Lincoln",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user177"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user185"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user187"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user189"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user190"
+		}
+	],
+	"autoSlideTimer": 2
+}

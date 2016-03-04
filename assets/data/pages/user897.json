@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Speeches about Civil Rights",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Lightning-storm-in-a-country-field.m4v", "Lightning-strike-over-capitol.m4v", "Lightning-strikes-in-clouds.m4v", "Lightning-strikes.m4v", "Sunrise-breaking-over-city-time-lapse.m4v", "Sunrise-city-panning.m4v", "Sunrise-clouds-2.m4v", "Sunrise-clouds.m4v", "Sunrise-construction-washington-dc.m4v", "Sunrise-freedom-tower-and-financial-district-nyc-aerial.m4v"],"title":"video title","type":"background"},
+	"main_text":"I have a dream today!"<br><br>'Freedom or Death' by Emmeline Pankhurst<br><br>'Professions for Women' by Virginia Woolf<br><br>'A Room of One's Own - Shakespeare's Sister' by Virginia Woolf<br><br>'Wind of Change' by Harold MacMillan<br><br>'I am Prepared to Die' by Nelson Mandela<br><br>'I Have a Dream' by Dr. Martin Luther King<br><br>'A Tryst with Destiny' by Jawaharlal Nehru",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user176"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user178"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user179"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user180"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user186"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user187"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user191"
+		}
+	],
+	"autoSlideTimer": 2
+}

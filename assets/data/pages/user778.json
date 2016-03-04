@@ -1,0 +1,65 @@
+{
+	"id":"user713",
+	"title":"Robert Frost",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Above-the-clouds.m4v", "Airplane-flying-deep-blue-sky.m4v", "Boston-time-lapse-sunrise.m4v", "Cloud-landscape-reflective-sun-timelapse.m4v", "Clouds-in-the-sky-above-salt-lake-city.m4v", "Lipstick-mouth.m4v", "Moving-clouds-at-sea.m4v", "Plane-taking-off-across-sun.m4v", "Plane-wing-over-countryside-at-sunset.m4v", "Ballerinas-feet-to-pointe.m4v", "Clear-ocean-water-from-island-shore-2.m4v", "Close-up-on-my-champagne-bottle.m4v", "Coastal-coney-island-new-york.m4v"], "title":"video title","type":"background"},
+	"main_text":"Robert Frost introduction<br><br>Mending Wall<br><br>Mowing<br><br>After Apple Picking<br><br>Birches<br><br>Stopping by Woods on a Snowy Evening<br><br>Nothing Gold Can Stay <br><br>Nothing Gold Can Stay (City)<br><br>Nothing Gold Can Stay (City)<br><br>Nothing Gold Can Stay (Beautiful)<br><br>Nothing Gold Can Stay (Autumn)<br><br>The Road Not Taken<br><br>The Road Not Taken (Driving)<br><br>The Road Not Taken (Driving)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user241"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user242"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user243"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user244"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user245"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user246"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user604"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user616"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user656"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user726"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user247"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user577"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user1077"
+		}
+	],
+	"autoSlideTimer": 2
+}

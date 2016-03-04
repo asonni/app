@@ -1,0 +1,57 @@
+{
+	"id":"user726",
+	"title":"Drugs",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Swirling-plasma.m4v","Slow-motion-bright-orange-smoke.m4v","Slow-motion-orange-on-white-paint-splatter.m4v", "Slow-motion-orange-paint-splatter-2.m4v", "Slow-motion-orange-paint-splatter.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I have absolutely no pleasure in the stimulants in which I sometimes so madly indulge. It has not been in the pursuit of pleasure that I have periled life and reputation and reason. It has been the desperate attempt to escape from torturing memories, from a sense of insupportable loneliness and a dread of some strange impending doom.” Edgar Allan Poe<br><br>Far From the Madding Crowd by Thomas Hardy<br><br>This Side of Paradise by F. Scott Fitzgerald<br><br>Eveline by James Joyce<br><br>Reefer Madness<br><br>Born Yesterday by Philip Larkin<br><br>The Lake Isle of Innisfree by W. B. Yeats<br><br>The Raven by Edgar Allan Poe<br><br>Kubla Khan by Samuel Taylor Coleridge<br><br>Drugs Made Pauline Vague by Stevie Smith<br><br>The Dead by James Joyce<br><br>The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user155"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user206"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user228"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user326"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user352"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user482"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user488"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user118"
+		}
+	],
+	"autoSlideTimer": 2
+}

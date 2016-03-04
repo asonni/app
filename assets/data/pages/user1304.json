@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Lies",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Lightning-storm-in-a-country-field.m4v", "Lightning-strike-over-capitol.m4v", "Lightning-strikes-in-clouds.m4v", "Lightning-strikes.m4v"], "title":"video title","type":"background"},
+	"main_text":"If you tell the truth, you don't have to remember anything.” Mark Twain<br><br>To a Mouse by Robert Burns<br><br>Northanger Abbey by Jane Austen<br><br>Much Ado About Nothing by William Shakespeare<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br> The Princeby Nicolo Machiavelli<br><br>The Importance of Being Earnest by Oscar Wilde<br><br>A Doll's House : a Play by Henrik Ibsen<br><br>The Woman in White by Wilkie Collins<br><br>A Room with a View by E. M. Forster<br><br>Lilacs by Amy Lowell",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user415"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user93"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user108"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user121"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user126"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user160"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user319"
+		}
+	],
+	"autoSlideTimer": 2
+}

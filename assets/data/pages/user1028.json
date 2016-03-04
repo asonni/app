@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Days by Ralph Waldo Emerson",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "55"],
+	"video":{"src":["Dense-cloud-sunset-timelapse.m4v", "Dense-dark-clouds-moving.m4v"],"title":"video title","type":"background"},
+	"main_text":"Daughters of Time, the hypocritic Days,<br><br> Muffled and dumb like barefoot dervishes,<br><br> And marching single in an endless file,<br><br> Bring diadems and fagots in their hands.<br><br> To each they offer gifts after his will,<br><br> Bread, kingdoms, stars, and sky that holds them all.<br><br> I, in my pleached garden, watched the pomp,<br><br> Forgot my morning wishes, hastily<br><br> Took a few herbs and apples, and the Day<br><br> Turned and departed silent. I, too late,<br><br> Under her solemn fillet saw the scorn.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

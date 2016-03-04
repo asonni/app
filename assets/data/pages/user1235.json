@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Dissapointment and Failure",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Aerial-shot-of-red-cliffs-and-mountains-st-george-utah.m4v","Dolly-down-cliff-face-of-mitzpe-ramon-crater.m4v","Dolly-shot-of-couple-sitting-on-rocks-overlooking-monument-valley.m4v","Spinning-and-glistening-cave.m4v","Slowly-sweeping-over-large-cavern.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Heaven knows we need never be ashamed of our tears, for they are rain upon the blinding dust of earth, overlying our hard hearts. I was better after I had cried, than before--more sorry, more aware of my own ingratitude, more gentle.” Charles Dickens, Great Expectations<br><br>Eveline by James Joyce<br><br>The Dead by James Joyce<br><br>After Apple Picking by Robert Frost<br><br>A Better Resurrection by Christina Rossetti<br><br>The Raven by Edgar Allan Poe<br><br>Portrait d'Une Femme by Ezra Pound<br><br>Dover Beach by Matthew Arnold<br><br>Days by Ralph Waldo Emerson<br><br>To a Mouse by Robert Burns<br><br>Ulysses by Lord Alfred Tennyson<br><br>Th'espense of Spirit in a Waste of Shame by William Shakespeare<br><br>Work Without Hope by Samuel Taylor Coleridge<br><br>The Lime-tree Bower, my Prision by Samuel Taylor Coleridge",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user243"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user267"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user352"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user367"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user392"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user401"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user415"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user437"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user441"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user480"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user483"
+		}
+	],
+	"autoSlideTimer": 2
+}

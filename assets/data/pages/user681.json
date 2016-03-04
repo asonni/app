@@ -1,0 +1,33 @@
+{
+	"id":"user681",
+	"title":"Stories about Babies",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pink-and-yellow-sky-getting-dark-as-sun-sets.m4v", "Pink-clouds-and-blue-sky.m4v", "Pink-flowering-tree.m4v","Pink-bloom-flower-petals.m4v"],"title":"video title","type":"background"},
+	"main_text":"Stories about Babies introduction<br><br>Athenaise by Kate Chopin<br><br>An Imaginative Woman by Thomas Hardy<br><br>Hills Like White Elephants by Ernest Hemingway<br><br>Far from the Madding Crowd by Thomas Hardy<br><br>The Fatal Cradle by Wilkie Collins",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user499"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user175"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user542"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user530"
+		}
+	],
+	"autoSlideTimer": 2
+}

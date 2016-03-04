@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Stories about America",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Crashing-pacific-ocean-wave-2.m4v", "Crashing-rhine-falls-waves.m4v", "Crashing-waterfall-in-forest.m4v", "Crashing-waves-at-sunset-2.m4v", "Crashing-waves-on-beach-rocks.m4v", "Crashing-waves-on-rocks-during-sunset-674.m4v", "Crashing-waves-up-close-2.m4v", "Crashing-waves.m4v"], "title":"video title","type":"background"},
+	"main_text":"Stories about America introduction<br><br>The Adventures of Tom Sawyer by Mark Twain<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>Autobiography of Benjamin Franklin by Benjamin Franklin",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user116"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user134"
+		}
+	],
+	"autoSlideTimer": 2
+}

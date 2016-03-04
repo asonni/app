@@ -1,0 +1,14 @@
+{
+	"id":"user611",
+	"title":"Composed Upon Westminster Bridge by William Wordsworth (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "41"],
+	"video":{"src": ["London-eye-at-night-tilt-up-right-timelapse.m4v", "London-eye-at-night-timelapse.m4v", "London-eye-tilt-down-left-zoom-out-timelapse.m4v", "London-eye-tilt-up-timelapse.m4v", "London-tower-bridge-timelapse.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Earth has not anything to show more fair:<br><br> Dull would he be of soul who could pass by<br><br> A sight so touching in its majesty:<br><br> This City now doth like a garment wear<br><br> The beauty of the morning; silent , bare,<br><br> Ships, towers, domes, theatres, and temples lie<br><br> Open unto the fields, and to the sky,<br><br> All bright and glittering in the smokeless air.<br><br> Never did the sun more beautifully steep<br><br> In his first splendour, valley, rock, or hill;<br><br> Ne'er saw I, never felt a calm so deep!<br><br> The river glideth at his own sweet will:<br><br> Dear God! the very houses seem asleep;<br><br> And all that mighty heart is lying still!",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

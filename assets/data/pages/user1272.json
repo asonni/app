@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Justice and Judgement",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-las-vegas-skyline-sunrise.m4v", "Time-lapse-las-vegas-skyline-through-buildings.m4v", "Time-lapse-las-vegas-skyline-tight.m4v", "Time-lapse-of-the-transition-from-dusk-to-night-showing-the-illumination-on.m4v", "Time-lapse-night-scape.m4v"], "title":"video title","type":"background"},
+	"main_text":"Justice is open to everyone in the same way as the Ritz Hotel.  Judge Sturgess<br><br>The Hound of the Baskervilles by Arthur Conan Doyle<br><br>The Woman in White by Wilkie Collins<br><br>The Trial by Franz Kafka<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle<br><br>The Hound of the Baskervilles by Arthur Conan Doyle<br><br>The Prince and the Pauper by Mark Twain",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user128"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user156"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user118"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user128"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user148"
+		}
+	],
+	"autoSlideTimer": 2
+}

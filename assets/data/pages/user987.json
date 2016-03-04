@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Hope is the thing with feathers by Emily Dickinson (Fast)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["10", "15", "5", "39"],
+	"video":{"src":["Pov-boating-over-lake-with-beautiful-sunset.m4v", "Pov-elevated-train-journey-across-the-rainbow-bridge-and-through-tokyo-hons.m4v", "Pov-elevated-train-journey-across-the-rainbow-bridge-and-through-tokyo-hons4.m4v", "Pov-highway-driving-in-blizzard.m4v", "Pov-roller-coaster-loops.m4v", "Pov-time-lapse-city-car-at-night.m4v", "Pov-time-lapse-journey-on-the-modern-driverless-dubai-elevated-rail-metro-s.m4v", "Pov-yellow-roller-coaster-beginning.m4v"], "title":"video title","type":"background"},
+	"main_text":"Hope is the thing with feathers<br><br>That perches in the soul,<br><br>And sings the tune--without the words,<br><br>And never stops at all,<br><br><br><br>And sweetest in the gale is heard;<br><br>And sore must be the storm <br><br>That could abash the little bird<br><br>That kept so many warm.<br><br><br><br>I've heard it in the chillest land,<br><br>And on the strangest sea;<br><br>Yet, never, in extremity,<br><br>It asked a crumb of me.",
+	"shuffle": false,
+	"type": "presentation",  
+	"autoSlideTimer": 2
+}

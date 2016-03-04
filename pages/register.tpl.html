@@ -1,0 +1,49 @@
+<div class="col-md-5 col-md-offset-1">
+  <div class="pull-left">
+    <img src="../assets/imgs/retinae-logo-white.png" class="img-responsive logo-img" alt="">
+  </div>
+  <div class="pull-right">
+    <div class="menu-icons">
+      <div class="dropdown">
+        <a aria-hidden="true" href="#" class="glyphicon glyphicon-user glyphiconUser"></a>
+        <div class="dropdown-content">
+          <a href="#">My Profile</a>
+          <a href="#">Log out</a>
+        </div>
+      </div>
+      <a aria-hidden="true" href="#" class="glyphicon glyphicon-search glyphiconSearch"></a>
+      <a aria-hidden="true" href="#" class="glyphicon glyphicon-cog glyphiconCog"></a>
+    </div>
+  </div>
+  <form ng-submit="register()">
+    <div class="well well-sm">
+      <h4>
+        <strong class="title-auth">
+          Register
+        </strong>
+      </h4>
+      <div class="error-message">
+        Error message
+      </div>
+      <div class="form-group">
+        <input type="text" ng-model="registerModel.name" class="form-control input-name" placeholder="Name">
+      </div>
+      <div class="form-group">
+        <input type="email" ng-model="registerModel.email" class="form-control input-reg-email" placeholder="Email">
+      </div>
+      <div class="form-group">
+        <input type="password" ng-model="registerModel.password" class="form-control input-password" placeholder="Password">
+      </div>
+      <h4>
+        <strong class="title-auth">
+          Login via 
+          <a href="#/twitter" ui-sref="twitter"><i class="fa fa-twitter-square fa-lg"></i></a>
+          <a href="#/facebook" ui-sref="facebook"><i class="fa fa-facebook-square fa-lg"></i></a>
+          <a href="#/google" ui-sref="google"><i class="fa fa-google-plus-square fa-lg"></i></a>
+        </strong>
+      </h4>
+      <br>
+      <button type="submit" class="btn btn-circle btn-default">Go </button>
+    </div>
+  </form>
+</div>

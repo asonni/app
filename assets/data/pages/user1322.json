@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Novellas About Sex",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Forest-fire-burns-with-helicopter.m4v", "Forest-fire-raging.m4v", "Extreme-low-angle-on-lit-cigarette-falling-out-of-persons-hand.m4v", "Flames-behind-bull-skull.m4v", "Flower-vase-explosion.m4v", "From-ground-to-roof-of-abandoned-desert-home.m4v", "Going-down-shady-urban-alley.m4v", "Impoverished-neighborhood-in-port-au-prince-haiti.m4v", "House-on-fire-1.m4v", "House-on-fire-2.m4v", "House-on-fire-4.m4v", "Huge-lightening-storm-over-landscape.m4v", "Jib-shot-over-abandoned-home-in-desert.m4v", "Huge-white-storm-clouds-forming-in-the-distance.m4v", "Jug-of-juice-exploding.m4v", "Khrpolice_prison_barbed_wire_fence.m4v","Khrpolice_prison_cell02_pan_right_into_cell.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I don't know the question, but sex is definitely the answer.” Woody Allen<br><br>An Imaginative Woman by Thomas Hardy<br><br>Prelude byKatherine Mansfield<br><br>Nana by Emile Zola<br><br> The Princess by D. H. Lawrence<br><br>In the Ravine by Anton Chekhov<br><br>The Fiddler of the Reels by Thomas Hardy",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user175"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user168"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user520"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user166"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user539"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user538"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Motherhood and Family",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Hd-flowers-flower-43.m4v", "Hd-flowers-flower-45.m4v","Mountainside-flowers.m4v","Spinning-purple-and-pink-flowers-out-of-focus.m4v","Spinning-bouquet-of-red-roses.m4v", "Sunlight-flowers.m4v","Hd-flowers-flower-12.m4v", "Hd-flowers-flower-20.m4v", "Hd-flowers-flower-21.m4v", "Hd-flowers-flower-22.m4v", "Hd-flowers-flower-26.m4v", "Hd-flowers-flower-27.m4v", "Hd-flowers-flower-34.m4v"], "title":"video title","type":"background"},
+	"main_text":"“There's no bitch on earth like a mother frightened for her kids.” Stephen King<br><br>Baby<br><br>Stories About Babies<br><br>Motherhood<br><br>Birth<br><br>Family<br><br>Parents<br><br>Stories About Family<br><br>Marriage",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1228"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user681"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1268"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1243"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1313"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user590"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user765"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1315"
+		}
+	],
+	"autoSlideTimer": 2
+}

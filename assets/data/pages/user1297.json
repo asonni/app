@@ -1,0 +1,57 @@
+{
+	"id":"user726",
+	"title":"Power",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["T-l-shoppers-inside-a-new-modern-shopping-complex-in-pudong-district-shangh.m4v", "Tl-smooth.m4v", "Tl-spotjump.m4v", "Time-lapse-big-moon.m4v", "Time-lapse-bridge-into-green-woods.m4v", "Time-lapse-cars-from-road.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Nearly all men can stand adversity, but if you want to test a man's character, give him power.” Abraham Lincoln <br><br>Utopia by Thomas More<br><br>Beyond Good and Evil by Friedrich Wilhelm Nietzsche<br><br>War and Peace by Leo Tolstoy<br><br>The Woman in White by Wilkie Collins<br><br>The War of the Worlds by H. G. Wells<br><br>The Trial by Franz Kafka<br><br>The Idiot by Fyodor Dostoyevsky<br><br>The Power of Nightmares<br><br> The Hollow Men by T. S. Eliot<br><br>As Kingfishers Catch Fire by Gerard Manley Hopkins<br><br>Work Without Hope by Samuel Taylor Coleridge",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user103"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user129"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user152"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user156"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user157"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user196"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user305"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user375"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user480"
+		}
+	],
+	"autoSlideTimer": 2
+}

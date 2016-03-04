@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Cities",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-traffic-patterns.m4v", "Time-lapse-sunset-on-sky-scrapers.m4v", "Time-lapse-sunset-over-distant-city-skyline.m4v", "T-l-day-to-night-high-angle-wide-shot-traffic-on-nanpu-bridge-spiral-shangh.m4v", "T-l-pedestrians-and-traffic-across-shibuya-crossing-at-night-shibuya-tokyo-.m4v", "T-l-people-walking-in-the-new-modern-shanghai-south-railway-station-shangha.m4v"], "title":"video title","type":"background"},
+	"main_text":"What strange phenomena we find in a great city, all we need do is stroll about with our eyes open. Life swarms with innocent monsters.” Charles Baudelaire<br><br>Composed upon Westminster Bridge by William Wordsworth<br><br>London, 1802 by William Wordsworth<br><br>The Cry of the Children by Elizabeth Barrett Browning<br><br>Frost at Midnight by Samuel Taylor Coleridge<br><br>The Lime-tree Bower, my Prision by Samuel Taylor Coleridge<br><br>The Diamond as Big as the Ritz by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user446"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user448"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user458"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user481"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user483"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user515"
+		}
+	],
+	"autoSlideTimer": 2
+}

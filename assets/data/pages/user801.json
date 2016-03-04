@@ -1,0 +1,21 @@
+{
+	"id":"user726",
+	"title":"Sir Arthur Conan Doyle",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Zoom-out-freeway-night-timelapse.m4v", "Zoom-out-from-christ-statue-over-rio.m4v", "Zoom-out-la-building-lights.m4v", "Zoom-out-new-york-city-freedom-tower-aerial.m4v", "Zoom-out-on-beautiful-nevada-desert-highway-landscape.m4v", "Zoom-out-on-earth-animation.m4v", "Zoom-out-on-earth-animation2.m4v", "Zoom-out-on-phoenix-arizona.m4v", "Zoom-out-on-space-shuttle-lift-off.m4v", "Zoom-out-on-thousands-of-seagulls-on-sandbar.m4v"],"title":"video title","type":"background"},
+	"main_text":"Sir Arthur Conan Doyle introduction<br><br>The Adventures of Sherlock Holmes<br><br>The Hound of the Baskervilles",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user118"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user128"
+		}
+	],
+	"autoSlideTimer": 2
+}

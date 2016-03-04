@@ -1,0 +1,84 @@
+{
+	"id":"user593",
+	"title":"Friends and Enemies",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Red-and-orange-galaxy.m4v", "Red-blood-cells-animation.m4v", "Red-blood-cells-animation2.m4v", "Red-flower-kaleidoscope.m4v", "Red-galaxy-with-sunburst.m4v", "Redblood-warp.m4v","Yellow-and-red-ink-mix-in-water.m4v","Slow-motion-red-and-blue-on-white-paint-splatter.m4v", "Slow-motion-red-and-white-paint-splatter.m4v", "Slow-motion-red-and-white-paint-splatter2.m4v","Slow-motion-splashing-red-paint-splatter.m4v","Swirling-fiery-streaks.m4v","Red-white-texture.m4v","Fireworks-montage2.m4v", "Graffiti-tags.m4v", "Graffiti-animation.m4v", "Jellyfish-floating-up.m4v", "Jellyfish-in-aquarium.m4v", "Jellyfish-in-aquarium2.m4v", "Swirling-plasma.m4v", "Liquid-smoke.m4v", "Neon-plasma-swirls.m4v", "Shifting-ceramic-tiles.m4v", "Slow-rotating-colorful-galaxy-cloud.m4v", "Yellow-jellyfish.m4v", "Orange-ink-in-water.m4v", "Starfish-tentacles-timelapse.m4v", "Streaming-light-shower-explosion.m4v"], 
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Friends and Enemies<br><br>Mendind Wall by Robert Frost<br><br>Dream Song 14: Life, Friends, is Boring by John Berryman<br><br>To a Friend by Matthew Arnold<br><br>The Apology by Ralph Waldo Emerson<br><br>The Laboratory by Robert Browning<br><br>The Lime-Tree Bower, my Prision by Samuel Taylor Coleridge<br><br>The Pleasures of Friendship by Stevie Smith<br><br>The Devoted Friend by Oscar Wilde<br><br>The Pupil by Henry James<br><br>Northanger Abbey by Jane Austen<br><br>A Little Princess by Frances Hodgson Burnett<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>The Hound of the Baskervilles by Arthur Conan Doyle<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>The Happy Prince by Oscar Wilde",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user241"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user302"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user396"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user404"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user408"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user483"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user484"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user502"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user517"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user93"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user104"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user128"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user169"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,49 @@
+{
+	"id":"user726",
+	"title":"Winter Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Colorful-alaskan-sunset.m4v", "Bright-glowing-winter-forest.m4v", "Multicolored-alaskan-sky.m4v", "Colorful-mountain-clouds.m4v", "Colorful-mountain-clouds2.m4v", "Cloud-blue-panning.m4v","People-outisde-in-snow-storm-2.m4v", "People-outside-in-snow-storm.m4v","People-walking-in-snow-storm-2.m4v","Aerial-shot-of-downtown-park-city-utah.m4v", "Aerial-shot-of-downtown-park-city-utah2.m4v"], "title":"video title","type":"background"},
+	"main_text":""I wonder if the snow loves the trees and fields, that it kisses them so gently? And then it covers them up snug, you know, with a white quilt, and perhaps it says, Go to sleep, darlings, till the summer comes again. Lewis Carroll in Alice's Adventures in Wonderland & Through the Looking-Glass"},<br><br>I Died For Beauty-But Was Scarce by Emily Dickinson (Winter)<br><br>I Heard A Fly Buzz-When I Died- by Emily Dickinson (Winter)<br><br>Because I Could Not Stop For Death- by Emily Dickinson (Winter)<br><br>Death In Leamington by John Betjeman (Winter)<br><br>Winter: My Secret by Christina Rossetti (Winter)<br><br>In Youth I have Known One by Edgar Allan Poe (Winter)<br><br>A Dead Friend by Algernon Charles Swinburne (Winter)<br><br>When You are Old by William Butler Yeats (Winter)<br><br>Easter 1916 by William Butler Yeats (Winter)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user636"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user643"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user648"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user731"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user732"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user733"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user823"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user824"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user825"
+		}
+	],
+	"autoSlideTimer": 2
+}

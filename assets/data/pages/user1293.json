@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Exploration",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Redblood-warp.m4v", "Neon-ink-in-water.m4v", "Hallway-graffiti.m4v", "Lightning-strikes-in-clouds.m4v", "Electric-blue-ink-in-water.m4v", "Energy-storm.m4v", "Giant-clouds-billow-into-the-sky.m4v", "Thailand-train-arriving.m4v", "Thee-motorcycles-speed-on-desert-highway.m4v"], "title":"video title","type":"background"},
+	"main_text":"Where should I go? -Alice. That depends on where you want to end up. - The Cheshire Cat."<br><br>Utopia by Thomas More<br><br>Alice’s Adventures in Wonderland by Lewis Carroll<br><br>Frankenstein by Mary Wollstonecraft Shelley<br><br>Through the Looking-Glass by Lewis Carroll",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user103"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user106"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user124"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user146"
+		}
+	],
+	"autoSlideTimer": 2
+}

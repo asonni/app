@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Jobs and Working",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["New-york-city-aerial-view-2.m4v", "New-york-city-aerial-view-3.m4v", "New-york-city-aerial-view-4.m4v", "New-york-city-manhattan-skyline-4.m4v", "New-york-city-manhattan-skyline-5.m4v", "New-york-city-manhattan-skyline-7.m4v", "New-york-city-manhattan-skyline.m4v", "New-york-city-skyline-aerial.m4v"], "title":"video title","type":"background"},
+	"main_text":"No work is insignificant. All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.” Martin Luther King Jr.<br><br>Work Without Hope by Samuel Taylor Coleridge<br><br>I Hear America Singing by Walt Whitman<br><br>Mowing by Robert Frost<br><br>After Apple Picking by Robert Frost<br><br>Canto XLV by Ezra Pound<br><br>The Mower's Song by Andrew Marvell",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user480"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user225"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user242"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user243"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user363"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user350"
+		}
+	],
+	"autoSlideTimer": 2
+}

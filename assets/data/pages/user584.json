@@ -1,0 +1,14 @@
+{
+	"id":"user584",
+	"title":"A Girl by Ezra Pound (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "44", "25"],
+	"video":{"src": ["Boston-skyline-4.m4v", "Boston-sunrise-skyline.m4v", "Boston-time-lapse-at-night.m4v", "Boston-time-lapse-sunrise.m4v", "Boston-time-lapse-sunrise2.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"The tree has entered my hands, <br><br> The sap has ascended my arms, <br><br> The tree has grown in my breast- <br><br> Downward, <br><br> The branches grow out of me, like arms. <br><br> <br><br> Tree you are, <br><br> Moss you are, <br><br> You are violets with wind above them. <br><br> A child - so high - you are, <br><br> And all this is folly to the world.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

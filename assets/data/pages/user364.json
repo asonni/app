@@ -1,0 +1,12 @@
+{
+				"id": "user364",
+				"title": "A Girl by Ezra Pound",
+				"exclude_from_menu": "true",
+				"image": "Darren Harmon.jpg",
+				"tag": ["15", "44", "25"],
+				"video": {
+					"src": ["Purple-buddha.m4v", "Purple-flowers-framed-by-green-leaves.m4v", "Purple-fractal-background.m4v", "Purple-lupines-near-beautiful-mountain-creek.m4v", "Purple-particle-orbs.m4v", "Purple-retro-flower-layers.m4v"],
+					"type": "background"	
+				},
+				"main_text": "The tree has entered my hands, <br> The sap has ascended my arms, <br> The tree has grown in my breast- <br> Downward, <br> The branches grow out of me, like arms. <br> <br> Tree you are, <br> Moss you are, <br> You are violets with wind above them. <br> A child - so high - you are, <br> And all this is folly to the world."
+			}

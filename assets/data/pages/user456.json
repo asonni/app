@@ -1,0 +1,12 @@
+{
+				"id": "user456",
+				"title": "Grief by Elizabeth Barrett Browning",
+				"exclude_from_menu": "true",
+				"image": "Neil Smith.jpg",
+				"tag": ["15", "46", "51"],
+				"video": {
+					"src": ["Moon-and-clouds-1.m4v", "Moon-and-clouds-3.m4v", "Moon-and-clouds-34.m4v", "Moon-and-misty-night-sky.m4v", "Moon-at-night-timelapse-1429.m4v", "Moon-beams-on-water.m4v", "Moon-lighting-up-night-sky-over-dc.m4v", "Moon-over-city.m4v", "Moon-reflecting-off-lake-at-night.m4v", "Moon-reflection-on-lake-by-campfire.m4v", "Moon-reflection-on-ocean.m4v", "Moon-rising-at-night.m4v", "Moon-rising-in-sky.m4v", "Moon-rising-over-edge-of-colorado-mountain-2.m4v", "Moon-rising-over-edge-of-colorado-mountain.m4v", "Moon-rising-over-la-timelapse.m4v", "Moon-rising-timelapse.m4v", "Mooner.m4v", "Moonlight-1443.m4v", "Moonlight.m4v", "Moonrise-nightscape.m4v", "Moonrise.m4v"],
+					"type": "background"	
+				},
+				"main_text": "I tell you hopeless grief is passionless,<br> That only men incredulous of despair,<br> Half-taught in anguish, through the midnight air<br> Beat upward to God's throne in loud access<br> Of shrieking and reproach. Full desertness<br> In souls, as countries, lieth silent-bare<br> Under the blanching, vertical eye-glare<br> Of the absolute heavens. Deep-hearted man, express<br> Grief for thy dead in silence like to death <br> Most like a monumental statue set<br> In everlasting watch and moveless woe<br> Till itself crumble to the dust beneath.<br> Touch it; the marble eyelids are not wet;<br> If it could weep, it could arise and go."
+			}

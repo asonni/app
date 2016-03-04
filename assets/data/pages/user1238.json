@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Travel",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Speeding-down-country-mountain-scenic-road.m4v", "Speeding-through-desert-forest.m4v", "Dry-winter-northern-california-highway.m4v", "Mountains-and-country-driving.m4v", "Mountains-and-glaciers-around-alaska.m4v", "Mountains-town-and-lake-wide-landscape.m4v"], "title":"video title","type":"background"},
+	"main_text":"Though the roads been rocky it sure feels good to me. Bob Marley<br><br>Ulysses by Lord Alfred Tennyson<br><br>somewhere I have never traveled by E. E. Cummings<br><br>Ozymandias by Percy Bysshe Shelley<br><br>Stopping by Woods on a Snowy Evening by Robert Frost<br><br>The Traveller by John Berryman<br><br>The River-Merchant's Wife by Ezra Pound",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user437"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user452"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user474"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user245"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user300"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user368"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,12 @@
+{
+	"id":"user710",
+	"title":"For each ecstatic instant by Emily Dickinson (White)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "5"],
+	"video":{"src":["White-caps-in-water-during-roaring-40s-storm.m4v", "White-rock-formations.m4v", "White-snow-forest-glow.m4v"],"title":"video title","type":"background"},
+	"main_text":"For each ecstatic instant<br><br>We must an anguish pay<br><br>In keen and quivering ratio<br><br>To the ecstasy.<br><br><br><br>For each beloved hour<br><br>Sharp pittances of years,<br><br>Bitter contested farthings<br><br>And coffers heaped with tears.",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

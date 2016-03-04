@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Stories about Power",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Niagara-falls-at-night.m4v", "Niagara-falls-canada-seen-beyond-niagara-river.m4v", "Niagara-falls-new-york-seen-from-canada.m4v", "Niagara-falls-niagara-river.m4v", "Niagara-falls.m4v", "Niagaras-falling-waters.m4v"], "title":"video title","type":"background"},
+	"main_text":"Society is inside of man and man is inside society, and you cannot even create a truthfully drawn psychological entity on the stage until you understand his social relations and their power to make him what he is and to prevent him from being what he is not. The fish is in the water and the water is in the fish.<br><br>Utopia by Thomas More<br><br>Beyond Good and Evil by Friedrich Wilhelm Nietzsche<br><br>War and Peace by Leo Tolstoy<br><br>The Woman in White by Wilkie Collins<br><br>The War of the Worlds by H. G. Wells<br><br>The Trial by Franz Kafka<br><br>The Idiot by Fyodor Dostoyevsky",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user103"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user129"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user152"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user156"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user157"
+		}
+	],
+	"autoSlideTimer": 2
+}

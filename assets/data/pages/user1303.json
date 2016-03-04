@@ -1,0 +1,49 @@
+{
+	"id":"user726",
+	"title":"Memory",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Or-columbia-gorge-multnomah-falls-3.m4v", "Oregon-metolius-river-flowing-water.m4v", "Oregon-rainclouds-timelapse.m4v", "Hospital-sunrise-panning.m4v", "Maui-clouds.m4v", "Maui-mountain-clouds.m4v", "Mediterranean-sunset.m4v", "Mississippi-river-sunset-pink.m4v", "Misty-forest-during-sunset.m4v", "Pink-and-purple-clouds.m4v", "Pink-and-yellow-skies-above-ocean-2.m4v", "Pink-and-yellow-skies-above-ocean-3.m4v", "Pink-and-yellow-skies-above-ocean-4.m4v", "Pink-and-yellow-skies-above-ocean.m4v"], "title":"video title","type":"background"},
+	"main_text":"There is no present or future, only the past, happening over and over again, now. EUGENE O'NEILL, A Moon for the Misbegotten<br><br>The Moonstone by Wilkie Collins<br><br>Gone With the Wind by Margaret Mitchel<br><br>The Great Gatsby by F. Scott Fitzgerald<br><br>Tess of the d'Urbervilles by Thomas Hardy<br><br>The Woman in White by Wilkie Collins<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>Winter dreams by F. Scott Fitzgerald<br><br>Kew Gardens by Virginia Woolf<br><br>Young Goodman Brown by Nathaniel Hawthorne",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user99"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user107"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user111"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user173"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user494"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user534"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Baby",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Clouds-moving-across-patagonia-countryside.m4v", "Clouds-moving-over-lush-valley-overlooking-na-pali-coast.m4v", "Clouds-moving-through-the-mountain.m4v", "Clouds-opening-and-sun-shining-through.m4v", "Clouds-over-hierve-el-agua.m4v", "Clouds-over-mountain-range.m4v", "Clouds-over-rock-canyon-cliffs-and-mountains.m4v"], "title":"video title","type":"background"},
+	"main_text":"Baby introduction<br><br>Born Yesterday by Philip Larkin<br><br>You're by Sylvia Plath<br><br>Babyhood by Algernon Charles Swinburne",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user228"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user249"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user342"
+		}
+	],
+	"autoSlideTimer": 2
+}

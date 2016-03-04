@@ -1,0 +1,12 @@
+{
+				"id": "user432",
+				"title": "Elegy by Siegfried Sassoon",
+				"exclude_from_menu": "true",
+				"image": "England.jpg",
+				"tag": ["15", "4"],
+				"video": {
+					"src": ["Bay-water-ripples.m4v", "Artistic-time-lapse-water-stream.m4v", "Babbling-brook-in-woods.m4v", "Changing-billowing-clouds.m4v", "Bacalar.m4v", "Baltic-clouds-timelapse.m4v", "Big-yellow-flowers-close-up-spinning.m4v", "Birds-flying-from-tree-water-reflection.m4v", "Birds-soaring-in-sky-above-shadowy-landscape.m4v", "Blue-flowers-stabilized.m4v"],
+					"type": "background"	
+				},"shuffle": "true",
+				"main_text": "Your dextrous wit will haunt us long <br> Wounding our grief with yesterday. <br> Your laughter is a broken song; <br> And death has found you, kind and gay. <br><br>We may forget those transient things<br> That made your charm and our delight: <br> But loyal love has deathless wings <br> That rise and triumph out of night. <br><br>So, in the days to come, your name <br> Shall be as music that ascends <br> When honour turns a heart from shame... <br> O heart of hearts! ... O friend of friends!"
+			}

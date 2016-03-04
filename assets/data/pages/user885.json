@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Glory Of Women by Siegfried Sassoon (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "4", "25", "43"],
+	"video":{"src": ["Los-angeles-cargo-ship-at-dock.m4v", "Los-angeles-city-daylight-tl.m4v", "Los-angeles-dodger-stadium-parking.m4v", "Los-angeles-downtown-city-time-lapse.m4v", "Los-angeles-downtown-city-time-lapse2.m4v"], "title":"video title","type":"background"},
+	"main_text":"You love us when we're heroes, home on leave, <br><br> Or wounded in a mentionable place. <br><br> You worship decorations; you believe <br><br> That chivalry redeems the war's disgrace. <br><br> You make us shells. You listen with delight, <br><br> By tales of dirt and danger fondly thrilled. <br><br> You crown our distant ardours while we fight, <br><br> And mourn our laurelled memories when we're killed. <br><br> You can't believe that British troops 'retire' <br><br> When hell's last horror breaks them, and they run, <br><br> Trampling the terrible corpses--blind with blood. <br><br> O German mother dreaming by the fire, <br><br> While you are knitting socks to send your son <br><br> His face is trodden deeper in the mud.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

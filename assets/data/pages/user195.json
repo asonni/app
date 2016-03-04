@@ -1,0 +1,17 @@
+{"id":"user195","title":"","exclude_from_menu":"true","image":"","tag": "39","normal_videos": [
+		{"index": 0, "name": ""}
+	],"main_text":"</p>"}
+						
+{
+	"id":"user544",
+	"title":"The Stranger",
+	"image":"stranger.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "The_Stranger_512kb.mp4"}
+	]
+}						

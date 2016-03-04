@@ -1,0 +1,57 @@
+{
+	"id":"user726",
+	"title":"Stories adout Friendship",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Water-at-the-bottom-of-autumn-valley-in-aspen-3.m4v", "Water-at-the-bottom-of-autumn-valley-in-aspen-5.m4v", "Water-bubbles-underwater.m4v", "Water-city-landscape.m4v", "Water-droplet-dark-green.m4v", "Water-rolling-over-a-rock.m4v", "Water-running-in-fern-canyon-stream.m4v", "Water-texture.m4v", "Water01.m4v", "Water02.m4v", "Water05.m4v"], "title":"video title","type":"background"},
+	"main_text":"Stories adout Friendship introduction<br><br>Captain Burle by Emile Zola<br><br>The Devoted Friend by Oscar Wilde<br><br>The Beast in the Jungle by Henry James<br><br>A Little Princess by Frances Hodgson Burnett<br><br>Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>The Hound of the Baskervilles by Arthur Conan Doyle<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>The Happy Prince by Oscar Wilde<br><br>Northanger Abbey by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user522"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user502"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user518"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user104"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user128"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user169"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user93"
+		}
+	],
+	"autoSlideTimer": 2
+}

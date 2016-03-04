@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Lord Alfred Tennyson",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Starring-universe.m4v", "Starry-sky-in-space.m4v", "Stars-and-colors-in-space.m4v", "Stars-circling-in-galaxy.m4v", "Sunburst-on-surface.m4v", "Sunny-and-starry-sky-in-space.m4v", "Swirling-galaxy.m4v"], "title":"video title","type":"background"},
+	"main_text":"Lord Alfred Tennyson introduction<br><br>The Eagle<br><br>The Lady of Shalott<br><br>The Charge Of The Light Brigade<br><br>Ulysses<br><br>A Farewell<br><br>Ulysses (Mountains)<br><br>The Eagle (Eagle)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user434"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user435"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user436"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user437"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user438"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1090"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1100"
+		}
+	],
+	"autoSlideTimer": 2
+}

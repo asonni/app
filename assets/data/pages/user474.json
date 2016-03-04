@@ -1,0 +1,12 @@
+{
+				"id": "user474",
+				"title": "Ozymandias by Percy Bysshe Shelley",
+				"exclude_from_menu": "true",
+				"image": "QQ Li flower.jpg",
+				"tag": ["15", "3"],
+				"video": {
+					"src": ["Old-house-desert-timelapse.m4v", "Old-record-needle-dropping-onto-spinning-record.m4v", "Old-stone-building-and-clouds.m4v", "Old-town-street.m4v", "Old-tree-base-in-desert-landscape-1.m4v", "Old-tree-base-in-desert-landscape-2.m4v", "Old-woman-in-street.m4v"],
+					"type": "background"	
+				},
+				"main_text": "I met a traveller from an antique land<br> Who said: Two vast and trunkless legs of stone<br> Stand in the desert. Near them on the sand,<br> Half sunk, a shatter'd visage lies, whose frown<br> And wrinkled lip and sneer of cold command<br> Tell that its sculptor well those passions read<br> Which yet survive, stamp'd on these lifeless things,<br> The hand that mock'd them and the heart that fed.<br> And on the pedestal these words appear:<br> 'My name is Ozymandias, king of kings:<br> Look on my works, ye Mighty, and despair!'<br> Nothing beside remains. Round the decay<br> Of that colossal wreck, boundless and bare,<br> The lone and level sands stretch far away."
+			}

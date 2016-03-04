@@ -1,0 +1,14 @@
+						
+{
+	"id":"user544",
+	"title":"Beat the Devil",
+	"image":"beat the devil.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"On their way to Africa are a group of rogues who hope to get rich there, and a seemingly innocent British couple. They meet and things happen...",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "Beat.mp4"}
+	]
+}						

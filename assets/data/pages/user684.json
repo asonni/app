@@ -1,0 +1,29 @@
+{
+	"id":"user684",
+	"title":"D. H. Lawrence",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Red-and-orange-galaxy.m4v", "Red-blood-cells-animation.m4v", "Red-blood-cells-animation2.m4v", "Red-flower-kaleidoscope.m4v", "Red-galaxy-with-sunburst.m4v"],"title":"video title","type":"background"},
+	"main_text":"D. H. Lawrence introduction<br><br>The Odor of Chrysanthemums<br><br>The Rocking Horse Winner<br><br>Women in Love<br><br>The Princess",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user495"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user158"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user166"
+		}
+	],
+	"autoSlideTimer": 2
+}

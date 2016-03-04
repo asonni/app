@@ -1,0 +1,21 @@
+{
+	"id":"user726",
+	"title":"James Joyce",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Fireworks-montage.m4v", "Fireworks-montage2.m4v", "Fish-swimming-with-jellyfish.m4v", "Graffiti-tags.m4v", "Graffiti-animation.m4v", "Jellyfish-floating-up.m4v", "Jellyfish-in-aquarium.m4v", "Swirling-plasma.m4v", "Liquid-smoke.m4v"], "title":"video title","type":"background"},
+	"main_text":"James Joyce introduction<br><br>The Dead<br><br>Eveline<br><br>",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user172"
+		}
+	],
+	"autoSlideTimer": 2
+}

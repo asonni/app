@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Matthew Arnold",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Shooting-galaxy.m4v", "Shooting-galaxy2.m4v", "Shooting-stars-over-desert-tree.m4v", "Shooting-stars-timelapse.m4v"],"title":"video title","type":"background"},
+	"main_text":"Matthew Arnold introduction<br><br>Dover Beach<br><br>The Future<br><br>Growing Old<br><br>Longing<br><br>To a Friend<br><br>Shakespeare <br><br>East London<br><br>The Voice<br><br>The Voice (City)<br><br>The Voice (Beach)<br><br>Dover Beach (Beach)<br><br>The Future (Nature)<br><br>The Future (Noir)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user392"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user393"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user394"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user395"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user396"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user397"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user398"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user399"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user605"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user679"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user804"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user847"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user1041"
+		}
+	],
+	"autoSlideTimer": 2
+}

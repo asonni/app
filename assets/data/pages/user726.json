@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Nothing Gold Can Stay by Robert Frost (Autumn)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "28"],
+	"video":{"src":["Slow-motion-autumn-leaves-falling-1.m4v","Slow-mo-autumn-leaves-floating-to-the-ground.m4v", "Slow-mo-fall-leaves-against-blazing-blue-sky.m4v","Tilt-up-from-nature-to-skyscrapers.m4v","Dolly-autumn-trees.m4v"], "title":"video title","type":"background"},
+	"main_text":"Nature's first green is gold,<br><br>Her hardest hue to hold.<br><br>Her early leaf's a flower;<br><br>But only so an hour.<br><br>Then leaf subsides to leaf.<br><br>So Eden sank to grief,<br><br>So dawn goes down to day.<br><br>Nothing gold can stay.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

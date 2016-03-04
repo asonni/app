@@ -1,0 +1,39 @@
+{
+	"id":"user726",
+	"title":"Children",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Moving-yellow-rose-close-up.m4v",  "Moving-yellow-rose-close-up.m4v", "Sunrise-to-sunset-over-valley.m4v","Sunrise-clouds-2.m4v", "Sunrise-clouds.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water-with-zoom-out.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water-with-zoom-out2.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water.m4v","Vibrant-sunset-over-field.m4v"], 
+	"title":"video title",
+	"type":"background"},
+	"main_text":"I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. Martin Luther King Jr.<br><br>Peter Pan by J. M. Barrie<br><br>Oliver Twist by Charles Dickens<br><br>The Chimney Sweeper (Experience) by William Blake<br><br>The Ball Poem by John Berryman<br><br>Not A Child by Algernon Charles Swinburne<br><br>The Cry of the Children by Elizabeth Barrett Browning",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user123"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user136"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user282"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user299"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user344"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user458"
+		}
+	],
+	"autoSlideTimer": 2
+}

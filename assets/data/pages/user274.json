@@ -1,0 +1,12 @@
+{
+				"id": "user274",
+				"title": "Hope is the thing with feathers by Emily Dickinson",
+				"exclude_from_menu": "true",
+				"image": "QQ Li flower.jpg",
+				"tag": ["10", "15", "5", "39"],
+				"video": {
+					"src": ["Puffy-white-clouds-moving-across-blue-sky-on-a-sunny-day.m4v", "Serene-beach-at-sunset-with-beach-goer.m4v", "Serene-beach-at-sunset.m4v", "Sea-of-galilee-through-trees-at-sunset-2.m4v", "Sea-of-galilee-through-trees-at-sunset-3.m4v", "Smooth-sky.m4v", "Swirling-sunset-sky.m4v", "Quick-pan-of-sunlight-shining-down-on-valley.m4v", "Orchid-with-dripping-water.m4v", "Orchard-of-pink-blossomed-trees.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Hope is the thing with feathers<br>That perches in the soul,<br>And sings the tune--without the words,<br>And never stops at all,<br><br>And sweetest in the gale is heard;<br>And sore must be the storm <br>That could abash the little bird<br>That kept so many warm.<br><br>I've heard it in the chillest land,<br>And on the strangest sea;<br>Yet, never, in extremity,<br>It asked a crumb of me."
+			}

@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Unrequited Love",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Storm-surge-surf-waves.m4v","Stormy-seas.m4v", "Wake-following-ship-in-pacific-ocean.m4v","Aerial-shot-of-speed-boat-flyover.m4v", "Hd-pirate-ship.m4v"], "title":"video title","type":"background"},
+	"main_text":"The beautiful things of the earth become more dear as they elude pursuit. <br><br>The Definition of Love by Andrew Marvell<br><br>Love among the Ruins by Robert Browning<br><br>Life in a love by Robert Browning<br><br>Love in a life by Robert Browning",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user347"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user410"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user411"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user412"
+		}
+	],
+	"autoSlideTimer": 2
+}

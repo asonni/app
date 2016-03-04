@@ -1,0 +1,12 @@
+{
+				"id": "user443",
+				"title": "That Time Of Year Thou Mayst In Me Behold by William Shakespeare",
+				"exclude_from_menu": "true",
+				"image": "Joe Dunckley.jpg",
+				"tag": ["15", "9", "41", "43", "10"],
+				"video": {
+					"src": ["Country-backroads-zoom.m4v", "Country-driving-pov.m4v", "Country-driving-winding-road.m4v", "Country-road-landscape.m4v", "Countryside-bright-sun-glare.m4v", "Countryside-driving-timelapse.m4v", "Countryside-home-in-snowy-winter-medium-view.m4v", "Countryside-sunset.m4v", "Countryside-trees-getting-rained-on.m4v"],
+					"type": "background"	
+				},
+				"main_text": "That time of year thou mayst in me behold<br> When yellow leaves, or none, or few, do hang<br> Upon those boughs which shake against the cold,<br> Bare ruined choirs, where late the sweet birds sang.<br> In me thou see'st the twilight of such day<br> As after sunset fadeth in the west;<br> Which by and by black night doth take away,<br> Death's second self, that seals up all in rest.<br> In me thou see'st the glowing of such fire,<br> That on the ashes of his youth doth lie,<br> As the deathbed whereon it must expire,<br> Consumed with that which it was nourished by.<br> This thou perceiv'st, which makes thy love more strong,<br> To love that well which thou must leave ere long."
+			}

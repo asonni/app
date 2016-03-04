@@ -1,0 +1,73 @@
+{
+	"id":"user726",
+	"title":"Man",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Storm-surge-surf-waves.m4v","Stormy-seas.m4v", "Wake-following-ship-in-pacific-ocean.m4v","Aerial-shot-of-speed-boat-flyover.m4v", "Hd-pirate-ship.m4v"], "title":"video title","type":"background"},
+	"main_text":"I think God, in creating man, somewhat overestimated his ability.” Oscar Wilde<br><br>Metamorphosis by Franz Kafka<br><br>Tess of the d'Urbervilles by Thomas Hardy<br><br>Moby Dick by Herman Melville<br><br>The Prince by Nicolo Machiavelli<br><br>The Jungle Book by Rudyard Kipling<br><br>Far from the Madding Crowd by Thomas Hardy<br><br>The Life and Adventures of Robinson Crusoe by Daniel Defoe<br><br>The Time Machine by H. G. Wells<br><br>The Legend of Sleepy Hollow by Washington Irving<br><br>If by Rudyard Kipling<br><br>The Man who Would be King by Rudyard Kipling<br><br>Not A Child by Algernon Charles Swinburne<br><br>To his Coy Mistress  by Andrew Marvell<br><br>Kew Gardens by Virginia Woolf<br><br>The birthmark by Nathaniel Hawthorne",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user105"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user131"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user137"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user141"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user233"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user239"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user344"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user346"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user494"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user535"
+		}
+	],
+	"autoSlideTimer": 2
+}

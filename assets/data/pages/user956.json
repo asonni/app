@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Henry Vaughan",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-orange-paint-splatter-2.m4v", "Slow-motion-orange-paint-splatter.m4v", "Slow-motion-pennies-into-fountain-water.m4v", "Slow-motion-pink-flowers.m4v", "Slow-motion-pond-fountain-shooting-water.m4v", "Slow-motion-pouring-glass-of-water.m4v"], "title":"video title","type":"background"},
+	"main_text":"Henry Vaughan introduction<br><br>They Are All Gone Into The World of Light!<br><br>The Revival<br><br>The World<br><br>The Water-Fall<br><br>Regeneration<br><br>The World (Nature)<br><br>The World (?)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user376"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user377"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user378"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user379"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user380"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user929"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1049"
+		}
+	],
+	"autoSlideTimer": 2
+}

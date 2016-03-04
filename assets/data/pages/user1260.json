@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Mortality",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-blue-skies-during-ocean-sunset-2.m4v", "Yellow-and-blue-skies-during-ocean-sunset.m4v", "Yellow-and-red-sunset-over-shimmering-ocean-beach-2.m4v", "Yellow-and-red-sunset-over-shimmering-ocean-beach-4.m4v"], "title":"video title","type":"background"},
+	"main_text":"As soon as one is born, one starts dying.LUIGI PIRANDELLO, Henry IV<br><br>Don Quixote by Miguel de Cervantes<br><br>The Story of an Hour by Kate Chopin<br><br>The Birthmark by Nathaniel Hawthorne<br><br>Romeo and Juliet by William Shakespeare",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user153"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user498"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user535"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user109"
+		}
+	],
+	"autoSlideTimer": 2
+}

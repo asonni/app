@@ -1,0 +1,13 @@
+{
+	"id":"user726",
+	"title":"The Eagle by Lord Alfred Tennyson (Eagle)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "41", "48"],
+	"video":{"src":["Slow-motion-bald-eagle-catches-fish.m4v", "Slow-motion-bald-eagle-in-flight.m4v", "Slow-motion-bald-eagle-skimming-water.m4v", "Slow-motion-bald-eagle-soaring-over-treetops.m4v", "Slow-motion-bald-eagle-spearing-fish.m4v"], 
+	"title":"video title",
+	"type":"background"},
+	"main_text":"He clasps the crag with crooked hands;<br><br>Close to the sun in lonely lands,<br><br>Ring'd with the azure world, he stands.<br><br><br><br>The wrinkled sea beneath him crawls;<br><br>He watches from his mountain walls,<br><br>And like a thunderbolt he falls.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

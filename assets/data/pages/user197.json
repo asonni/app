@@ -1,0 +1,13 @@
+						{
+	"id":"user197",
+	"title":"Phantom of the Opera",
+	"image":"phantomoftheopera.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"A mad, disfigured composer seeks love with a lovely young opera singer.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "Phantom_of_the_Opera_512kb.mp4"}
+	]
+}						

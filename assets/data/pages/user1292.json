@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Poverty",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Child-sitting-on-a-rock-near-village-in-kenya.m4v", "Children-playing-in-the-dirt-road-in-kenya.m4v", "Children-playing-soccer-on-the-fields-5.m4v", "Children-playing-soccer-on-the-fields-7.m4v", "Children-sitting-on-a-bench-in-a-kenyan-village.m4v", "Children-stand-in-front-of-ethiopian-refugee-camp.m4v", "Kid-on-rock-near-mombassa.m4v", "Kids-making-faces-at-the-camera-in-africa.m4v", "Kids-near-a-village-in-kenya-5.m4v", "Kids-near-a-village-in-kenya-6.m4v", "Kids-swarm-around-the-camera-in-africa.m4v", "Kids-wash-clothes-in-river.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Poverty is the parent of revolution and crime.” Aristotle<br><br>Little Women by Louisa May Alcott<br><br>David Copperfield by Charles Dickens<br><br>Eveline by James Joyce<br><br>High windows by Philip Larkin<br><br>London by William Blake<br><br>Holy Thursday (Experience) by William Blake<br><br>He wishes for the Cloths of Heaven by Yeats<br><br>East London by Matthew Arnold<br><br>The Rocking Horse Winner by D. H. Lawrence<br><br>Alyosa the Pot by Leo Tolstoy",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user112"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user149"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user232"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user279"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user284"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user322"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user398"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user526"
+		}
+	],
+	"autoSlideTimer": 2
+}

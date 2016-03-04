@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Desire",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-rotating-colorful-galaxy-cloud.m4v", "Yellow-jellyfish.m4v", "Orange-ink-in-water.m4v", "Starfish-tentacles-timelapse.m4v", "Streaming-light-shower-explosion.m4v", "Tomato-juice-explosion.m4v", "Underwater-bahamas-fish.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I have too many fantasies to be a housewife.... I guess I am a fantasy.” Marilyn Monroe<br><br>Coming Through the Rye by Robert Burns<br><br>Th'espense of Spirit in a Waste of Shame by William Shakespeare<br><br>The Flea by John Donne<br><br>The Ecstasy by John Donne<br><br>A Birthday  by Christina Rossetti<br><br>To his Coy Mistress by Marvell<br><br>The Garden by Andrew Marvell<br><br>The River-Merchant's Wife by Ezra Pound",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user414"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user441"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user466"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user471"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user266"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user346"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user348"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user368"
+		}
+	],
+	"autoSlideTimer": 2
+}

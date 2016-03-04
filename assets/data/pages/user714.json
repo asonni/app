@@ -1,0 +1,25 @@
+{
+	"id":"user714",
+	"title":"Violence and Guns Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Shooting-automatic-gun-on-backdrop-4.m4v","Slow-motion-shooting-explosion.m4v","Slow-motion-strong-explosion.m4v","Slow-motion-dropping-and-breaking-piggy-bank.m4v", "Slow-motion-destroying-sheet-of-glass.m4v","Slow-motion-smashing-alarm-clock-with-sledgehammer.m4v"],"title":"video title","type":"background"},
+	"main_text":"Violence and Guns Visuals<br><br>Daddy by Sylvia Plath (Violence)<br><br>Lady Lazarus by Sylvia Plath (Guns and Violence)<br><br>The Young Soldier by Wilfred Owen (Guns)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user721"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user725"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user747"
+		}
+	],
+	"autoSlideTimer": 2
+}

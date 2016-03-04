@@ -1,0 +1,12 @@
+{
+				"id": "user444",
+				"title": "My mistress' eyes are nothing like the sun by William Shakespeare",
+				"exclude_from_menu": "true",
+				"image": "I k o8.jpg",
+				"tag": ["15", "9", "43", "38"],
+				"video": {
+					"src": ["Crazy-storm-clouds-rolling-over-green-landscape.m4v"],
+					"type": "background"	
+				},
+				"main_text": "My mistress' eyes are nothing like the sun;<br> Coral is far more red than her lips' red;<br> If snow be white, why then her breasts are dun;<br> If hairs be wires, black wires grow on her head.<br> I have seen roses damasked, red and white,<br> But no such roses see I in her cheeks;<br> And in some perfumes is there more delight<br> Than in the breath that from my mistress reeks.<br> I love to hear her speak, yet well I know<br> That music hath a far more pleasing sound;<br> I grant I never saw a goddess go;<br> My mistress when she walks treads on the ground.<br> And yet, by heaven, I think my love as rare<br> As any she belied with false compare."
+			}

@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Language and Communication",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Swirling-plasma.m4v","Slow-motion-bright-orange-smoke.m4v","Slow-motion-orange-on-white-paint-splatter.m4v", "Slow-motion-orange-paint-splatter-2.m4v", "Slow-motion-orange-paint-splatter.m4v"], "title":"video title","type":"background"},
+	"main_text":"The business of art is to reveal the relation betwean man and his circumambient universe at the living moment.<br><br>Much Ado About Nothing by William Shakespeare<br><br>The Adventures of Tom Sawyer by Mark Twain<br><br>Through the Looking-Glass by Lewis Carroll<br><br>The story of an Hour by Kate Chopin",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user108"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user116"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user498"
+		}
+	],
+	"autoSlideTimer": 2
+}

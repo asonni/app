@@ -1,0 +1,24 @@
+{
+	"id":"user561",
+	"title":"Mark Twain",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Desert-factory.m4v", "Desert-hills-with-vibrant-colored-sunset.m4v", "Desert-landscape-giant-cloud-shadow-timelapse.m4v", "Desert-sand-cloud-shadow-timelapse.m4v", "Aerial-shots-of-red-rock-desert-buttes-and-sage-desert.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Mark Twain introduction<br><br>The Adventures of Tom Sawyer<br><br>Adventures of Huckleberry Finn",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user116"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user117"
+		}
+	],
+	"autoSlideTimer": 2
+}

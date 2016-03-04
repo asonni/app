@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"A Girl by Ezra Pound (Noir)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "44", "25"],
+	"video":{"src":["Descending-escalator.m4v", "Dirt-road-at-night.m4v", "Dirt-road-at-night-2.m4v", "Dock-crane-offloading-freighter.m4v", "Docked-freighter-on-south-china-sea.m4v", "Doorway-and-stone-steps-at-mosque.m4v", "Down-escalator-in-station.m4v", "Dramatic-storm-clouds-over-green-landscape.m4v", "Dramatic-time-lapse-clouds-roll-over-barbed-fence.m4v"], "title":"video title","type":"background"},
+	"main_text":"The tree has entered my hands, <br><br> The sap has ascended my arms, <br><br> The tree has grown in my breast- <br><br> Downward, <br><br> The branches grow out of me, like arms. <br><br> <br><br> Tree you are, <br><br> Moss you are, <br><br> You are violets with wind above them. <br><br> A child - so high - you are, <br><br> And all this is folly to the world.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

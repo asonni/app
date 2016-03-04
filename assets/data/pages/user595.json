@@ -1,0 +1,60 @@
+{
+	"id":"user595",
+	"title":"Stories about Wealth",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Time-lapse-las-vegas-skyline-sunrise.m4v", "Time-lapse-las-vegas-skyline-through-buildings.m4v", "Time-lapse-las-vegas-skyline-tight.m4v", "Time-lapse-of-the-transition-from-dusk-to-night-showing-the-illumination-on.m4v", "Time-lapse-night-scape.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"“To be wealthy and honored in an unjust society is a disgrace.”Confucius, The Analects"<br><br>Utopia by Thomas More<br><br>The Great Gatsby by F. Scott Fitzgerald<br><br>The Life and Adventures of Robinson Crusoe by Daniel Defoe<br><br>The Legend of Sleepy Hollow by Washington Irving<br><br>Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant<br><br>The Prince and the Pauper by Mark Twain<br><br>Madame Bovary by Gustave Flaubert<br><br>Portrait of a Lady by T. S. Eliot<br><br>The Rocking Horse Winner by D. H. Lawrence<br><br>The Diamond as Big as the Ritz by F. Scott Fitzgerald<br><br>The Ice Palace by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user103"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user111"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user137"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user141"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user144"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user148"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user304"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user515"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user516"
+		}
+	],
+	"autoSlideTimer": 2
+}

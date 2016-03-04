@@ -1,0 +1,11 @@
+<img ng-src="{{pageObj.page.currImage}}" ng-show="pageObj.page.currImage" ng-class="{mobile: pageObj.isMobile}" class="bg-image"/>
+<div id="backgroundVideoContainer" ng-show="!pageObj.landingPage && pageObj.videoState.playing && pageObj.videoState.type == 'background' && pageObj.currVideoSrc" class="video-container">
+  <video id="playerBg" class="bg-video" muted autoplay loop>
+	  <source src="{{pageObj.currVideoSrc | trustUrl}}" data-t="{{pageObj.currVideoSrc}}" type="video/mp4">
+	Your browser does not support the video tag.
+	</video>
+</div>
+
+<div class="container-wrapper bg-video-overlay test active"></div>
+
+<!-- <div ng-class="{'active': pageObj.videoObj.background && pageObj.videoState.type == 'background' && pageObj.isVideo || pageObj.isMobileBgImg, 'test': pageObj.test}" class="container-wrapper bg-video-overlay"></div> -->

@@ -1,0 +1,14 @@
+{
+	"id":"user616",
+	"title":"Nothing Gold Can Stay by Robert Frost (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "28"],
+	"video":{"src": [ "New-york-city-in-the-distances.m4v", "New-york-city-intersection-in-rain-timelapse-3.m4v", "New-york-city-intersection-in-rain-timelapse-5.m4v", "New-york-city-intersection-in-rain-timelapse.m4v", "New-york-city-manhattan-skyline-12.m4v", "New-york-city-manhattan-skyline-2.m4v", "New-york-city-manhattan-skyline-3.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Nature's first green is gold,<br><br>Her hardest hue to hold.<br><br>Her early leaf's a flower;<br><br>But only so an hour.<br><br>Then leaf subsides to leaf.<br><br>So Eden sank to grief,<br><br>So dawn goes down to day.<br><br>Nothing gold can stay.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

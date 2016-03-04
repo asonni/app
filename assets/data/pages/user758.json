@@ -1,0 +1,17 @@
+{
+	"id":"user726",
+	"title":"Stories about Imagination",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Waterfall-in-alaskan-forest.m4v", "Waterfall-medium-shot.m4v", "Waterfall-on-forested-mountain.m4v", "Waterfalls-and-river-basin-3.m4v", "Waterfalls-at-sunset.m4v"],"title":"video title","type":"background"},
+	"main_text":"“Fantasy is hardly an escape from reality. It's a way of understanding it.” Lloyd Alexander”<br><br>Emma by Jane Austen",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user94"
+		}
+	],
+	"autoSlideTimer": 2
+}

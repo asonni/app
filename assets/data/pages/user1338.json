@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Children, Youth and Innocence",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Terrain.m4v", "String-theory.m4v", "String-theory2.m4v", "Storm-cloud.m4v", "Small-gun-fire.m4v", "Speeding-los-angeles-highway-cars.m4v", "Slow-motion-bright-orange-smoke.m4v"], "title":"video title","type":"background"},
+	"main_text":"Some day you will be old enough to start reading fairy tales again.” C.S. Lewis<br><br>Children<br><br>Coming of Age<br><br>Innocence<br><br>Youth Poetry<br><br>Stories About Youth",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1267"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1265"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1258"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1317"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user757"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Man and Gender",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Billowing-cumulus-clouds.m4v", "Billowing-clouds-day-to-night.m4v", "Creepy-and-rundown-abandoned-building.m4v", "Flat-desert-factory.m4v", "Smoke-stack.m4v", "Industrial-smoke-stacks.m4v", "Slow-motion-blue-smoke.m4v", "Slow-motion-cloudy-grey-smoke.m4v", "Time-lapse-storm-clouds-and-weather-station.m4v", "Sunrise-construction-washington-dc.m4v"], "title":"video title","type":"background"},
+	"main_text":"“What would men be without women? Scarce, sir...mighty scarce.” ― Mark Twain<br><br>Man<br><br>Man, Change, the Natural World and Gender<br><br>Masculinity",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1274"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1329"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1064"
+		}
+	],
+	"autoSlideTimer": 2
+}

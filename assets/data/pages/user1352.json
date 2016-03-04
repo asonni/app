@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Power and Judgement",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Boston-skyline-4.m4v", "Boston-sunrise-skyline.m4v", "Boston-time-lapse-at-night.m4v", "Boston-time-lapse-sunrise.m4v", "Boston-time-lapse-sunrise2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Power without love is reckless and abusive, and love without power is sentimental and anemic. Power at its best is love implementing the demands of justice, and justice at its best is power correcting everything that stands against love.” Martin Luther King Jr.<br><br>Power<br><br>Politics<br><br>Rules and Order<br><br>Justice and Judgement<br><br>Stories About Power",
+	"shuffle": true,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1297"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1270"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1266"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1272"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user760"
+		}
+	],
+	"autoSlideTimer": 2
+}

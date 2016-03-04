@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Stories about Adventure",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Stone-ruins-and-sunrays-through-clouds-2389.m4v", "Stone-ruins-rock-walls-and-greenery-6.m4v", "Stone-ruins-rock-walls-and-greenery-with-cloud-cover.m4v", "Stone-ruins-rock-walls-archway-2.m4v", "Stone-ruins-rock-walls-archway.m4v", "Stone-tunnel-leading-to-stairs-3.m4v", "Stone-tunnel-stairway-exit.m4v", "Stone-wall-and-columns-at-beit-shean-ruins-in-israel-2.m4v", "Stone-wall-and-columns-at-beit-shean-ruins-in-israel-3.m4v"], "title":"video title","type":"background"},
+	"main_text":"Two roads diverged in a wood, and I- I took the one less traveled by, And that has made all the difference. Robvert Frost<br><br>Alice’s Adventures in Wonderland by Lewis Carroll<br><br>The Adventures of Tom Sawye by Mark Twain<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>The Life and Adventures of Robinson Crusoe by Daniel Defoe<br><br>The Wonderful Wizard of Oz by L. Frank Baum<br><br>The Odyssey by Homer",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user106"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user116"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user137"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user150"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user163"
+		}
+	],
+	"autoSlideTimer": 2
+}

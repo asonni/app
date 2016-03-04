@@ -1,0 +1,12 @@
+{
+				"id": "user279",
+				"title": "London by William Blake",
+				"exclude_from_menu": "true",
+				"image": "Trey Ratcliff8.jpg",
+				"tag": ["15", "18"], 
+				"video": {
+					"src": ["Aerial-warehouse-view.m4v", "Slow-motion-rain-on-umbrella.m4v","Windy-flurry-at-night.m4v", "Crazy-storm-clouds-rolling-over-green-landscape.m4v", "White-and-grey-clouds-in-the-sky.m4v",  "Colors-reflecting-on-clouds-in-timelapse.m4v", "Boston-time-lapse-at-night.m4v", "Boston-time-lapse-at-night.m4v"],
+					"type": "background"	
+				},
+				"main_text": "I wander thro' each charter'd street.<br>Near where the charter'd Thames does flow<br>A mark in every face I meet<br>Marks of weakness, marks of woe.<br><br>In every cry of every Man.<br>In every Infants cry of fear.<br>In every voice; in every ban.<br>The mind-forg'd manacles I hear<br><br>How the Chimney-sweepers cry<br>Every blackening Church appalls.<br>And the hapless Soldiers sigh<br>Runs in blood down Palace walls<br><br>But most thro' midnight streets I hear<br>How the youthful Harlot's curse<br>Blasts the new-born Infant's tear<br>And blights with plagues the Marriage hearse"
+			}

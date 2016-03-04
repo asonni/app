@@ -1,0 +1,74 @@
+{
+	"id":"user726",
+	"title":"God",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunrise-breaking-over-city-time-lapse.m4v", "Sunrise-city-panning.m4v", "Sunrise-clouds-2.m4v", "Sunrise-clouds.m4v", "Sunrise-construction-washington-dc.m4v", "Sunrise-freedom-tower-and-financial-district-nyc-aerial.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"Never lose an opportunity of seeing anything beautiful, for beauty is God's handwriting. Ralph Waldo Emerson<br><br>The Answer by Rudyard Kipling<br><br>I Heard a Fly Buzz-When I Died by Emily Dickinson<br><br>God's Grandeur  by Gerard Manley Hopkins<br><br>I Wake and Feel the Fell of Dark, Not Day by Gerard Manley Hopkins<br><br>They Are All Gone Into the World of Light! by Henry Vaughan<br><br>The World by Henry Vaughan<br><br>The Water-Fall by Henry Vaughan<br><br>next to of course god america I by E. E. Cummings<br><br>The Cry of the Children by Elizabeth Barrett Browning<br><br>Holy Sonnet XIV: Batter my Heart, Three-Personed God by John Donne<br><br> Epigram by Samuel Taylor Coleridge<br><br>Frost at Midnight by Samuel Taylor Coleridge<br><br>The Lime-Tree Bower, my Prision by Samuel Taylor Coleridge<br><br>God Sees the Truth, but Waits by Leo Tolstoy",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user236"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user271"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user370"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user373"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user376"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user378"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user379"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user450"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user458"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user470"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user479"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user481"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user483"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user528"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user470"
+		}
+	],
+	"autoSlideTimer": 2
+}

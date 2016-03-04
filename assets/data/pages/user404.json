@@ -1,0 +1,12 @@
+{
+				"id": "user404",
+				"title": "The Apology by Ralph Waldo Emerson",
+				"exclude_from_menu": "true",
+				"image": "The B's.jpg",
+				"tag": ["15", "45"],
+				"video": {
+					"src": ["Wide-angle-cloud-and-sky-scraper-timelapse.m4v", "Wide-santa-monica-beach-tilt-shift-timelapse.m4v", "Wide-shot-of-couple-walking-through-the-wave-northern-arizona.m4v", "Wide-shot-of-eiffel-tower-and-clouds.m4v", "Wide-shot-of-men-praying-at-wall.m4v", "Wide-shot-of-oil-rig.m4v", "Wide-shot-panning-to-waterfall.m4v", "Wide-sky-timelapse-above-joshua-tree.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Think me not unkind and rude,<br> That I walk alone in grove and glen;<br> I go to the god of the wood<br> To fetch his word to men.<br><br> Tax not my sloth that I<br> Fold my arms beside the brook;<br> Each cloud that floated in the sky<br> Writes a letter in my book.<br><br> Chide me not, laborious band,<br> For the idle flowers I brought;<br> Every aster in my hand<br> Goes home loaded with a thought.<br><br> There was never mystery,<br> But 'tis figured in the flowers,<br> Was never secret history,<br> But birds tell it in the bowers.<br><br> One harvest from thy field<br> Homeward brought the oxen strong;<br> A second crop thine acres yield,<br> Which I gather in a song."
+			}

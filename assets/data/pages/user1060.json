@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"In An Artist's Studio by Christina Rossetti (Wealth)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["5", "15"],
+	"video":{"src":["Slow-motion-champagne-bottle-pop-2130.m4v", "Slow-motion-champagne-flute-cheers.m4v", "Slow-motion-falling-deck-of-cards.m4v", "Huahine-lagoon-with-island-2.m4v", "Coastline-of-lake-covered-in-mist.m4v"], "title":"video title","type":"background"},
+	"main_text":"One face looks out from all his canvasses,<br><br>One selfsame figure sits or walks or leans;<br><br>We found her hidden just behind those screens,<br><br>That mirror gave back all her loveliness.<br><br>A queenin opal or in ruby dress,<br><br>A nameless girl in freshest summer greens,<br><br>A saint, an angel; -- every canvass means<br><br>The same one meaning, neither more nor less.<br><br>He feeds upon her face by day and night,<br><br>And she with true kind eyes looks back on him<br><br>Fair as the moon and joyfull as the light;<br><br>Not wan with waiting, not with sorrow dim;<br><br>Not as she is, but was when hope shone bright;<br><br>Not as she is, but as she fills his dream.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

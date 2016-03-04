@@ -1,0 +1,73 @@
+{
+	"id":"user726",
+	"title":"Art and Culture",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Spinning-light-panels.m4v", "Spinning-orange-halve.m4v", "Spinning-particles-with-flame-fractal.m4v", "Spinning-windmills-in-field-timelapse.m4v", "Slow-motion-bright-orange-smoke.m4v", "Slow-motion-orange-paint-splatter-2.m4v", "Slow-motion-orange-paint-splatter.m4v", "Swirling-plasma.m4v"], "title":"video title","type":"background"},
+	"main_text":"Every book, every volume you see here, has a soul. The soul of the person who wrote it and of those who read it and lived and dreamed with it. Every time a book changes hands, every time someone runs his eyes down its pages, its spirit grows and strengthens. CARLOS RUIZ ZAFON, The Shadow of the Wind<br><br>Madame Bovary by Gustave Flaubert<br><br>A Room with a View by E. M. Forster<br><br>I Hear America Singing by Walt Whitman<br><br>In an Artist's Studio by Christina Rossetti<br><br>In My Craft or Sullen Artby Dylan Thomas<br><br>The Water-fall by Henry Vaughan<br><br>Shakespeare by Matthew Arnold<br><br>Fate by Ralph Waldo Emerson<br><br>Ode to Beauty by Ralph Waldo Emerson<br><br>My Last Duchess by Robert Browning<br><br>The Laboratory by Robert Browning<br><br> A Red, Red Rose by Robert Burns<br><br>Hymn to Intellectual Beauty by Percy Bysshe Shelley<br><br>Kubla Khan by Samuel Taylor Coleridge<br><br>The Picture of Dorian Gray by Oscar Wilde",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user154"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user160"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user225"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user269"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user292"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user379"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user397"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user400"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user403"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user406"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user408"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user413"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user472"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user482"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user100"
+		}
+	],
+	"autoSlideTimer": 2
+}

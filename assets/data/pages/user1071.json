@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Stories about Memory",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Vegas-morning-sun-rising-timelapse.m4v", "Los-angeles-harbor-bridge-at-sunset.m4v", "Los-angeles-office-buildings-lights.m4v", "Aerial-shot-of-las-vegas-near-strip-daytime.m4v","Star-light-trails-over-la.m4v","Zoom-from-empire-state-building-to-busy-night-skyline.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I can only note that the past is beautiful because one never realises an emotion at the time. It expands later, and thus we don't have complete emotions about the present, only about the past.” Virginia Woolf<br><br>Kew Gardens by Virginia Woolf<br><br>The Moonstone by Wilkie Collins<br><br>Gone With the Wind by Margaret Mitchel<br><br>The Great Gatsby by F. Scott Fitzgerald<br><br>Tess of the d'Urbervilles by Thomas Hardy<br><br>The Woman in White by Wilkie Collins<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>Winter dreams by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user494"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user99"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user107"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user111"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user173"
+		}
+	],
+	"autoSlideTimer": 2
+}

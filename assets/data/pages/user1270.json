@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Politics",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["La-city-freeway-tl.m4v", "La-city-light-trail-timelapse.m4v", "La-city-overview-timelapse.m4v", "La-downtown-street-timelapse.m4v", "La-downtown-traffic-night-light-trails.m4v", "La-freeway-overpass-timelapse.m4v", "La-scenic-skyline-roadway-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The oppressed are allowed once every few years to decide which particular representatives of the oppressing class are to represent and repress them.” Karl Marx<br><br>The Prince by Nicolo Machiavelli<br><br>My Last Duchess by Robert Browning<br><br>Home Thoughts, From Abroad by Robert Browning<br><br>The Soldier by Rupert Brooke<br><br>Casualty by Seamus Heaney<br><br>The Cry of the Children by Elizabeth Barrett Browning<br><br>England in 1819 by Percy Bysshe Shelley",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user120"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user406"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user409"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user418"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user426"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user458"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user475"
+		}
+	],
+	"autoSlideTimer": 2
+}

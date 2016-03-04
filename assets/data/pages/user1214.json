@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Normality",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-landscape-with-lush-green-grass.m4v", "Time-lapse-lily-pad.m4v", "Time-lapse-lush-green-mountain-landscape.m4v", "Time-lapse-nature-landscape.m4v", "Time-lapse-storm-clouds-and-weather-station.m4v", "Time-lapse-stormy-clouds.m4v", "Time-lapse-sunrise-over-trees.m4v",  "Time-lapse-sunset-into-night-stars.m4v",  "Time-lapse-sunset-through-trees-2.m4v",  "Time-lapse-vibrant-blue-sky-and-clouds.m4v", "Time-lapse-vibrant-lush-green-landscape.m4v", "Time-lapse-white-puffy-clouds-in-deep-blue-sky.m4v"], "title":"video title","type":"background"},
+	"main_text":"The true secret of happiness lies in taking a genuine interest in all the details of daily life. William Morris<br><br>The Mark on the Wall by Virginia Woolf<br><br>I Remember, I Remember by Philip Larkin<br><br>The Old Vicarage, Granchester by Rupert Brooke<br><br>Dining-Room Tea by Rupert Brooke<br><br>Blackberry-Picking by Seamus Heaney",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user170"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user230"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user419"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user421"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user422"
+		}
+	],
+	"autoSlideTimer": 2
+}

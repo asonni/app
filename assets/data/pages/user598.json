@@ -1,0 +1,14 @@
+{
+	"id":"user598",
+	"title":"The Tyger by William Blake (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "28", "21"],
+	"video":{"src": ["City-b-panning.m4v", "City-cropped.m4v", "City-lights-landscape-timelapse.m4v", "City-panning.m4v", "City-sprawl-1.m4v", "City-sprawl-4.m4v"], 
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Tyger, Tyger burning bright<br><br>In the forests of the night,<br><br>What immortal hand or eye<br><br>Could frame thy fearful symmetry?<br><br><br><br>In what distant deeps or skies<br><br>Burnt the fire of thine eyes?<br><br>On what wings dare he aspire?<br><br>What the hand did seize the fire?<br><br><br><br>And what shoulder and what art<br><br>Could twist the sinews of thy heart?<br><br>And, when thy heart began to beat,<br><br>What dread hand and what dread feet?<br><br><br><br>What the hammer? What the chain?<br><br>In what furnace was thy brain?<br><br>What the anvil? What dread grasp<br><br>Dare its deadly terrors clasp?<br><br><br><br>When the stars threw down their spears,<br><br>And water'd heaven with their tears,<br><br>Did He smile His work to see?<br><br>Did He who made the lamb make thee?<br><br><br><br>Tyger, Tyger burning bright<br><br>In the forests of the night,<br><br>What immortal hand or eye<br><br>Dare frame thy fearful symmetry?",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

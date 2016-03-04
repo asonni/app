@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Chaos",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Yellow-and-red-ink-mix-in-water.m4v", "Swirling-plasma.m4v","Slow-motion-bright-orange-smoke.m4v","Slow-motion-orange-on-white-paint-splatter.m4v", "Slow-motion-orange-paint-splatter-2.m4v", "Slow-motion-orange-paint-splatter.m4v"], "title":"video title","type":"background"},
+	"main_text":"Chaos does not mean total disorder. Chaos means a multiplicity of possibilities.<br><br>Novellas About the Supernatural<br><br>Apocalypse Novellas<br><br>Madness<br><br>Horror<br><br>Violence<br><br>War<br><br>Fear<br><br>Death<br><br>Stories about Good vs. Evil<br><br>Stories about Madness",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1321"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1319"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1308"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1300"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1287"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1285"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user734"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1218"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user574"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user787"
+		}
+	],
+	"autoSlideTimer": 2
+}

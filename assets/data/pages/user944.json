@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"John Keats",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Clouds-over-snow-capped-mountains.m4v", "Clouds-over-telephone-lines-timelapse.m4v", "Clouds-over-waiea-canyon-ona-kauai.m4v", "Clouds-pan-part-2.m4v", "Clouds-pan.m4v", "Clouds-pass-over-dark-mountain-and-green-valley.m4v", "Clouds-pass-slowly-in-goblin-valley.m4v", "Clouds-pass-slowly-over-goblin-valley-2.m4v"],"title":"video title","type":"background"},
+	"main_text":"John Keats introduction<br><br>Robin Hood <br><br>La Belle Dame Sans Merci <br><br>To Hope <br><br>When I Have Fears That I May Cease To Be <br><br>To Autumn<br><br>Ode to a Nightinggale <br><br>Ode to A Grecian Urn <br><br>Bright Star! Would I Were Steadfast As Thou Art <br><br>To Hope (Countryside)<br><br>When I Have Fears That I May Cease To Be (Winter Mountains)<br><br>When I Have Fears That I May Cease To Be (Nature)<br><br>To Autumn (Autumn)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user329"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user330"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user331"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user332"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user333"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user334"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user335"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user336"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user740"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user827"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user846"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user936"
+		}
+	],
+	"autoSlideTimer": 2
+}

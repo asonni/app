@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Spirit",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Giant-clouds-billow-into-the-sky.m4v","Dense-cloud-sunset-timelapse.m4v","Time-lapse-clouds-with-pines.m4v","Time-lapse-clouds.m4v","Timelapse-blue-sky-with-clouds.m4v", "Swirling-sunset-sky.m4v"], "title":"video title","type":"background"},
+	"main_text":"Human progress is neither automatic nor inevitable... Every step toward the goal of justice requires sacrifice, suffering, and struggle; the tireless exertions and passionate concern of dedicated individuals.” Martin Luther King Jr.<br><br>The Two Spirits: an Allegory by Percy Bysshe Shelley<br><br>Th'espense of Spirit in a Waste of Shame by William Shakespeare<br><br>Since Feeling is First by E. E. Cummings",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user473"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user441"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user451"
+		}
+	],
+	"autoSlideTimer": 2
+}

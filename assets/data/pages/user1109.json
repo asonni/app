@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"He Wishes for the Cloths of Heaven by William Butler Yeats (Africa)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "18", "39", "22"],
+	"video":{"src":["Africa-sunset-panning.m4v", "African-market-zoomed-shot-with-children.m4v", "African-village-at-sunset.m4v", "African-woman-walking-with-child-on-street-2.m4v", "African-woman-washes-child-at-a-river.m4v"], "title":"video title","type":"background"},
+	"main_text":"Had I the heavens' embroidered cloths,<br><br> Enwrought with golden and silver light,<br><br> The blue and the dim and the dark cloths<br><br> Of night and light and the half-light,<br><br> I would spread the cloths under your feet:<br><br> But I, being poor, have only my dreams;<br><br> I have spread my dreams under your feet;<br><br> Tread softly because you tread on my dreams.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

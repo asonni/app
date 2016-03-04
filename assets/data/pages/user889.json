@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Stories about Revenge",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Shooting-automatic-gun-on-backdrop-4.m4v","Shooting-automatic-gun-on-backdrop-4.m4v","Abandoned-car-on-fire.mp4","Slow-motion-rising-flames-closeup-2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Stories about Revenge introduction<br><br>Wuthering Heights by Emily Brontë<br><br>Moby Dick by Herman Melville<br><br>The Jungle Book by Rudyard Kipling",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user98"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user131"
+		}
+	],
+	"autoSlideTimer": 2
+}

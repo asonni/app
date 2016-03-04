@@ -1,0 +1,33 @@
+{
+	"id":"user842",
+	"title":"Stories about Beauty",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-landscape-with-lush-green-grass.m4v", "Time-lapse-lily-pad.m4v", "Time-lapse-lush-green-mountain-landscape.m4v", "Time-lapse-nature-landscape.m4v", "Time-lapse-storm-clouds-and-weather-station.m4v", "Time-lapse-stormy-clouds.m4v", "Time-lapse-sunrise-over-trees.m4v",  "Time-lapse-sunset-into-night-stars.m4v",  "Time-lapse-sunset-through-trees-2.m4v",  "Time-lapse-vibrant-blue-sky-and-clouds.m4v", "Time-lapse-vibrant-lush-green-landscape.m4v", "Time-lapse-white-puffy-clouds-in-deep-blue-sky.m4v"], "title":"video title","type":"background"},
+	"main_text":"Beauty is a precarious trace that eternity causes to appear to us and that it takes away from us. A manifestation of eternity, and a sign of death as well. Often it seems to me to be an evil flower of nothingness, or else the cry of the world as it dies, or a desperate, sumptuous prayer.EUGENE IONESCO<br><br>At the Bay by Katherine Mansfield<br><br>The Princess by D. H. Lawrence<br><br>The Happy Prince by Oscar Wilde<br><br>Nana by Emile Zola<br><br>The Dance of Death by Gustave Flaubert",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user493"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user166"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user169"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user520"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user171"
+		}
+	],
+	"autoSlideTimer": 2
+}

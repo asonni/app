@@ -1,0 +1,15 @@
+{
+	"id":"user621",
+	"title":"If by Rudyard Kipling (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "32", "5", "33"],
+	"video":
+	{"src": ["Blue-and-green-starry-sky-in-the-galaxy.m4v", "Blue-and-yellow-fish-chasing-food.m4v", "Blue-and-yellow-ink-water.m4v", "Blue-boat.m4v", "Blue-deep-sea-jellyfish.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"If you can keep your head when all about you<br><br>Are losing theirs and blaming it on you;<br><br>If you can trust yourself when all men doubt you,<br><br>But make allowance for their doubting too:<br><br>If you can wait and not be tired by waiting,<br><br>Or, being lied about, don't deal in lies,<br><br>Or being hated don't give way to hating,<br><br>And yet don't look too good, nor talk too wise;<br><br><br><br> If you can dream---and not make dreams your master;<br><br>If you can think---and not make thoughts your aim,<br><br>If you can meet with Triumph and Disaster<br><br>And treat those two impostors just the same:.<br><br>If you can bear to hear the truth you've spoken<br><br>Twisted by knaves to make a trap for fools,<br><br>Or watch the things you gave your life to, broken,<br><br>And stoop and build'em up with worn-out tools;<br><br><br><br> If you can make one heap of all your winnings<br><br>And risk it on one turn of pitch-and-toss,<br><br>And lose, and start again at your beginnings,<br><br>And never breathe a word about your loss:<br><br>If you can force your heart and nerve and sinew<br><br>To serve your turn long after they are gone,<br><br>And so hold on when there is nothing in you<br><br>Except the Will which says to them: 'Hold on!'<br><br><br><br> If you can talk with crowds and keep your virtue,<br><br>Or walk with Kings---nor lose the common touch,<br><br>If neither foes nor loving friends can hurt you,<br><br>If all men count with you, but none too much:<br><br>If you can fill the unforgiving minute<br><br>With sixty seconds' worth of distance run,<br><br>Yours is the Earth and everything that's in it,<br><br>And---which is more---you'll be a Man, my son!",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

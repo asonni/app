@@ -1,0 +1,14 @@
+					
+{
+	"id":"user544",
+	"title":"Zeitgeist",
+	"image":"Zeitgeist.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"Mythology and belief in society today, presenting uncommon perspectives of common cultural issues.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "Zeitgeist_512kb.mp4"}
+	]
+}				

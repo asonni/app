@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Because I Could Not Stop For Death- by Emily Dickinson (Industrial)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "10"],
+	"video":{"src":["Flat-desert-factory.m4v", "Smoke-stack.m4v", "Industrial-smoke-stacks.m4v"],"title":"video title","type":"background"},
+	"main_text":"Because I could not stop for Death-<br><br>He kindly stopped for me-<br><br>The Carriage held but just Ourselves-<br><br>And Immortality.<br><br><br><br>We slowly drove-He knew no haste<br><br>And I had put away<br><br>My labor and my leisure too,<br><br>For His Civility-<br><br><br><br>We passed the School, where Children strove<br><br>At Recess-in the Ring-<br><br>We passed the fields of Gazing Grain-<br><br>We passed the Setting Sun-<br><br><br><br>Or rather-He passed Us-<br><br>The Dews drew quivering and chill-<br><br>For only Gossamer, my Gown-<br><br>My Tippet-only Tulle-<br><br><br><br>We paused before a House that seemed<br><br>A Swelling of the Ground-<br><br>The Roof was scarcely visible-<br><br>The Cornice-in the Ground-<br><br><br><br>Since then-'tis Centuries-and yet<br><br>Feels shorter than the Day<br><br>I first surmised the Horses' Heads<br><br>Were toward Eternity-",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

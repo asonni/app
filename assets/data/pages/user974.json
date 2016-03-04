@@ -1,0 +1,69 @@
+{
+	"id":"user726",
+	"title":"Dylan Thomas",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-bubbles-floating-to-the-surface.m4v", "Slow-motion-burning-pile-of-money.m4v", "Slow-motion-burning-red-roses.m4v", "Slow-motion-burning-up-newspaper.m4v", "Slow-motion-burning-wall-of-material.m4v", "Slow-motion-burnt-logs-2.m4v", "Slow-motion-car-drifting-dirt-path-2.m4v", "Slow-motion-car-drifting-through-grass-2.m4v", "Slow-motion-cascading-waterfall.m4v", "Slow-motion-cascading-waterfalls-tilt-close.m4v"], "title":"video title","type":"background"},
+	"main_text":"Dylan Thomas introduction<br><br>In My Craft Or Sullen Art<br><br>And Death Shall Have No Dominion<br><br>Fern Hill<br><br>Do Not Go Gentle Into That Good Night<br><br>Ballad Of The Long-Lagged Bait<br><br>In Country Sleep<br><br>In The White Giant's Thigh<br><br>In My Craft Or Sullen Art (?)<br><br>Do Not Go Gentle Into That Good Night (City)<br><br>And Death Shall Have No Dominion (?)<br><br>In Country Sleep (Countryside)<br><br>Fern Hill (Nature)<br><br>Do Not Go Gentle Into That Good Night (Night Sky)<br><br>In Country Sleep (?)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user292"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user293"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user294"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user295"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user296"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user297"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user298"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user671"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user730"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user785"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user821"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user860"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user875"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user1048"
+		}
+	],
+	"autoSlideTimer": 2
+}

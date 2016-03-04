@@ -1,0 +1,14 @@
+						
+	{
+	"id":"user544",
+	"title":"Santa Fe Trail",
+	"image":"santa fe.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"The story of Jeb Stuart, his romance with Kit Carson Holliday, friendship with George Custer and battles against John Brown in the days leading up to the outbreak of the American Civil War.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "Santa_Fe_Trail_512kb.mp4"}
+	]
+}					

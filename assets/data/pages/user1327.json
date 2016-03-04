@@ -1,0 +1,109 @@
+{
+	"id":"user726",
+	"title":"Noir Stories and Poetry",  	
+ 	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Closeup-of-power-plant-smokestack-at-night.m4v", "Closeup-plane-through-lightning.m4v", "Comcast-center-tilt-up.m4v", "Congested-san-francisco-roadway-time-lapse.m4v", "Day-to-night.m4v", "Dc-city-at-night.m4v", "Dc-city-bright-night-time-lapse-2.m4v", "Dc-metro-train-leaving-station.m4v", "Dc-monument-fireworks-show-finale.m4v", "Dense-cloud-sunset-timelapse.m4v", "Dense-dark-clouds-moving.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Every society has the criminals it deserves.” Emma Goldman<br><br>Ulysses by Lord Alfred Tennyson<br><br>The Dead by James Joyce<br><br>Eveline by James Joyce<br><br>Anna Karenina by Leo Tolstoy<br><br>A Little Princess by Frances Hodgson Burnett<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>Madame Bovary by Gustave Flaubert<br><br>The Scarlet Letter by Nathaniel Hawthorne<br><br>The Idiot by Fyodor Dostoyevsky<br><br>The Iliad by Homer<br><br>Romeo and Juliet by William Shakespeare<br><br>Bleak House by Charles Dickens<br><br>Don Quixote by Miguel de Cervantes<br><br>Outpost of Progress by Joesph Conrad <br><br>God Sees the Truth but Waits by Leo Leo Tolstoy<br><br>The Lagoon by Joesph Conrad<br><br>Imaginative Woman by Thomas Hardy<br><br>The Truth About Pyecraft by H.G. Wells<br><br>The Murders in the Rue Morgue by Edgar Allan Poe<br><br>The Prodigal Son by Rudyard Kipling<br><br>Bleak House by Charles Dickens<br><br>Rip Van Winkle by Washington Irving<br><br>The Man That Corrupted Hadleyburg by Mark Twain<br><br>The Fatal Cradle by Wilkie Collins",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user437"		
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user145"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user104"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user113"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user157"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user162"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user109"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user102"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user153"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user505"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user528"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user504"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user175"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user509"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user357"
+		},
+		{
+			"index": 21,
+			"url": "http://retin.ae/#!/page/user234"
+		},
+		{
+			"index": 22,
+			"url": "http://retin.ae/#!/page/user102"
+		},
+		{
+			"index": 23,
+			"url": "http://retin.ae/#!/page/user500"
+		},
+		{
+			"index": 24,
+			"url": "http://retin.ae/#!/page/user525"
+		}, 
+		{
+			"index": 25,
+			"url": "http://retin.ae/#!/page/user530"
+		}
+	],
+	"autoSlideTimer": 2
+}

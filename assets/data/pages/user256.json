@@ -1,0 +1,12 @@
+{
+				"id": "user256",
+				"title": "Anthem For Doomed Youth by Wilfred Owen",
+				"exclude_from_menu": "true",
+				"image": "The U.S. Army.jpg",
+				"tag": ["15", "4", "10", "20"],
+				"video": {
+					"src": ["Dead-tree-branches-in-desert-landscape.m4v", "San-diego-time-lapse-city-skyline-nightscape-with-convention-center-2.m4v", "Giant-clouds-billow-into-the-sky.m4v"],
+					"type": "background"	
+				},
+				"main_text": "What passing-bells for these who die as cattle?<br>Only the monstrous anger of the guns.<br>Only the stuttering rifles' rapid rattle<br>Can patter out their hasty orisons.<br>No mockeries for them; no prayers nor bells,<br>Nor any voice of mourning save the choirs, <br>The shrill, demented choirs of wailing shells;<br>And bugles calling for them from sad shires.<br><br>What candles may be held to speed them all?<br>Not in the hands of boys, but in their eyes<br>Shall shine the holy glimmers of goodbyes.<br>The pallor of girls' brows shall be their pall;<br>Their flowers the tenderness of patient minds,<br>And each slow dusk a drawing-down of blinds."
+			}

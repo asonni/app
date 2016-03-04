@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Youth Poetry",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunrise-breaking-over-city-time-lapse.m4v", "Sunrise-city-panning.m4v", "Sunrise-construction-washington-dc.m4v", "Sunrise-freedom-tower-and-financial-district-nyc-aerial.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I am not young enough to know everything.” Oscar Wilde<br><br>Birches by Robert Frost<br><br> The Young Soldier by Wilfred Owen<br><br>Anthem for the Doomed Youth by Wilfred Owen<br><br>In Youth I have Known One by Edgar Allan Poe <br><br>Death of a Naturalist by Seamus Heaney<br><br>Anyone Lived in a Pretty How Town by E. E. Cummings",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user244"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user254"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user256"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user355"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user424"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user449"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,12 @@
+{
+				"id": "user222",
+				"title": "One's-Self I Sing. by Walt Whitman",
+				"exclude_from_menu": "true",
+				"image": "Alan Stark.jpg",
+				"tag": ["15", "41"],
+				"video": {
+					"src": ["Tree-canopy-towards-sky.m4v", "Tree-in-winter-storm.m4v", "Tree-top-starry-night-sky-timelapse.m4v", "Tree-with-exposed-root-structure.m4v", "Trees-in-field-rustling-in-wind.m4v", "Trees-on-israeli-city-stree.m4v"],
+					"type": "background"	
+				},
+				"main_text": "ONE'S-SELF I sing-a simple, separate Person;<br>Yet utter the word Democratic, the word En-masse.<br><br>Of Physiology from top to toe I sing;<br>Not physiognomy alone, nor brain alone, is worthy for the muse-I say the<br>Form complete is worthier far;<br>The Female equally with the male I sing.<br><br>Of Life immense in passion, pulse, and power,<br>Cheerful-for freest action form'd, under the laws divine,<br>The Modern Man I sing."
+			}

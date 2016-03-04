@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Stories about Chaos",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Red-white-texture.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Pacific-water.m4v","Moonlight.m4v", "Slow-motion-burning-pile-of-money.m4v","Slow-motion-burning-red-roses.m4v", "Slow-motion-burning-up-newspaper.m4v","Slow-motion-burning-wall-of-material.m4v", "Slow-motion-burnt-logs-2.m4v","Slow-motion-globe-on-fire.m4v","Slow-motion-match-on-fire.m4v","Slow-motion-money-on-fire.m4v", "Slow-motion-money-on-fire2.m4v","Flames-behind-bull-skull.m4v"], "title":"video title","type":"background"},
+	"main_text":"Chaos does not mean total disorder. Chaos means a multiplicity of possibilities. Chaos is from the ancient Greek words that means a thing that is birthed from the void. And it was about that which is possible, not about disorder.<br><br>Heart of Darkness by Joseph Conrad<br><br>The Time Machine by H. G. Wells<br><br>The Country of the Blind by H. G. Wells<br><br>The Star by H. G. Wells<br><br>A Terribly Strange Bed by Wilkie Collins<br><br>The Death of Oliver Becaille by Emile Zola",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user135"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user507"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user508"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user529"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user523"
+		}
+	],
+	"autoSlideTimer": 2
+}

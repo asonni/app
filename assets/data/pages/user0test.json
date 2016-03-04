@@ -1,0 +1,21 @@
+{
+	"id":"user0test",
+	"title":"T&C Emiliano",
+	"image":"Bounty.jpg",
+	"author": "Emiliano",
+	"tag":"1",
+	"exclude_from_menu": "true",
+	"video":{
+		"src":["3d-model-human-anatomy-scan.mp4", "Yellow-and-red-ink-mix-in-water.m4v", "Jellyfish-floating-up.m4v", "Jellyfish-in-aquarium.m4v", "Swirling-plasma.m4v", "Liquid-smoke.m4v", "Neon-plasma-swirls.m4v", "Shifting-ceramic-tiles.m4v", "Slow-rotating-colorful-galaxy-cloud.m4v"],
+		"title":"video title",
+		"type":"background"
+	},
+	"main_text":"What are you looking at?<br><br>Retin.ae is the collective unconscious.<br><br>Experience. Interpretation. Creation.<br><br>Step into a world by clicking any of the next pages, or find your own way by clicking the menu icon.<br><br>Noir<br><br>Chaos<br><br>Women<br><br>Love and Desire<br><br>Talent/Commissions<br><br>What are you looking at?<br><br>Retin.ae is the collective unconscious.<br><br>Experience. Interpretation. Creation.<br><br>Step into a world by clicking any of the next pages, or find your own way by clicking the menu icon.<br><br>Noir<br><br>Chaos<br><br>Women<br><br>Love and Desire<br><br>Talent/Commissions<br><br>Experience. Interpretation. Creation.<br><br>Step into a world by clicking any of the next pages, or find your own way by clicking the menu icon.<br><br>Noir<br><br>Chaos<br><br>Women<br><br>Love and Desire<br><br>Talent/Commissions<br><br>Experience. Interpretation. Creation.<br><br>Step into a world by clicking any of the next pages, or find your own way by clicking the menu icon.<br><br>Noir<br><br>Chaos<br><br>Women<br><br>Love and Desire<br><br>Talent/Commissions",
+	"shuffle": false,
+	"type": "presentation",
+	"normal_videos": [
+		{"index": 0, "name": "CATASTROPHE HD.mp4"},
+		{"index": 2, "name": "Phantom_of_the_Opera_512kb.mp4"}
+	]
+
+}

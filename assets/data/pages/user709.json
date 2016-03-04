@@ -1,0 +1,33 @@
+{
+	"id":"user709",
+	"title":"Thomas Hardy",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["White-background-with-fuschia-blue-and-black-2.m4v", "White-background-with-fuschia-blue-and-black-3.m4v", "White-background-with-fuschia-blue-and-black.m4v", "White-lines-ripple-effect.m4v"], "title":"video title","type":"background"},
+	"main_text":"Thomas Hardy introduction<br><br>Tess of the d'Urbervilles<br><br>Far From the Madding Crowd<br><br>An Imaginative Woman<br><br>The Three Strangers<br><br>The Fiddler of the Reels",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user175"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user537"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user538"
+		}
+	],
+	"autoSlideTimer": 2
+}

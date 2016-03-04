@@ -1,0 +1,12 @@
+{
+				"id": "user371",
+				"title": "Repeat That, Repeat by Gerard Manley Hopkins",
+				"exclude_from_menu": "true",
+				"image": "Brandon Watts.jpg",
+				"tag": "15",
+				"video": {
+					"src": ["Storm-cloud-moving-across-plush-green-landscape.m4v", "Storm-cloud.m4v", "Storm-clouds-2.m4v", "Storm-clouds-approaching-in-iceland.m4v", "Storm-clouds-forming-in-the-sky.m4v", "Storm-clouds-over-mountain-during-sunrise.m4v", "Storm-clouds-rolling-in.m4v", "Storm-surge-surf-waves.m4v", "Stormy-1.m4v", "Stormy-2.m4v", "Stormy-a.m4v", "Stormy-seas.m4v", "Stormy-skies-and-lightning-over-wheat-field.m4v", "Stormy-time-lapse-clouds-to-sunny.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Repeat that, repeat,<br>Cuckoo, bird, and open ear wells, heart-springs, delightfully sweet,<br>With a ballad, with a ballad, a rebound <br>Off trundled timber and scoops of the hillside ground, hollow hollow hollow ground:<br>The whole landscape flushes on a sudden at a sound."
+				}

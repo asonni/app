@@ -1,0 +1,49 @@
+{
+	"id":"user726",
+	"title":"Love and Life",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Aerial-wide-shot-of-green-valley-and-forest2.m4v", "Aerial-zoom-shot-of-green-forest-and-mountains.m4v",  "Aerial-passby-shot-of-forest-and-mountainside.m4v"], "title":"video title","type":"background"},
+	"main_text":"“When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.” Mahatma Gandhi<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>The Soldier by Rupert Brooke<br><br>The Scarlet Letter by Nathaniel Hawthorne<br><br>Romeo and Juliet by William Shakespeare<br><br>Prelude by Katherine Mansfield<br><br>An Imaginative Woman by Thomas Hardy<br><br>How much land does a man need? by Leo Tolstoy<br><br>Xingu by Edith Wharton<br><br>My Mistress' Eyes Are Nothing Like the Sun by William Shakespeare",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user115"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user418"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user113"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user109"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user168"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user175"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user543"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user512"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user444"
+		}
+	],
+	"autoSlideTimer": 2
+}

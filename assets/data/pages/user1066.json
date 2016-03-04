@@ -1,0 +1,21 @@
+{
+	"id":"user726",
+	"title":"Anton Chekhov",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Abandoned-desert-buildings.m4v", "Abandoned-house-in-desert.m4v", "Abandoned-room-covered-with-forgotten-junk.m4v"], "title":"video title","type":"background"},
+	"main_text":"Anton Chekhov introduction<br><br>In the Ravine<br><br>My Life: The Story of a Provincial",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user539"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user540"
+		}
+	],
+	"autoSlideTimer": 2
+}

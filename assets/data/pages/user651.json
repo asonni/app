@@ -1,0 +1,12 @@
+{
+	"id":"user651",
+	"title":"Born Yesterday by Philip Larkin",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "39", "9", "31"],
+	"video":{"src":["Waikiki-sunset-view-with-palms.m4v", "Maui-palms-and-vivid-rainbow.m4v", "Serene-beach-at-sunset-with-beach-goer.m4v", "Serene-beach-at-sunset.m4v", "Sea-of-galilee-through-trees-at-sunset-2.m4v", "Sea-of-galilee-through-trees-at-sunset-3.m4v"], "title":"video title","type":"background"},
+	"main_text":"Tightly folded bud,<br><br>I have wished you something<br><br>None of the others would:<br><br>Not the usual stuff<br><br>About being beautiful,<br><br>Or running off a spring<br><br>Of innocence or love<br><br>They will all wish you that,<br><br>And should it prove possible,<br><br>Well, you're a lucky girl.<br><br>But if it shouldn't, then<br><br>May you be ordinary;<br><br>Have like other women<br><br>An average of talents:<br><br>Not ugly, not good-looking,<br><br>Nothing uncustomary<br><br>To pull you off your balance,<br><br>That, unworkable in itself,<br><br>Stops all the rest from working.<br><br>In fact, may you be dull<br><br>If that is what a skilled,<br><br>Vigilant, flexible,<br><br>Unemphasised, enthralled<br><br>Catching of happiness is called.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

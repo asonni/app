@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Crime Novellas",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Volcano-sunset.m4v", "Night-clouds.m4v", "Nightime-view-of-bridges.m4v", "Moving-through-new-york-city-street-dutch-angle.m4v", "Scenic-storm-clouds.m4v", "Sallent-sky.m4v", "Moonlight.m4v", "La-freeway-overpass-timelapse.m4v", "Old-footage-power-plant-3.m4v", "Aerial-warehouse-view.m4v"], "title":"video title","type":"background"},
+	"main_text":"History is indeed little more than the register of the crimes, follies and misfortunes of mankind.Edward Gibbon<br><br>God Sees the Truth, but Waits by Leo Tolstoy<br><br>The Secret Adversary by Agatha Christie<br><br>The Biter Bit by Wilkie Collins<br><br>A Terribly Strange Bed by Wilkie Collins<br><br>The Mysterious Affair at Styles by Agatha Christie",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user528"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user142"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user531"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user529"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user143"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,73 @@
+{
+	"id":"user726",
+	"title":"Pablo Neruda",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Zoom-from-construction-zone-workers-time-lapse.m4v", "Zoom-from-downtown-street-traffic-night.m4v", "Zoom-from-empire-state-building-to-busy-night-skyline.m4v", "Zoom-from-highway-ramp-neighborhood-hills.m4v", "Zoom-in-and-out-nyc-financial-district-aerial.m4v", "Zoom-in-on-big-ben-over-westminster-bridge-during-the-day.m4v", "Zoom-in-on-mercury-animation.m4v", "Zoom-in-on-miami-skyline.m4v", "Zoom-out-casino-lights.m4v", "Zoom-out-chicago-river-night.m4v"],"title":"video title","type":"background"},
+	"main_text":"Pablo Neruda introduction<br><br>I Do Not Love You Except Because I Love You<br><br>Drunk As Drunk<br><br>If You Forget Me <br><br>Walking Around<br><br>Tonight I Can Write<br><br>Walking Around (City)<br><br>If You Forget Me (Beach)<br><br>Tonight I Can Write (Fast)<br><br>If You Forget Me (Arid)<br><br>If You Forget Me (Winter)<br><br>If You Forget Me (Winter Mountains)<br><br>Drunk As Drunk (Fast)<br><br>Walking Around (City)<br><br>Drunk As Drunk  (Slow Motion Water)<br><br>Tonight I Can Write (?)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user313"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user314"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user315"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user316"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user317"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user594"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user637"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user793"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user817"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user826"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user829"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user863"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user878"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user1095"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user1204"
+		}
+	],
+	"autoSlideTimer": 2
+}

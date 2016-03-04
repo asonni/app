@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Kate Chopin",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-blocks-of-dry-ice-in-water.m4v", "Slow-motion-blue-and-yellow-on-white-paint-splatter.m4v", "Slow-motion-blue-droplets-2104.m4v", "Slow-motion-blue-falling-droplets-of-water-5.m4v", "Slow-motion-blue-on-white-paint-splatter.m4v", "Slow-motion-blue-paint-into-green.m4v", "Slow-motion-blue-smoke.m4v", "Slow-motion-bouncing-water-balloons.m4v", "Slow-motion-bouncy-balls-across-floor.m4v"],"title":"video title","type":"background"},
+	"main_text":"Kate Chopin introduction<br><br>The Story of An Hour<br><br>Athenaise<br><br>A Respectable Woman",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user498"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user499"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user164"
+		}
+	],
+	"autoSlideTimer": 2
+}

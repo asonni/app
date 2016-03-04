@@ -1,0 +1,15 @@
+{
+	"id":"user636",
+	"title":"I Died For Beauty-But Was Scarce by Emily Dickinson (Winter)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "10", "7"],
+	"video":{"src": ["Colorful-alaskan-sunset.m4v", "Bright-glowing-winter-forest.m4v", "Multicolored-alaskan-sky.m4v", "Colorful-mountain-clouds.m4v", "Colorful-mountain-clouds2.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"I died for Beauty-but was scarce<br><br>Adjusted in the Tomb<br><br>When One who died for Truth, was lain<br><br>In an adjoining room-<br><br><br><br>He questioned softly 'Why I failed?'<br><br>'For Beauty,' I replied-<br><br>'And I-for Truth-Themself are One-<br><br>We Brethren, are,' He said-<br><br><br><br>And so, as Kinsmen, met a Night-<br><br>We talked between the rooms-<br><br>Until the moss had reached our lips-<br><br>And covered up-our names-",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

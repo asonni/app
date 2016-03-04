@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Nature Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Green-vegetation-in-desert-field-6.m4v", "Green-field-with-a-dried-up-ravine-2.m4v", "Green-leaves-hanging-over-stream.m4v", "Green-mountain-landscape.m4v", "Green-mountain-ridges.m4v", "Green-mountains.m4v", "Green-plant-with-ocean-in-background-2.m4v"],"title":"video title","type":"background"},
+	"main_text":"Nature Visuals<br><br>For each ecstatic instant by Emily Dickinson (Nature)<br><br>When I have fears that I may cease to be by John Keats (Nature)<br><br>The Future by Matthew Arnold (Nature)<br><br>Fern Hill by Dylan Thomas (Nature)<br><br>The World by Henry Vaughan (Nature)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user649"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user846"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user847"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user860"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user929"
+		}
+	],
+	"autoSlideTimer": 2
+}

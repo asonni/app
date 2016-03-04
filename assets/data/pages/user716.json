@@ -1,0 +1,45 @@
+{
+	"id":"user716",
+	"title":"Percy Bysshe Shelley",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Yellow-jellyfish-heading-to-surface.m4v", "Yellow-jellyfish.m4v", "Yellow-fireworks-exploding.m4v", "Yellow-and-red-ink-mix-in-water.m4v"], "title":"video title","type":"background"},
+	"main_text":"Percy Bysshe Shelley introduction<br><br>Hymn To Intelectual Beauty<br><br>The Two Spirits: An Allegory <br><br>Ozymandias<br><br>England in 1819<br><br>To A Skylark<br><br>To A Skylark (?)<br><br>To A Skylark (Industrial)<br><br>Ozymandias (Fast)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user472"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user473"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user474"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user475"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user476"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user569"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user917"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1024"
+		}
+	],
+	"autoSlideTimer": 2
+}

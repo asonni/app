@@ -1,0 +1,15 @@
+{
+	"id":"user620",
+	"title":"My Heart's In The Highlands by Robert Burns (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "9"],
+	"video":
+	{"src": ["Beautiful-beach-mountain-landscape.m4v", "Beautiful-beach-sunset-on-easter-island.m4v", "Beautiful-hawaii-view.m4v", "Beautiful-multicolored-bermuda-sky-at-sunset.m4v", "Beautiful-sunset-and-lighthouse-at-wide-beach.m4v", "Beautiful-sunset-on-oregon-cannon-beach.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Farewell to the Highlands, farewell to the North,<br><br> The birth-place of Valour, the country of Worth;<br><br> Wherever I wander, wherever I rove,<br><br> The hills of the Highlands for ever I love.<br><br><br><br> My heart's in the Highlands, my heart is not here;<br><br> My heart's in the Highlands a-chasing the deer;<br><br> A-chasing the wild-deer, and following the roe,<br><br> My heart's in the Highlands wherever I go.<br><br><br><br> Farewell to the mountains high covered with snow;<br><br> Farewell to the straths and green valleys below;<br><br> Farewell to the forests and wild-hanging woods;<br><br> Farewell to the torrents and loud-pouring floods.<br><br><br><br> My heart's in the Highlands, my heart is not here;<br><br> My heart's in the Highlands a-chasing the deer;<br><br> A-chasing the wild-deer, and following the roe,<br><br> My heart's in the Highlands wherever I go.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

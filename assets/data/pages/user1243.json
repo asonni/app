@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Birth",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tilt-up-playground.m4v", "Tilt-up-to-blue-mosque-dome-artwork.m4v", "Tilt-up-vegas-skyscrapers-in-evening-light.m4v", "Tilting-up-on-skyscrape.m4v", "Tilts-up-from-sand-duness-to-gorgeous-desert-sunset.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The moment a child is born, the mother is also born. She never existed before. The woman existed, but the mother, never. A mother is something absolutely new." and so in you the child your mother lives on and through your family continues to live... so at this time look after yourself and your family as you would your mother for through you all she will truly never die.” Osho<br><br>A Birthday by Christina Rossetti<br><br>The Revival by Henry Vaughan<br><br>Regeneration by Henry Vaughan",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user266"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user377"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user380"
+		}
+	],
+	"autoSlideTimer": 2
+}

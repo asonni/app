@@ -1,0 +1,12 @@
+{
+				"id": "user254",
+				"title": "The Young Soldier by Wilfred Owen",
+				"exclude_from_menu": "true",
+				"image": "Dmitry Karpychev.jpg",
+				"tag": ["15", "4", "20"],
+				"video": {
+					"src": ["Tombstones-at-arlington-national-cemetery-5.m4v", "Tombstones-at-arlington-national-cemetery-6.m4v", "Confederate-soldiers-advance-in-battle-2.m4v", "Khr-guard-militaryprison2.m4v", "Khr-slo-Mo-Brit-Ww2-Commander-Soldiers-Run.m4v", "Khr-slo-Mo-German-Ww2-2soldiers.m4v"],
+					"type": "background"	
+				},
+				"main_text": "It is not death<br>Without hereafter<br>To one in dearth<br>Of life and its laughter,<br><br>Nor the sweet murder<br>Dealt slow and even<br>Unto the martyr<br>Smiling at heaven:<br><br>It is the smile<br>Faint as a (waning) myth,<br>Faint, and exceeding small<br>On a boy's murdered mouth."
+			}

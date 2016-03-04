@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"Stories about Youth",
+	"image":"Hammonton Photography.jpg",
+	"tag":["1","56","30","20"],
+	"video":{"src":["Swimming-alligator.m4v", "Swimming-girl.m4v", "Swimming-jellyfish.m4v", "Swimming-pool-shimmer.m4v", "Swimming-pool-shimmer2.m4v", "Swimming-sperm-1.m4v"], "title":"video title","type":"background"},
+	"main_text":"I am not young enough to know everything.” Oscar Wilde<br><br>Kew Gardens by Virginia Woolf<br><br>The Diamond As Big As The Ritz by F. Scott Fitzgerald<br><br>Northanger Abbey by Jane Austen<br><br>The Picture of Dorian Gray by Oscar Wilde<br><br>Alice’s Adventures in Wonderland by Lewis Carroll<br><br>Romeo and Juliet by William Shakespeare<br><br>The Adventures of Tom Sawyer by Mark Twain<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Through the Looking-Glass by Lewis Carroll<br><br>David Copperfield by Charles Dickens<br><br>This Side of Paradise by F. Scott Fitzgerald<br><br>A Room with a View by E. M. Forster",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user494"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user515"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user93"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user100"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user106"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user109"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user116"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user149"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user155"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user160"
+		}
+	],
+	"autoSlideTimer": 2
+}

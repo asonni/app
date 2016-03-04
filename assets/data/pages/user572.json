@@ -1,0 +1,52 @@
+{
+	"id":"user572",
+	"title":"Stories about The Other",
+	"image":"Hammonton Photography.jpg",
+	"tag":["19", "16", "30"],
+	"video":{"src": ["Sun-rises-over-dead-horse-point-2.m4v", "Sun-rising-over-mountains.m4v", "Sun-rising-over-open-seas-timelapse.m4v", "Sunrise-clouds-2.m4v", "Sunrise-clouds.m4v", "Sunrise-construction-washington-dc.m4v", "Sunrise-freedom-tower-and-financial-district-nyc-aerial.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"”People fail to get along because they fear each other; they fear each other because they don't know each other; they don't know each other because they have not communicated with each other.”<br>Martin Luther King Jr.<br><br>Amy Foster by Joseph Conrad<br><br>Heart of Darkness by Joseph Conrad<br><br>The Moonstone by Wilkie Collins<br><br>The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle<br><br>Dracula by Bram Stoker<br><br>Peter Pan by J. M. Barrie<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>The Life and Adventures of Robinson Crusoe by Daniel Defoe<br><br>The War of the Worlds by H. G. Wells",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user503"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user135"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user99"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user118"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user122"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user123"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user137"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user152"
+		}
+	],
+	"autoSlideTimer": 2
+}

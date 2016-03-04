@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"F. Scott Fitzgerald",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Aerial-shot-of-ski-area-and-luxury-homes.m4v", "Aerial-shot-of-amtrak-train-and-desert-town.m4v", "Aerial-shot-of-amtrak-train-and-great-salt-lake.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water-with-zoom-out.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water-with-zoom-out2.m4v", "Aerial-shot-of-lighthouse-with-sparkling-water.m4v"], "title":"video title","type":"background"},
+	"main_text":"F. Scott Fitzgerald introduction<br><br>The Curious Case of Benjamin Button<br><br>The Diamond As Big As The Ritz<br><br>The Ice Palace<br><br>The Great Gatsby<br><br>This Side of Paradise<br><br>Winter Dreams",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user514"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user515"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user516"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user111"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user155"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user173"
+		}
+	],
+	"autoSlideTimer": 2
+}

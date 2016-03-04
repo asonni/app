@@ -1,0 +1,12 @@
+{
+	"id":"user664",
+	"title":"I Remember by Stevie Smith (Countryside)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "22"],
+	"video":{"src":["Monarch-butterfly-flapping-wings.m4v", "Monarch-butterfly-metamorphosis.m4v", "Monarch-butterfly-on-grass.m4v", "Lavender-orchid.m4v"],"title":"video title","type":"background"},
+	"main_text":"It was my bridal night I remember,<br><br> An old man of seventy-three<br><br> I lay with my young bride in my arms,<br><br> A girl with t.b.<br><br> It was wartime, and overhead<br><br> The Germans were making a particularly heavy raid on<br><br> Hampstead.<br><br> What rendered the confusion worse, perversely<br><br> Our bombers had chosen that moment to set out for Germany.<br><br> Harry, do they ever collide?<br><br> I do not think it has ever happened,<br><br> Oh my bride, my bride.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

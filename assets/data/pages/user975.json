@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Katherine Mansfield",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-bouncy-balls-closeup-on-marble-steps-1.m4v", "Slow-motion-bouncy-balls-swarming-down-stairs.m4v", "Slow-motion-bowling-ball-smashes-fiery-tv.m4v", "Slow-motion-breaking-hour-glass-2113.m4v", "Slow-motion-breaking-light-bulb.m4v", "Slow-motion-breaking-mirror.m4v", "Slow-motion-breaking-pinata.m4v", "Slow-motion-bright-orange-smoke.m4v", "Slow-motion-bright-sparkler.m4v", "Slow-motion-bright-sparks.m4v"],"title":"video title","type":"background"},
+	"main_text":"Katherine Mansfield introduction<br><br>The Garden Party<br><br>At The Bay<br><br>Miss Brill<br><br>Prelude",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user492"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user493"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user165"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user168"
+		}
+	],
+	"autoSlideTimer": 2
+}

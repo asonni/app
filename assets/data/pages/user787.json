@@ -1,0 +1,49 @@
+{
+	"id":"user726",
+	"title":"Stories about Madness",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Moving-along-water-through-alaskan-mountain-range.m4v", "Moving-clouds-at-sea.m4v", "Moving-clouds-by-sunset.m4v", "Moving-clouds-in-glowing-sky.m4v", "Moving-clouds-over-blue-ocean.m4v", "Moving-clouds.m4v", "Moving-crowd-silhouettes.m4v", "Moving-energy-cloud.m4v"], "title":"video title","type":"background"},
+	"main_text":"“No great mind has ever existed without a touch of madness.” Aristotle<br><br>The Beast in the Jungle by Henry James<br><br>The Turn Of The Screw by Henry James<br><br>The Fatal Cradle by Wilkie Collins<br><br>Alice's Adventures in Wonderland by Lewis Carroll<br><br>Moby Dick by Herman Melville<br><br>Through the Looking-Glass by Lewis Carroll<br><br>Don Quixote by Miguel de Cervantes<br><br>The Mark on the Wall by Virginia Woolf<br><br>The Nose by Nikolai Vasilievich Gogol",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user518"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user519"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user530"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user106"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user153"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user170"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user70"
+		}
+	],
+	"autoSlideTimer": 2
+}

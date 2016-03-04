@@ -1,0 +1,13 @@
+			{
+				"id": "user479",
+				"title": "Epigram by Samuel Taylor Coleridge",
+				"exclude_from_menu": "true",
+				"image": "Rennett Stowe flower.jpg",
+				"tag": "15",
+				"video": {
+					"src": ["Pink-and-purple-clouds.m4v", "Pink-and-yellow-skies-above-ocean-2.m4v", "Pink-and-yellow-skies-above-ocean-3.m4v", "Pink-and-yellow-skies-above-ocean-4.m4v", "Pink-and-yellow-skies-above-ocean.m4v", "Pink-and-yellow-sky-getting-dark-as-sun-sets.m4v", "Pink-bloom-flower-petals.m4v", "Pink-circles-and-light.m4v", "Pink-circles-of-light.m4v", "Pink-clouds-and-blue-sky.m4v", "Pink-flowering-tree.m4v", "Pink-geometric-shapes-rotating.m4v", "Pink-geometric-shapes-rotating2.m4v", "Pink-light-beams.m4v", "Pink-purple-and-blue-sky-in-space.m4v", "Pink-vortex.m4v"],
+					"type": "background"	
+				},
+				"shuffle": true, 
+				"main_text": "Sir, I admit your general rule,<br>That every poet is a fool,<br>But you yourself may serve to show it,<br>That every fool is not a poet."
+			}

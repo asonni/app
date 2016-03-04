@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"T.S. Eliot",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Elevated-illuminated-downward-view-over-the-city-centre-and-marina-bay-south.m4v", "Elevated-view-from-the-top-of-the-arch-detriomphe-along-the-ave-de-la-grand.m4v", "Extensive-hillside-neighborhood-in-port-au-prince-haiti.m4v", "Factory-in-rotterdam-netherlands.m4v", "Factory-smoke-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"T.S. Eliot introduction<br><br>The Love Song<br><br>Portrait of a Lady <br><br>The Hollow Men<br><br>Macavity - The Mystery Cat<br><br>Four Quartets<br><br>The Waste Land<br><br>The Love Song (Countryside)<br><br>The Waste Land (Abandoned)<br><br>The Hollow Men (?)<br><br>The Hollow Men (Noir)<br><br>The Waste Land (Mountains)<br><br>The Love Song (Flowers)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user303"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user304"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user305"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user306"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user307"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user308"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user662"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user926"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user988"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user1046"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user1088"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user1105"
+		}
+	],
+	"autoSlideTimer": 2
+}

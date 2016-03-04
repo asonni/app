@@ -1,0 +1,25 @@
+{
+	"id":"user658",
+	"title":"Henry James",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Colorful-firework-flares.m4v", "Colorful-fireworks-explosions.m4v", "Colorful-fractal-hypnotic-background.m4v", "Colorful-jellyfish-pattern.m4v", "Colorful-living-flower-wallpaper.m4v", "Colorful-morning-sky-over-ocean-aerial.m4v", "Colorful-mountain-clouds.m4v", "Colorful-mountain-clouds2.m4v"],"title":"video title","type":"background"},
+	"main_text":"Henry James introduction<br><br>The Pupil<br><br>The Beast In The jungle<br><br>The Turn Of The Screw",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user517"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user518"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user519"
+		}
+	],
+	"autoSlideTimer": 2
+}

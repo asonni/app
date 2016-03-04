@@ -1,0 +1,17 @@
+/* Fonts */
+
+@font-face {
+  font-family: 'franklinGothicBook';
+  src: url('#{$fonts-path}#{$franklin-gothic-book}.eot');
+  src: url('#{$fonts-path}#{$franklin-gothic-book}.eot?#iefix') format('embedded-opentype'),
+       url('#{$fonts-path}#{$franklin-gothic-book}.woff') format('woff'),
+       url('#{$fonts-path}#{$franklin-gothic-book}.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'franklinGothicDemi';
+  src: url('#{$fonts-path}#{$franklin-gothic-demi}.eot');
+  src: url('#{$fonts-path}#{$franklin-gothic-demi}.eot?#iefix') format('embedded-opentype'),
+       url('#{$fonts-path}#{$franklin-gothic-demi}.woff') format('woff'),
+       url('#{$fonts-path}#{$franklin-gothic-demi}.ttf') format('truetype');
+}

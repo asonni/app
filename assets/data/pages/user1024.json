@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Ozymandias by Percy Bysshe Shelley (Fast)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "3"],
+	"video":{"src":["Speeding-down-country-mountain-scenic-road.m4v", "Speeding-through-desert-forest.m4v", "Dry-winter-northern-california-highway.m4v"],"title":"video title","type":"background"},
+	"main_text":"I met a traveller from an antique land<br><br> Who said: Two vast and trunkless legs of stone<br><br> Stand in the desert. Near them on the sand,<br><br> Half sunk, a shatter'd visage lies, whose frown<br><br> And wrinkled lip and sneer of cold command<br><br> Tell that its sculptor well those passions read<br><br> Which yet survive, stamp'd on these lifeless things,<br><br> The hand that mock'd them and the heart that fed.<br><br> And on the pedestal these words appear:<br><br> 'My name is Ozymandias, king of kings:<br><br> Look on my works, ye Mighty, and despair!'<br><br> Nothing beside remains. Round the decay<br><br> Of that colossal wreck, boundless and bare,<br><br> The lone and level sands stretch far away.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

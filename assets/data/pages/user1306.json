@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Sea",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Storm-surge-surf-waves.m4v","Stormy-seas.m4v", "Wake-following-ship-in-pacific-ocean.m4v","Aerial-shot-of-speed-boat-flyover.m4v", "Hd-pirate-ship.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The sea does not like to be restrained. ” Rick Riordan, The Lightning Thief<br><br>Ulysses by Lord Alfred Tennyson<br><br>Sea poppies by Hilda Doolittle<br><br>Leda by Hilda Doolittle<br><br>Sea rose by Hilda Doolittle<br><br>The rime of the ancient mariner by Samuel Taylor Coleridge<br><br>Ballad Of The Long-Legged Bait by Dylan Thomas<br><br>In the white giant's thigh by Dylan Thomas",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user437"		
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user459"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user461"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user464"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user478"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user296"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user298"
+		}
+	],
+	"autoSlideTimer": 2
+}

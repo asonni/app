@@ -1,0 +1,121 @@
+{
+	"id":"user704",
+	"title":"Noir Stories",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Shooting-automatic-gun-on-backdrop-4.m4v","Shooting-automatic-gun-on-backdrop-4.m4v","Abandoned-car-on-fire.mp4","Slow-motion-rising-flames-closeup-2.m4v"],"title":"video title","type":"background"},
+	"main_text":"Noir Stories introduction<br><br>The Fatal Cradle by Wilkie Collins<br><br>The Biter Bit by Wilkie Collins<br><br>The Dead Hand by Wilkie Collins<br><br>A Terribly Strange Bed by Wilkie Collins<br><br>The Man That Corrupted Hadleyburg by Mark Twain<br><br>The $30,000 Bequest by Mark Twain<br><br>The Murders in the Rue Morgue by Edgar Allan Poe<br><br>Fall of the House of Usher by Edgar Allan Poe<br><br>The Moonstone by Wilkie Collins<br><br>The Picture of Dorian Gray by Oscar Wilde<br><br>Great Expectations by Charles Dickens<br><br>Romeo and Juliet by William Shakespeare<br><br>The Age of Innocence by Edith Wharton<br><br>Tess of the d'Urbervilles by Thomas Hardy<br><br>Strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle<br><br>The Prince by Nicolo Machiavelli<br><br>Far from the Madding Crowd by Thomas Hardy<br><br>Oliver Twist by Charles Dickens<br><br>The Secret Adversary by Agatha Christie<br><br>The Mysterious Affair at Styles by Agatha Christie<br><br>Anna Karenina by Leo Tolstoy<br><br>David Copperfield by Charles Dickens<br><br>The Woman in White by Wilkie Collins<br><br>Madame Bovary by Gustave Flaubert<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>Winter Dreams by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user530"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user531"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user532"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user529"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user525"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user524"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user357"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user356"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user99"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user100"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user101"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user109"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user110"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user115"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user118"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user136"
+		},
+		{
+			"index": 21,
+			"url": "http://retin.ae/#!/page/user142"
+		},
+		{
+			"index": 22,
+			"url": "http://retin.ae/#!/page/user143"
+		},
+		{
+			"index": 23,
+			"url": "http://retin.ae/#!/page/user145"
+		},
+		{
+			"index": 24,
+			"url": "http://retin.ae/#!/page/user149"
+		},
+		{
+			"index": 25,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 26,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 27,
+			"url": "http://retin.ae/#!/page/user161"
+		},
+		{
+			"index": 28,
+			"url": "http://retin.ae/#!/page/user173"
+		}
+	],
+	"autoSlideTimer": 2
+}

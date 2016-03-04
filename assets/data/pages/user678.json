@@ -1,0 +1,29 @@
+{
+	"id":"user678",
+	"title":"Flower Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Hd-flowers-flower-12.m4v", "Hd-flowers-flower-20.m4v", "Hd-flowers-flower-21.m4v", "Hd-flowers-flower-22.m4v", "Hd-flowers-flower-26.m4v", "Hd-flowers-flower-27.m4v", "Hd-flowers-flower-34.m4v", "Hd-flowers-flower-43.m4v", "Hd-flowers-flower-45.m4v", "Hd-flowers-flower-43.m4v", "Hd-flowers-flower-45.m4v","Mountainside-flowers.m4v","Spinning-purple-and-pink-flowers-out-of-focus.m4v","Spinning-bouquet-of-red-roses.m4v"],"title":"video title","type":"background"},
+	"main_text":"“The earth laughs in flowers.” Ralph Waldo Emerson<br><br>A Subaltern's Love Song by John Betjeman (Flowers)<br><br>For each ecstatic instant by Emily Dickinson (Flowers)<br><br>The Love Song of J. Alfred Prufrock by T.S. Eliot (Flowers)<br><br>Give All To Love by Ralph Waldo Emerson (Flowers)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user843"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1103"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1105"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1107"
+		}
+	],
+	"autoSlideTimer": 2
+}

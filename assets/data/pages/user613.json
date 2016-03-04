@@ -1,0 +1,14 @@
+{
+	"id":"user613",
+	"title":"Anthem For Doomed Youth by Wilfred Owen (City)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "4", "10", "20"],
+	"video":{"src": ["Manhattan-bridge-overview.m4v", "Manhattan-buildings-sunrise-aerial.m4v", "Manhattan-city-building-sunrise-aerial.m4v", "Manhattan-east-river-night-aerial.m4v", "Manhattan-high-rise-building-aerial.m4v"], 
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"What passing-bells for these who die as cattle?<br><br>Only the monstrous anger of the guns.<br><br>Only the stuttering rifles' rapid rattle<br><br>Can patter out their hasty orisons.<br><br>No mockeries for them; no prayers nor bells,<br><br>Nor any voice of mourning save the choirs, <br><br>The shrill, demented choirs of wailing shells;<br><br>And bugles calling for them from sad shires.<br><br><br><br>What candles may be held to speed them all?<br><br>Not in the hands of boys, but in their eyes<br><br>Shall shine the holy glimmers of goodbyes.<br><br>The pallor of girls' brows shall be their pall;<br><br>Their flowers the tenderness of patient minds,<br><br>And each slow dusk a drawing-down of blinds.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

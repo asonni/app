@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Dulce Et Decorum Est by Wilfred Owen (Lightning)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "4"],
+	"video":{"src":["Lightning-storm-in-a-country-field.m4v", "Lightning-strike-over-capitol.m4v", "Lightning-strikes-in-clouds.m4v", "Lightning-strikes.m4v"],"title":"video title","type":"background"},
+	"main_text":"Bent double, like old beggars under sacks,<br><br>Knock-kneed, coughing like hags, we cursed through sludge,<br><br>Till on the haunting flares we turned our backs<br><br>And towards our distant rest began to trudge.<br><br>Men marched asleep. Many had lost their boots<br><br>But limped on, blood-shod. All went lame; all blind;<br><br>Drunk with fatigue; deaf even to the hoots<br><br>Of tired, outstripped Five-Nines that dropped behind.<br><br><br><br>Gas! GAS! Quick, boys!--An ecstasy of fumbling<br><br>Fitting the clumsy helmets just in time;<br><br>But someone still was yelling out and stumbling,<br><br>And flound'ring like a man in fire or lime...<br><br>Dim, through the misty panes and thick green light,<br><br>As under a green sea, I saw him drowning.<br><br><br><br>In all my dreams, before my helpless sight,<br><br>He plunges at me, guttering, choking, drowning.<br><br><br><br>If in some smothering dreams you too could pace<br><br>Behind the wagon that we flung him in,<br><br>And watch the white eyes writhing in his face,<br><br>His hanging face, like a devil's sick of sin;<br><br>If you could hear, at every jolt, the blood<br><br>Come gargling from the froth-corrupted lungs<br><br>Obscene as cancer, bitter as the cud<br><br>Of vile, incurable sores on innocent tongues,--<br><br>My friend, you would not tell with such high zest<br><br>To children ardent for some desperate glory,<br><br>The old Lie: Dulce et decorum est<br><br>Pro patria mori.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

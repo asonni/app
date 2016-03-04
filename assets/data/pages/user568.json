@@ -1,0 +1,24 @@
+{
+	"id":"user568",
+	"title":"Stories about Loneliness",
+	"image":"Hammonton Photography.jpg",
+	"tag":["30", "19", "16"],
+	"video":{"src": ["Time-lapse-sunrise-to-sunset-over-mountains-2.m4v", "Timelapse-of-winter-blizzard.m4v", "Time-lapse-smooth-silky-clouds-over-mountain.m4v", "Time-lapse-snow-melting-on-branch.m4v", "Time-lapse-snowy-landscape.m4v", "Time-lapse-snowy-mountain-range-close.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"“No man is an island, entire of itself.”<br>- John Donne, No man is an island - A selection from the prose<br><br>Miss Brill by Katherine Mansfield<br><br>The Beast in the Jungle by Henry James",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user165"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user518"
+		}
+	],
+	"autoSlideTimer": 2
+}

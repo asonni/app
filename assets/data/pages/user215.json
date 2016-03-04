@@ -1,0 +1,14 @@
+						
+{
+	"id":"user544",
+	"title":"Dishonored Lady",
+	"image":"dishonoured lady.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"Madeleine Damien is the fashion editor of a slick Manhattan magazine by day and a lively party girl by night. Unfortunately, the pressures of her job, including kowtowing to a hefty advertiser, and her bad luck with men are driving her to a breakdown. She seeks the help of a psychiatrist, and under his orders, quits her job and moves into a smaller flat under a new identity.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "dishonored_lady_512kb.mp4"}
+	]
+}						

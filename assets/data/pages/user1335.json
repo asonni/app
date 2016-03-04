@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Adventure and Heroism",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunrise-breaking-over-city-time-lapse.m4v", "Sunrise-city-panning.m4v", "Sunrise-clouds-2.m4v", "Sunrise-clouds.m4v", "Sunrise-construction-washington-dc.m4v", "Sunrise-freedom-tower-and-financial-district-nyc-aerial.m4v", "Sunset-menorca.m4v", "Sunset-moon-rising-joshua-tree.m4v", "Sunset-obscura.m4v"], "title":"video title","type":"background"},
+	"main_text":"A man who won't die for something is not fit to live.” Martin Luther King Jr.<br><br>Stories about Adventure<br><br>Heroes and Heroines<br><br>Stories About Heroes and Heroines<br><br>Mythology",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1264"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user693"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user575"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user858"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Speeches",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Old-footage-sand-dune.m4v", "Old-house-desert-timelapse.m4v", "Old-record-needle-dropping-onto-spinning-record.m4v", "Old-stone-building-and-clouds.m4v", "Old-town-street.m4v", "Old-tree-base-in-desert-landscape-1.m4v", "Old-tree-base-in-desert-landscape-2.m4v", "Old-woman-in-street.m4v"],"title":"video title","type":"background"},
+	"main_text":"Carve your name on hearts, not tombstones. A legacy is etched into the minds of others and the stories they share about you. Shannon L. Alder<br><br>Speeches about America<br><br>Speeches about the Possition of Women<br><br>Speeches about War<br><br>Inspiring Speeches<br><br>Speeches about Great Britain",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user713"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user717"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user782"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user835"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user941"
+		}
+	],
+	"autoSlideTimer": 2
+}

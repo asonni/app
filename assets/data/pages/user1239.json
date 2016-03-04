@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Journeys",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Plane-flying-across-blue-and-cloudy-sky.m4v", "Plane-flying-across-sun-close-up.m4v", "Plane-flying-over-phoenix-arizona.m4v", "Plane-flying-past-mountains-in-phoenix-arizona.m4v", "Plane-flying-through-beautiful-blue-sky-over-washington-dc.m4v", "Plane-flying-through-lightning-storm.m4v", "Plane-flying-wing-view.m4v", "Plane-landing-in-lightning.m4v", "Plane-landing.m4v", "Plane-soaring-over-sunset-sky.m4v"], "title":"video title","type":"background"},
+	"main_text":"Not all those who wander are lost. J.R.R. Tolkien, The Fellowship of the Ring, The Lord of the Rings<br><br>Meditation on the A30 by John Betjeman<br><br>somewhere I have never traveled by E. E. Cummings<br><br>Around the World in Eighty Days by Jules Verne<br><br>The Wonderful Wizard of Oz by L. Frank Baum<br><br>The Road Not Taken by Robert Frost<br><br>The Traveller by John Berryman",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user390"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user452"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user139"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user150"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user247"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user300"
+		}
+	],
+	"autoSlideTimer": 2
+}

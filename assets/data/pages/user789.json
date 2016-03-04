@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"William Blake",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Blue-energy-cloud.m4v", "Blue-energy-cloud2.m4v", "Blue-explosion.m4v", "Blue-flux.m4v", "Blue-streaks-shifting.m4v", "Blue-wavy-lines.m4v", "Blue-light-orbs-on-horizon.m4v", "Blue-line-ripples.m4v", "Blue-purple-shining-stream.m4v"], "title":"video title","type":"background"},
+	"main_text":"William Blake introduction<br><br>The Tyger <br><br>London<br><br>Jerusalem: England! Awake! Awake!<br><br>The Echoing Green <br><br>The Chimney Sweeper (Experience)<br><br>Nurse's Song (Innocence) <br><br>Holy Thursday (Experience)<br><br>Three Things To Remember <br><br>London (City)<br><br>The Chimney Sweeper (Experience) (City)<br><br>The Tyger (City)<br><br>Three Things To Remember (Rain)<br><br>Three Things To Remember (?)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user278"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user279"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user280"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user281"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user282"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user283"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user284"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user285"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user587"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user597"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user598"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user753"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user1201"
+		}
+	],
+	"autoSlideTimer": 2
+}

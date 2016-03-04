@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Stories about War",
+	"image":"Hammonton Photography.jpg",
+	"tag":["4", "30"],
+	"video":{"src":["Tombstones-at-arlington-national-cemetery-5.m4v", "Confederate-soldiers-advance-in-battle-2.m4v", "Khr-guard-militaryprison2.m4v", "Khr-slo-Mo-Brit-Ww2-Commander-Soldiers-Run.m4v", "Khr-slo-Mo-German-Ww2-2soldiers.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.” Albert Einstein<br><br>Zodmirsky’s Duel by Alexandre Dumas<br><br>Captain Burle by Emile Zola<br><br>Gone With the Wind by Margaret Mitchel<br><br>War and Peace by Leo Tolstoy<br><br>The Legend of Sleepy Hollow by Washington Irving<br><br>The War of the Worlds by H. G. Wells",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user167"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user522"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user107"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user141"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user152"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,29 @@
+{
+	"id":"user677",
+	"title":"Arid Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Aerial-shot-of-red-rock-cliffs-and-colorado-river.m4v", "Aerial-shot-of-red-rock-cliffs-and-colorado-river2.m4v", "Aerial-shot-of-monument-valley-butte-close-up.m4v", "Aerial-shot-of-monument-valley-mittens.m4v", "Aerial-shot-of-monument-valley-mittens2.m4v", "Aerial-shot-of-monument-valley-mittens3.m4v", "Aerial-shot-of-monument-valley-mittens4.m4v", "Aerial-shot-of-monument-valley-spires.m4v"],"title":"video title","type":"background"},
+	"main_text":"“To be Irish is to know that in the end the world will break your heart.” Daniel Patrick Moynihan<br><br>The Definition Of Love by Andrew Marvell (Arid)<br><br>If You Forget Me by Pablo Neruda (Arid)<br><br>When You are Old by William Butler Yeats (Arid)<br><br>On the Death of Robert Browning by Algernon Charles Swinburne (Arid)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user815"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user817"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user832"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user859"
+		}
+	],
+	"autoSlideTimer": 2
+}

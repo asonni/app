@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Forgiveness",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tunnels-in-the-secret-garden.m4v", "Tunnels-in-the-secret-garden1.m4v", "Sanibel-egrets-feeding-at-sunset.m4v", "Sanibel-sunset-10.m4v", "Sanibel-sunset-3.m4v", "Sanibel-sunset-5.m4v", "Sanibel-sunset-and-waves.m4v", "Sunset-at-cannon-beach-in-oregon.m4v", "Wave-of-clouds-streaking-across-the-sky.m4v", "Wave-washing-away-heart-in-sand.m4v", "Waves-crash-on-coastal-rock.m4v", "Waves-rolling-over-rocks-2927.m4v", "Waves-slamming-into-people-wading-in-ocean.m4v", "Waves-washing-over-chunks-of-sea-salt-2.m4v", "Waves-washing-over-chunks-of-sea-salt-4.m4v", "Waves-washing-over-chunks-of-sea-salt.m4v", "Waves-with-ruins-in-background-3.m4v", "Waves-with-shades-of-green.m4v"], "title":"video title","type":"background"},
+	"main_text":"Forgiveness is not an occasional act, it is a constant attitude.” Martin Luther King Jr.<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Anna Karenina by Leo Tolstoy<br><br>The Idiot by Fyodor Dostoyevsky",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user117"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user145"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user157"
+		}
+	],
+	"autoSlideTimer": 2
+}

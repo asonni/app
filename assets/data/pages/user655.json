@@ -1,0 +1,12 @@
+{
+	"id":"user655",
+	"title":"This Be The Verse by Philip Larkin",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "31"],
+	"video":{"src":["Beautiful-butterfly-in-purple-flowers.m4v", "Beautiful-cave-with-spots-of-light.m4v", "Beautiful-chicago-high-rises-by-river.m4v", "Beautiful-colorful-sky-views-at-sunset.m4v", "Beautiful-new-york-city-view.m4v", "Beautiful-oregon-coast-sunset.m4v"],"title":"video title","type":"background"},
+	"main_text":"They fuck you up, your mum and dad.<br><br>They may not mean to, but they do.<br><br>They fill you with the faults they had<br><br>And add some extra, just for you.<br><br><br><br>But they were fucked up in their turn<br><br>By fools in old-style hats and coats,<br><br>Who half the time were soppy-stern<br><br>And half at one another's throats.<br><br><br><br>Man hands on misery to man.<br><br>It deepens like a coastal shelf.<br><br>Get out as early as you can,<br><br>And don't have any kids yourself.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

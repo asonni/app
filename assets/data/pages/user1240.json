@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Dark",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-dropping-and-breaking-television.m4v", "Slow-motion-dropping-and-breaking-tv.m4v", "Slow-motion-dropping-and-smashing-watermelon.m4v", "Slow-motion-exploding-champagne.m4v", "Slow-motion-exploding-piggy-bank-coins-and-confetti.m4v", "Slow-motion-dropping-and-breaking-piggy-bank.m4v", "Slow-motion-destroying-sheet-of-glass.m4v", "Slow-motion-dart-popping-water-balloon.m4v"], "title":"video title","type":"background"},
+	"main_text":"“One does not become enlightened by imagining figures of light, but by making the darkness conscious.” C.G. Jung<br><br>Lady Lazarus by Sylvia Plath<br><br>Daddy by Sylvia Plath<br><br>Dulce et Decorum Est by Wilfred Owen<br><br>The soldier by Gerard Manley Hopkins<br><br>The Rocking Horse Winner by D. H. Lawrence<br><br>A Terribly Strange Bed by Wilkie Collins",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user248"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user251"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user255"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user374"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user529"
+		}
+	],
+	"autoSlideTimer": 2
+}

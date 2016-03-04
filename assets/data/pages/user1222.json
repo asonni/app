@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Music",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pink-circles-and-light.m4v", "Pink-circles-of-light.m4v", "Pink-geometric-shapes-rotating.m4v", "Pink-geometric-shapes-rotating2.m4v", "Pink-light-beams.m4v", "Pink-purple-and-blue-sky-in-space.m4v", "Pink-vortex.m4v"], "title":"video title","type":"background"},
+	"main_text":"I spread the message of hope and of unity. That's what gets me up in the morning. I can tell you what is wrong. But I cant tell you how to fix it. I am a raptivist, not a politician I deal in hope. Chuck D<br><br>I Hear America Singing by Walt Whitman<br><br>The Red Lacquer Music-Stand by Amy Lowell<br><br>A Red, Red Rose by Robert Burns",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user225"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user318"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user413"
+		}
+	],
+	"autoSlideTimer": 2
+}

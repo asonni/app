@@ -1,0 +1,49 @@
+{
+	"id":"user726",
+	"title":"Wilfred Owen",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Looking-down-at-times-square-in-new-york-2.m4v", "Looking-up-at-city-square-autumn-trees.m4v", "Looking-up-at-stars-through-trees.m4v", "Looking-up-clouds-moving-rapidly-time-lapse.m4v", "Looking-up-tree-trunk-in-autumn.m4v", "Looking-up-view-of-trees-3.m4v", "Looking-up-view-of-trees-zoom-out.m4v", "Looking-up-view-of-trees-zoom-out2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Wilfred Owen introduction<br><br>The Young Soldier<br><br>The Young Soldier (Guns)<br><br>Dulce Et Decorum Est<br><br>Dulce Et Decorum Est (Lightning)<br><br>Anthem For Doomed Youth<br><br>Anthem For Doomed Youth (City)<br><br>Smile, Smile, Smile<br><br>Smile, Smile, Smile (Countryside)<br><br>The Last Laugh",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user254"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user747"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user255"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1029"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user256"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user613"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user257"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1092"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user258"
+		}
+	],
+	"autoSlideTimer": 2
+}

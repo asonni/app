@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"The City",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-city-scape-on-the-water.m4v", "Time-lapse-city-skyline.m4v", "Time-lapse-cloud.m4v", "Time-lapse-electric-night-scape-in-las-vegas.m4v"], "title":"video title","type":"background"},
+	"main_text":"“For those who are lost, there will always be cities that feel like home.” Simon Van Booy, Everything Beautiful Began After<br><br>Speeches with City Visuals<br><br>Contrasting Regions<br><br>Cities",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user922"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1286"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1248"
+		}
+	],
+	"autoSlideTimer": 2
+}

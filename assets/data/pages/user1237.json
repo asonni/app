@@ -1,0 +1,101 @@
+{
+	"id":"user726",
+	"title":"Romantic Love",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunset-at-the-beach-3.m4v", "Sunset-at-the-beach.m4v", "Sunset-at-sea-of-galilee-2.m4v", "Sunset-at-sea-of-galilee-2521.m4v", "Moving-yellow-rose-close-up.m4v",  "Moving-yellow-rose-close-up.m4v", "Sunrise-to-sunset-over-valley.m4v","Sunrise-clouds-2.m4v", "Sunrise-clouds.m4v", "Hd-pink-lilies.m4v", "Dolly-into-orchard-with-pink-blossoms.m4v","Dolly-shot-of-pink-blossoms-on-tree-branches.m4v","Dolly-through-pink-blossoms-2.m4v", "Dolly-through-pink-blossoms.m4v", "Slow-motion-pink-flowers.m4v","Slow-motion-water-droplets-on-gerber-daisy.m4v","Slowly-rotating-pink-orchid-petals.m4v", "Slowly-rotating-wet-red-rose-bouquet.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The very essence of romance is uncertainty.” Oscar Wilde, The Importance of Being Earnest and Other Plays<br><br>Annabel Lee by Edgar Allan Poe<br><br>The River-Merchant's Wife by Ezra Pound<br><br>Dover Beach by Matthew Arnold<br><br>Home Thoughts, From Abroad by Robert Browning<br><br>A Red, Red Rose by Robert Burns<br><br>Ae Fond Kiss, and Then We Sever by Robert Burns<br><br>Let Me Not to the Marriage of True Minds by William Shakespeare<br><br>Shall I Compare Thee to a Summer's Day? by William Shakespeare<br><br>Not Marble, Nor the Gilded Monuments by William Shakespeare<br><br>My Mistress' e Eyes are Nothing Like the Sun by William Shakespeare<br><br>Sonet 43 by Elizabeth Barrett Browning<br><br>The Sun Rising by John Donne<br><br>The Good Morrow by John Donne<br><br>The Ecstasy by John Donne<br><br>She Walks in Beauty by Byron<br><br>Birches by Robert Frost<br><br>A Birthday by Christina Rossetti<br><br>To his Coy Mistress by Andrew Marvell<br><br>The Definition of Love by Andrew Marvell<br><br>The Mower's Song by Andrew Marvell<br><br>The River-Merchant's Wife by Ezra Pound<br><br>Regeneration by Henry Vaughan",
+	"shuffle": true,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user351"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user368"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user392"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user409"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user413"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user416"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user439"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user440"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user442"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user444"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user454"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user465"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user468"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user471"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user240"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user244"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user266"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user346"
+		},
+		{
+			"index": 20,
+			"url": "http://retin.ae/#!/page/user347"
+		},
+		{
+			"index": 21,
+			"url": "http://retin.ae/#!/page/user350"
+		},
+		{
+			"index": 22,
+			"url": "http://retin.ae/#!/page/user368"
+		},
+		{
+			"index": 23,
+			"url": "http://retin.ae/#!/page/user380"
+		}
+	],
+	"autoSlideTimer": 2
+}

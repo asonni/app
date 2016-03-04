@@ -1,0 +1,53 @@
+{
+	"id":"user693",
+	"title":"Heroes and Heroism",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Storm-cloud-moving-across-plush-green-landscape.m4v", "Storm-cloud.m4v", "Storm-clouds-2.m4v", "Storm-clouds-approaching-in-iceland.m4v", "Storm-clouds-forming-in-the-sky.m4v", "Stormy-1.m4v", "Stormy-2.m4v", "Stormy-a.m4v", "Stormy-skies-and-lightning-over-wheat-field.m4v", "Stormy-time-lapse-clouds-to-sunny.m4v"],"title":"video title","type":"background"},
+	"main_text":"a hero is someone who has given his or her life to something bigger than oneself - Joesph campbell <br><br>Hero by Siegfried Sassoon<br><br>The soldier by Rupert Brooke<br><br>Casualty by Seamus Heaney<br><br>The charge of the light by Lord Alfred Tennyson<br><br>Ulysses by Lord Alfred Tennyson<br><br>London, 1802 by William Wordsworth<br><br>Leda by Hilda Doolittle<br><br>Helen by Hilda Doolittle<br><br>Kubla Khan by Samuel Taylor Coleridge<br><br>O Captain! My Captain! by Walt Whitman",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user433"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user418"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user426"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user436"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user437"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user448"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user461"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user462"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user482"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user227"
+		}
+	],
+	"autoSlideTimer": 2
+}

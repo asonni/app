@@ -1,0 +1,14 @@
+						
+{
+	"id":"user544",
+	"title":"The Cabinet of Dr. Caligari",
+	"image":"dr calig.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"Dr. Caligari's somnambulist, Cesare, and his deadly predictions.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "The_Cabinet_of_Dr._Caligari_512kb.mp4"}
+	]
+}						

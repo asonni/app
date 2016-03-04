@@ -1,0 +1,26 @@
+{
+	"id":"user709",
+	"title":"Stories about Life, Conciousness and Existance",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunset-overlooking-nasa-buildings.m4v", "Sunset-palm-trees-time-lapse.m4v", "Sunset-reflection-on-the-water-2.m4v", "Sunset-reflection-on-the-water-2561.m4v", "Sunset-reflection-on-the-water-3.m4v", "Sunset-satellite-antenna-dish-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole.” William S. Burroughs<br><br>Anna Karenina by Leo Tolstoy<br><br>The Rocking Horse Winner by D. H. Lawrence<br><br>The Curious Case of Benjamin Button by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user145"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user514"
+		}
+	],
+	"autoSlideTimer": 2
+}
+

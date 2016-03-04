@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Stories about Dissatisfaction",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Pacific-clouds-1.m4v", "Pacific-clouds-4.m4v", "Pacific-clouds-5.m4v", "Pacific-clouds-5a.m4v", "Pacific-clouds-6.m4v", "Pacific-silver-water-3.m4v", "Pacific-silver-water-4.m4v", "Pacific-water.m4v", "Pacific-waves.m4v"], "title":"video title","type":"background"},
+	"main_text":"Stories about Dissatisfaction introduction<br><br>Utopia by Thomas More<br><br>The Age of Innocence by Edith Wharton<br><br>The Great Gatsby by F. Scott Fitzgerald<br><br>Siddhartha by Hermann Hesse<br><br>Madame Bovary by Gustave Flaubert<br><br>Eveline by James Joyce",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user103"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user110"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user111"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user125"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user154"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user172"
+		}
+	],
+	"autoSlideTimer": 2
+}

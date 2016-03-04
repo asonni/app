@@ -1,0 +1,15 @@
+{
+	"id":"user627",
+	"title":"I Do Not Speak by Stevie Smith (Abstract)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "22"],
+	"video":{"src": ["Blue-lake-titicaca-water.m4v", "Blue-flowers-stabilized.m4v", "Blue-ocean-water-framed-by-palm-trees-2.m4v", "Blue-pink-and-red-sky-during-alaskan-sunset.m4v","Blue-oceans-from-airplane-window.m4v", "Blue-sea.m4v", "Blue-sky-over-rocky-water.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"I do not ask for mercy for understanding for peace<br><br> And in these heavy days I do not ask for release<br><br> I do not ask that suffering shall cease.<br><br> <br><br> I do not pray to God to let me die<br><br> To give an ear attentive to my cry<br><br> To pause in his marching and not hurry by.<br><br> <br><br> I do not ask for anything I do not speak<br><br> I do not question and I do not seek<br><br> I used to in the day when I was weak.<br><br> <br><br> Now I am strong and lapped in sorrow<br><br> As in a coat of magic mail and borrow<br><br> From Time today and care not for tomorrow.",
+	"shuffle": false,
+	"type": "presentation",
+	
+	"autoSlideTimer": 2
+}

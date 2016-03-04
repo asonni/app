@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Edward Lear",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Night-aerial-view-of-times-squar.m4v", "Night-clock-panning.m4v", "Night-clouds.m4v", "Night-driving-across-golden-gate-bridge.m4v", "Night-driving-on-overpass.m4v", "Night-la-highway-time-lapse.m4v", "Night-lights-la-road-timelapse.m4v", "Night-rain-driving-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"Edward Lear introduction<br><br>The Owl And The Pussy Cat<br><br>The Jumblies<br><br>There Was An Old Man With a Beard<br><br>There Was a Young Lady Whose Eyes",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user359"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user360"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user361"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user362"
+		}
+	],
+	"autoSlideTimer": 2
+}

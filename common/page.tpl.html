@@ -1,0 +1,31 @@
+<article id="main-content">
+  
+  <!-- Background element -->
+  <div class="background-img" ng-include src="'modules/mod-background/background.tpl.html'"></div>
+
+  <div class="grid-container">
+    
+    <div class="content">
+      
+      <!-- Header -->
+      <header class="clearfix" ng-include src="'modules/mod-header/header.tpl.html'"></header>
+
+      <main id="main">
+        
+        <!-- Single Page -->
+        <div ng-if="!pageObj.landingPage">
+          <div ng-include src="'pages/single-page.tpl.html'"></div>
+        </div>
+        
+        <!-- Browser Page -->
+        <div ng-if="pageObj.landingPage" class="landing-page">
+          <div ng-include src="'pages/browser.tpl.html'"></div>
+        </div>
+
+      </main>
+
+    </div>
+
+  </div>
+
+</article>

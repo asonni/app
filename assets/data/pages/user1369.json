@@ -1,0 +1,42 @@
+{
+	"id":"user726",
+	"title":"Money",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-champagne-bottle-pop-2130.m4v", "Slow-motion-champagne-flute-cheers.m4v","Shooting-galaxy.m4v", "Shooting-galaxy2.m4v", "Shooting-stars-over-desert-tree.m4v", "Shooting-stars-timelapse.m4v", "Starry-sky-timelapse-joshua-tree4.m4v", "Stars-above-tree-canopy.m4v", "Stars-and-clouds-pass-by-rock-formations.m4v", "Stars-and-colors-in-space.m4v", "Stars-circling-in-galaxy.m4v","New-york-city-in-the-distances.m4v", "New-york-city-intersection-in-rain-timelapse-3.m4v", "New-york-city-intersection-in-rain-timelapse-5.m4v", "Stars-showing-over-antenna-dish.m4v", "Stars-through-tree-tops.m4v", "Slow-motion-circle-of-water-2.m4v", "Slow-motion-circle-of-water.m4v", "Slow-motion-clear-bubbles-rising-to-surface.m4v", "Slow-motion-cloudy-grey-smoke.m4v", "Slow-motion-crashing-whitewater-waterfall.m4v", "Slow-motion-dark-ink-splatter-3.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"Money is our madness our vast collective madness.D. H. Lawrence<br><br>Stories About Wealth<br><br>Wealth and Money<br><br>Stories About Class<br><br>Money<br><br>Poverty<br><br>Novellas About Money",
+	"shuffle": true,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user595"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user669"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1079"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1232"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1292"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1264"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1326"
+		}
+	],
+	"autoSlideTimer": 3
+}

@@ -1,0 +1,12 @@
+{
+				"id": "user246",
+				"title": "Nothing Gold Can Stay by Robert Frost",
+				"exclude_from_menu": "true",
+				"image": "Trey Ratcliff19.jpg",
+				"tag": ["15", "28"],
+				"video": {
+					"src": ["Boston-time-lapse-sunrise.m4v"],
+					"type": "background"	
+				},
+				"main_text": "Nature's first green is gold,<br>Her hardest hue to hold.<br>Her early leaf's a flower;<br>But only so an hour.<br>Then leaf subsides to leaf.<br>So Eden sank to grief,<br>So dawn goes down to day.<br>Nothing gold can stay."
+			}

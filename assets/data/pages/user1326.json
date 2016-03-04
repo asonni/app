@@ -1,0 +1,49 @@
+{
+	"id":"user726",
+	"title":"Novellas About Money", 
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["San-diego-city-skyline-time-lapse-day-to-early-dusk.m4v", "San-diego-city-skyline-time-lapse-day-with-slow-pan-and-zoom.m4v", "San-diego-city-skyline-time-lapse-night-to-day.m4v", "San-diego-city-skylline-time-lapse-nightscape.m4v", "San-diego-harbor-time-lapse-day-2.m4v", "San-diego-skyline-pan-right-across-city-daytime.m4v"], "title":"video title","type":"background"},
+	"main_text":"No complaint... is more common than that of a scarcity of money.Adam Smith<br><br>An Outpost of Progress by Joseph Conrad<br><br>The Rocking Horse-Winner by D. H. Lawrence<br><br>Heart of Darkness by Joseph Conrad<br><br>At the Bay by Katherine Mansfield<br><br>The Dead by James Joyce<br><br>How Much Land Does a Man Need? by Leo Tolstoy<br><br>Miss Brill by Katherine Mansfield<br><br>The Man That Corrupted Hadleyburg by Mark Twain<br><br>The $30,000 Bequest by Mark Twain",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user505"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user496"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user135"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user493"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user543"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user165"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user525"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user524"
+		}
+	],
+	"autoSlideTimer": 2
+}

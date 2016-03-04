@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"When I have fears that I may cease to be by John Keats (Nature)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "10", "24"],
+	"video":{"src":["Aerial-shot-of-forest-and-mountains-and-fields.m4v", "Aerial-shot-of-forest-and-mountains-with-dead-trees.m4v", "Aerial-shot-of-forest-and-mountains-with-dead-trees2.m4v", "Aerial-shot-of-forest-and-mountainside.m4v", "Aerial-shot-of-forest-mountains-and-lake.m4v"], "title":"video title","type":"background"},
+	"main_text":"When I have fears that I may cease to be<br><br> Before my pen has glean'd my teeming brain,<br><br> Before high piled books, in charact'ry,<br><br> Hold like rich garners the full-ripen'd grain;<br><br> When I behold, upon the night's starr'd face,<br><br> Huge cloudy symbols of a high romance,<br><br> And think that I may never live to trace<br><br> Their shadows, with the magic hand of chance;<br><br> And when I feel, fair creature of an hour!<br><br> That I shall never look upon thee more,<br><br> Never have relish in the faery power<br><br> Of unreflecting love;-then on the shore<br><br> Of the wide world I stand alone, and think,<br><br> Till Love and Fame to nothingness do sink.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

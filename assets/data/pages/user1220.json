@@ -1,0 +1,85 @@
+{
+	"id":"user726",
+	"title":"Beauty",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Golden-san-francisco-city-skyline.m4v", "Golden-sun-shining-through-desert-tree-branches.m4v", "Golden-sunset-over-bay-waters.m4v", "Golden-sunset.m4v"], "title":"video title","type":"background"},
+	"main_text":"My life is my message. Mahatma Ghandi<br><br>Song at Sunset by Walt Whitman<br><br>The Answer by Rudyard Kipling<br><br>She Walks in Beauty by Byron<br><br>Stopping by Woods on a Snowy Evening by Robert Frost<br><br>Oh! Snatched in Beauty's Bloom by Byron<br><br>There be None of Beauty's Daughters by Byron<br><br>I Died for Beauty it Was Scarce by Emily Dickinson<br><br>Fern Hill by Dylan Thomas<br><br>Lilacs by Amy Lowell<br><br>Patterns by Amy Lowell<br><br>The Green Bowl by Amy Lowell<br><br>Ode to Beauty by Ralph Waldo Emerson<br><br>Shall I Compare Thee to a Summer's Day? by William Shakespeare<br><br>The Best Thing in the World by Elizabeth Barrett Browning<br><br>Stars Wheel in Purple by Hilda Doolittle<br><br>Hymn to Intelectual Beauty by Percy Bysshe Shelley<br><br>Epigram by Samuel Taylor Coleridge<br><br>The Picture of Dorian Gray by Oscar Wilde",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user223"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user236"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user240"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user245"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user264"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user265"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user276"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user294"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user319"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user320"
+		},
+	{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user321"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user403"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user440"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user457"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user463"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user472"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user479"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user100"
+		}
+	],
+	"autoSlideTimer": 2
+}

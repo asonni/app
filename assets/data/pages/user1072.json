@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Arid Mountains",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Dry-canyon.m4v", "Vibrant-monument-valley-landscape.m4v","Sun-drifting-above-desert-canyon.m4v", "Sun-drifting-past-desert-redrocks.m4v","Sunny-canyons-and-valleys.m4v", "Sunny-cloudy-sky-in-death-valley.m4v", "Clouds-pass-slowly-in-goblin-valley.m4v", "Clouds-pass-slowly-over-goblin-valley-2.m4v","Clouds-over-hierve-el-agua.m4v","Cloud-shadows-over-desert-mountains-time-lapse.m4v", "Cloud-shadows-over-mountains-timelapse.m4v", "Upward-shot-of-cliff-exposing-tree-roots.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Freddie experienced the sort of abysmal soul-sadness which afflicts one of Tolstoy's Russian peasants when, after putting in a heavy day's work strangling his father, beating his wife, and dropping the baby into the city's reservoir, he turns to the cupboards, only to find the vodka bottle empty.” P.G. Wodehouse, The Best of Wodehouse: An Anthology<br><br>A Better Resurrection by Christina Rossetti (Mountains)<br><br>The Waste Land by T.S. Eliot (Mountains)<br><br>Pioneers! O Pioneers! by Walt Whitman (Mountains)<br><br>Ulysses by Lord Alfred Tennyson (Mountains)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1086"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1088"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1089"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1090"
+		}
+	],
+	"autoSlideTimer": 2
+}

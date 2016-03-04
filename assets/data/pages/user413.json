@@ -1,0 +1,12 @@
+{
+				"id": "user413",
+				"title": "A Red, Red Rose by Robert Burns",
+				"exclude_from_menu": "true",
+				"image": "Carnagenyc.jpg",
+				"tag": ["15", "9", "41", "38", "43"],
+				"video": {
+					"src": ["Scenic-clouds-over-radio-tower.m4v", "Scenic-downtown-la-night-timelapse.m4v", "Scenic-farm-with-hay-bail.m4v", "Scenic-forestry-aerial.m4v", "Scenic-glowing-orange-sunset.m4v", "Scenic-mountain-view-with-autumn-trees.m4v", "Scenic-night-timelapse-in-chicago.m4v", "Scenic-san-francisco-bridge-night-lapse.m4v", "Scenic-skyline-view-of-london-from-tower-bridge.m4v", "Scenic-starry-sky-joshua-tree-silhouette.m4v", "Scenic-storm-clouds.m4v", "Scenic-sun-in-cloudy-sky.m4v", "Scenic-sunrise-in-countryside.m4v", "Scenic-sunset-over-city-skyline-timelapse.m4v", "Scenic-vibrant-mountain-landscape-timelapse.m4v", "Scenic-walk-on-sunset-beach.m4v"],
+					"type": "background"	
+				},
+				"main_text": "O my Luve's like a red, red rose<br> That's newly sprung in June;<br> O my Luve's like the melodie<br> That's sweetly played in tune.<br><br> As fair art thou, my bonnie lass,<br> So deep in luve am I;<br> And I will luve thee still, my dear,<br> Till a' the seas gang dry:<br><br> Till a' the seas gang dry, my dear,<br> And the rocks melt wi' the sun;<br> I will luve thee still, my dear,<br> While the sands o' life shall run.<br><br> And fare thee weel, my only Luve,<br> And fare thee weel awhile!<br> And I will come again, my Luve,<br> Tho' it ware ten thousand mile."
+			}

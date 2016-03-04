@@ -1,0 +1,15 @@
+{
+	"id":"user634",
+	"title":"There's a certain Slant of light by Emily Dickinson",
+	"image":"Hammonton Photography.jpg",
+	"tag":["10", "15"],
+	"video":{"src": ["Bright-lights-outside-car-timelapse.m4v", "Bright-times-square-lights-through-nyc-buildings.m4v", "Bright-traffic-light.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"There's a certain Slant of light,<br><br> Winter Afternoons -<br><br> That oppresses, like the Heft<br><br> Of Cathedral Tunes -<br><br><br><br>Heavenly Hurt, it gives us -<br><br> We can find no scar,<br><br> But internal difference -<br><br> Where the Meanings, are -<br><br><br><br>None may teach it - Any -<br><br> 'Tis the seal Despair -<br><br> An imperial affliction<br><br> Sent us of the Air -<br><br><br><br>When it comes, the Landscape listens -<br><br> Shadows - hold their breath -<br><br> When it goes, 'tis like the Distance<br><br> On the look of Death -",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,32 @@
+{
+	"id":"user558",
+	"title":"Nathaniel Hawthorne",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Arizona-grand-canyon-pan.m4v", "Arizona-landscape-with-clouds.m4v", "Arizona-painted-desert-11.m4v", "Arizona-painted-desert-5.m4v", "Arizona-rain-in-canyon-9.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Nathaniel Hawthorne introduction<br><br>Young Goodman Brown<br><br>The Birthmark<br><br>Ethan Brand<br><br>The Scarlet Letter",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user534"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user535"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user536"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user113"
+		}
+	],
+	"autoSlideTimer": 2
+}

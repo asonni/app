@@ -1,0 +1,12 @@
+{
+				"id": "user321",
+				"title": "The Green Bowl by Amy Lowell",
+				"exclude_from_menu": "true",
+				"image": "jcookfisher.jpg",
+				"tag": ["15", "7"],
+				"video": {
+					"src": ["Aerial-shot-of-mountain-farming-community.m4v","Hd-farms-countryside-old-house-woods-2.m4v","Slow-motion-herons-on-rocks.m4v","Slow-motion-rain-on-plant.m4v", "Slow-motion-rain-on-plants.m4v","Man-walking-away-down-the-dried-up-rivered.m4v"],
+					"type": "background"	
+				},
+				"main_text": "This little bowl is like a mossy pool<br>In a Spring wood, where dogtooth violets grow<br>Nodding in chequered sunshine of the trees;<br>A quiet place, still, with the sound of birds,<br>Where, though unseen, is heard the endless song<br>And murmur of the never resting sea.<br>'T was winter, Roger, when you made this cup,<br>But coming Spring guided your eager hand<br>And round the edge you fashioned young green leaves,<br>A proper chalice made to hold the shy<br>And little flowers of the woods. And here<br>They will forget their sad uprooting, lost<br>In pleasure that this circle of bright leaves<br>Should be their setting; once more they will dream<br>They hear winds wandering through lofty trees<br>And see the sun smiling between the leaves."
+			}

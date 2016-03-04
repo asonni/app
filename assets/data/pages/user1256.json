@@ -1,0 +1,31 @@
+{
+	"id":"user726",
+	"title":"Peace",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-landscape-with-lush-green-grass.m4v", "Time-lapse-lily-pad.m4v", "Time-lapse-lush-green-mountain-landscape.m4v", "Time-lapse-nature-landscape.m4v", "Time-lapse-storm-clouds-and-weather-station.m4v", "Time-lapse-stormy-clouds.m4v", "Time-lapse-sunrise-over-trees.m4v",  "Time-lapse-sunset-into-night-stars.m4v",  "Time-lapse-sunset-through-trees-2.m4v",  "Time-lapse-vibrant-blue-sky-and-clouds.m4v", "Time-lapse-vibrant-lush-green-landscape.m4v", "Time-lapse-white-puffy-clouds-in-deep-blue-sky.m4v"], 
+	"title":"video title",
+	"type":"background"},
+	"main_text": "There are perhaps many causes worth dying for, but to me, certainly, there are none worth killing for.” ― Albert Dietrich, Army GI, Pacifist CO: The World War II Letters of Frank and Albert Dietrich<br><br>Peace by Gerard Manley Hopkins<br><br>War and Peace by Leo Tolstoy<br><br>The Lake Isle of Innisfree by William Butler Yeats<br><br>Peace by Gerard Manley Hopkins",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user372"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user326"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user372"
+		}
+	],
+	"autoSlideTimer": 2
+}

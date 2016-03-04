@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"Stories about Death",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Dramatic-white-clouds-get-darker.m4v", "Eerie-misty-forest.m4v", "Eerie-misty-forest-sunset.m4v", "Dusty-winds-blowing-past-farm-town.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I'm not afraid of death; I just don't want to be there when it happens.” Woody Allen<br><br>An Outpost of Progress by Joseph Conrad<br><br>Alyosa the Pot by Leo Tolstoy<br><br>At the Bay by Katherine Mansfield<br><br>An Imaginative Woman by Thomas Hardy<br><br>A Haunted House by Virginia Woolf<br><br>The Pupil by Henry James<br><br>The Dance of Death by Gustave Flaubert<br><br>A Terribly Strange Bed by Wilkie Collins<br><br>God See's Truth, but Waits by Leo Tolstoy<br><br>The Three Strangers by Thomas Hardy<br><br>How Much Land Does a Man Need? by Leo Tolstoy<br><br>The Death of Oliver Becaille by Emile Zola",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user505"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user526"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user493"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user175"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user174"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user517"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user171"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user529"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user528"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user537"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user543"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user523"
+		}
+	],
+	"autoSlideTimer": 2
+}

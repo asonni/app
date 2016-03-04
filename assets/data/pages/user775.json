@@ -1,0 +1,21 @@
+{
+	"id":"user716",
+	"title":"Ernest Hemingway",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Yellow-jellyfish-heading-to-surface.m4v", "Yellow-jellyfish.m4v", "Yellow-fireworks-exploding.m4v", "Yellow-and-red-ink-mix-in-water.m4v"], "title":"video title","type":"background"},
+	"main_text":"Ernest Hemingway introduction<br><br>The End of Something<br><br>Hills Like White Elephants",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user541"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user542"
+		}
+	],
+	"autoSlideTimer": 2
+}

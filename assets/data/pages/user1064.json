@@ -1,0 +1,17 @@
+{
+	"id":"user726",
+	"title":"Stories about Masculinity",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Man-approaches-camera-and-removes-his-gas-mask-from-under-his-hood.m4v", "Man-hitchhiking-in-the-winter-in-alaska.m4v", "Man-maintains-equipment-in-complex-machine-room.m4v", "Man-removes-gas-mask-as-he-walks-toward-camera.m4v"], "title":"video title","type":"background"},
+	"main_text":"I think God, in creating man, somewhat overestimated his ability.” Oscar Wilde<br><br>Persuasion by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user95"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"Abstract Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Bright-orange-sky-2.m4v", "Bright-orange-sun-going-down-behind-dark-clouds-time-lapse.m4v", "Blue-lake-titicaca-water.m4v", "Blue-flowers-stabilized.m4v", "Blue-ocean-water-framed-by-palm-trees-2.m4v", "Blue-pink-and-red-sky-during-alaskan-sunset.m4v","Blue-oceans-from-airplane-window.m4v", "Blue-sea.m4v", "Blue-sky-over-rocky-water.m4v", "Blue-sea.m4v", "Blue-sky-over-rocky-water.m4v", "Blue-streaks-shifting.m4v", "Blue-wavy-lines.m4v"], "title":"video title","type":"background"},
+	"main_text":"Abstract Visuals introduction<br><br>Hope is the thing with feathers by Emily Dickinson (Abstract)<br><br>Drugs Made Pauline Vague by Stevie Smith (Abstract)<br><br>This Lime-Tree Bower, My Prison by Samuel Taylor Coleridge (Abstract)<br><br>Kubla Khan by Samuel Taylor Coleridge (Abstract)<br><br>I Do Not Speak by Stevie Smith (Abstract)<br><br>Hero by Siegfried Sassoon (Abstract)<br><br>I felt a cleaving in my mind by Emily Dickinson (Abstract)<br><br>Give All To Love by Ralph Waldo Emerson (Abstract)<br><br>Days by Ralph Waldo Emerson (Abstract)<br><br>Repeat That, Repeat by Gerard Manley Hopkins (Abstract)<br><br>God's Grandeur by Gerard Manley Hopkins (Abstract)<br><br>Kubla Khan by Samuel Taylor Coleridge (Abstract)",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user623"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user624"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user625"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user626"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user627"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user628"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user629"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user630"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user631"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user632"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user633"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user951"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"Hope is the thing with feathers by Emily Dickinson (Spring)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["10", "15", "5", "39"],
+	"video":{"src":["Cherry-blossom-blooms-panning.m4v", "Cherry-blossom-blooms-tilt.m4v", "Cherry-blossom-blooms-zoom-out.m4v", "Cherry-blossom-nature-scene.m4v", "Cherry-blossom-petals-in-the-wind-2.m4v", "Cherry-blossom-petals-in-the-wind.m4v", "Cherry-blossoms-up-close-focus-shift.m4v"], "title":"video title","type":"background"},
+	"main_text":"Hope is the thing with feathers<br><br>That perches in the soul,<br><br>And sings the tune--without the words,<br><br>And never stops at all,<br><br><br><br>And sweetest in the gale is heard;<br><br>And sore must be the storm <br><br>That could abash the little bird<br><br>That kept so many warm.<br><br><br><br>I've heard it in the chillest land,<br><br>And on the strangest sea;<br><br>Yet, never, in extremity,<br><br>It asked a crumb of me.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

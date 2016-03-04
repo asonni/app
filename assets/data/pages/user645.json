@@ -1,0 +1,20 @@
+{
+	"id":"user645",
+	"title":"Stories about Work",
+	"image":"Hammonton Photography.jpg",
+	"tag":["30", "10"],
+	"video":{"src": ["Golden-barley-slide-rail-shot.m4v", "Golden-gate-bridge-sunset-lights-tl.m4v", "Golden-gate-bridge-sunset.m4v", "Golden-glowing-sunset.m4v", "Golden-leaves-of-fall.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Choose a job you love, and you will never have to work a day in your life.Confucius<br><br>Rip Van Winkle by Washington Irving",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user500"
+		}
+	],
+	"autoSlideTimer": 2
+}

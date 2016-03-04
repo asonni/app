@@ -1,0 +1,11 @@
+{
+				"id": "user365",
+				"title": "In A Station Of The Metro by Ezra Pound",
+				"image": "peterned.jpg",
+				"tag": ["15", "17", "3"],
+				"video": {
+					"src": ["Metro-arriving-in-station.m4v", "Metro-doors-opening-and-closing-in-station.m4v", "Metro-train-car-pulling-into-station.m4v", "Metro-train-pulling-into-station.m4v", "Metro-train-pulling-out-of-station.m4v"],
+					"type": "background"	
+				},
+				"main_text": "The apparition of these faces in the crowd;<br>Petals on a wet, black bough."
+			}

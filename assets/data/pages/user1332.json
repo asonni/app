@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Age, Experience and Knowledge",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Spinning-abstract-flashes-2.m4v","Dark-green-ink-in-water.m4v", "Slow-motion-splashing-green-paint-splatter.m4v", "Spinning-kaleidoscope-flower.m4v"], "title":"video title","type":"background"},
+	"main_text":"“I do not think, sir, you have any right to command me, merely because you are older than I, or because you have seen more of the world than I have; your claim to superiority depends on the use you have made of your time and experience.” Charlotte Bronte, Jane Eyre<br><br>The Man in the Iron Mask by Alexandre Dumas<br><br>Old age gets up by Ted Hughes<br><br>Easter 1916 by Yeats<br><br> The Chimney Sweeper (Experience) by William Blake<br><br>Holy Thursday (Experience) by William Blake<br><br>Siddhartha by Hermann Hesse<br><br>The Picture of Dorian Gray by Oscar Wilde",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user161"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user311"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user323"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user282"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user284"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user125"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user100"
+		}
+	],
+	"autoSlideTimer": 2
+}

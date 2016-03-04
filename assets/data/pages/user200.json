@@ -1,0 +1,13 @@
+						{
+	"id":"user200",
+	"title":"The Outlaw",
+	"image":"Jane_Russell_05.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"Western legends Pat Garrett, Doc Holliday and Billy the Kid are played against each other over the law and the attentions of vivacious country vixen Rio McDonald.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "the_outlaw_512kb.mp4"}
+	]
+}						

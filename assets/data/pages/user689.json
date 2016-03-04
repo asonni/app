@@ -1,0 +1,49 @@
+{
+	"id":"user689",
+	"title":"Stories about Identity",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Scenic-storm-clouds.m4v", "Scenic-sun-in-cloudy-sky.m4v", "Scenic-mountain-view-with-autumn-trees.m4v", "Scenic-vibrant-mountain-landscape-timelapse.m4v"],"title":"video title","type":"background"},
+	"main_text":"“I am no bird; and no net ensnares me: I am a free human being with an independent will.” Charlotte Bronte, Jane Eyre<br><br>Metamorphosis by Franz Kafka<br><br>Alice’s Adventures in Wonderland by Lewis Carroll<br><br>Oliver Twist by Charles Dickens<br><br>Through the Looking-Glass by Lewis Carroll<br><br>Pygmalion by Bernard Shaw<br><br>The Prince and the Pauper by Mark Twain<br><br>The Woman in White by Wilkie Collins<br><br>A Room with a View by E. M. Forster<br><br>The curious case of benjamin button by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user105"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user106"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user136"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user147"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user148"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user151"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user160"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user514"
+		}
+	],
+	"autoSlideTimer": 2
+}

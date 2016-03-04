@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Robert Burns",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":  ["Star-galaxy-timelapse.m4v", "Star-light-trails-over-la.m4v", "Starfish-tentacles-timelapse.m4v", "Starring-universe.m4v", "Starry-sky-in-space.m4v", "Starry-sky-timelapse-above-rockface.m4v", "Starry-sky-timelapse-joshua-tree.m4v"], "title":"video title","type":"background"},
+	"main_text":"Robert Burns introduction<br><br>A Red, Red Rose<br><br>Coming Through the Rye<br><br>To a Mouse<br><br>Ae Fond Kiss, And Then We Sever<br><br>My Heart's In The Highlands<br><br>Ae Fond Kiss, And Then We Sever (City)<br><br>My Heart's In The Highlands (City)<br><br>My Heart's In The Highlands (City)<br><br>Ae Fond Kiss, And Then We Sever (Countryside)<br><br>My Heart's In The Highlands (Countryside)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user413"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user414"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user415"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user416"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user417"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user570"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user615"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user620"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user822"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user838"
+		}
+	],
+	"autoSlideTimer": 2
+}

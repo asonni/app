@@ -1,0 +1,26 @@
+{
+	"id":"user726",
+	"title":"Motherhood",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Mediterranean-coast-sunrise-10.m4v", "Hospital-sunrise-panning.m4v", "Jogging-at-the-beach.m4v"], 
+	"title":"video title","type":"background"},
+	"main_text":"“Mothers are all slightly insane.” J.D. Salinger, The Catcher in the Rye<br><br>Peter Pan by J. M. Barrie<br><br>You're by Sylvia Plath<br><br>A Girl by Ezra Pound",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user123"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user249"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user364"
+		}
+	],
+	"autoSlideTimer": 2
+}

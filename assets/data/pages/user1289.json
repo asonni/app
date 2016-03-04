@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Education",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Timelapse-of-harbor-in-miami.m4v","Timelapse-of-cloudy-day-in-barcelona.m4v", "Time-lapse-wide-las-vegas-night-landscape.m4v", "Time-lapse-sunrise-over-residential-neighborhood.m4v", "Timelapse-dc-metro-station.m4v", "Timelapse-headlights-traffic.m4v"], "title":"video title","type":"background"},
+	"main_text":"Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.” Oscar Wilde<br><br>Alice’s Adventures in Wonderland by Lewis Carroll<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass<br><br>Through the Looking-Glass by Lewis Carroll<br><br>David Copperfield by Charles Dickens<br><br>This Side of Paradise by F. Scott Fitzgerald",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user106"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user127"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user146"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user149"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user155"
+		}
+	],
+	"autoSlideTimer": 2
+}

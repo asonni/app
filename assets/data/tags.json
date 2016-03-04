@@ -1,0 +1,226 @@
+{
+	"data": {
+		"tags": [
+			{
+				"id": "2", 
+				"name": "Power"
+			},
+			{
+				"id": "1", 
+				"name": "Normality"
+			},
+			{
+				"id": "3", 
+				"name": "Journey"
+			},
+			{
+				"id": "4", 
+				"name": "War"
+			},
+			{
+				"id": "5", 
+				"name": "Inspiration"
+			},
+			{
+				"id": "6", 
+				"name": "Madness"
+			},
+			{
+				"id": "7", 
+				"name": "Beauty"
+			},
+			{
+				"id": "8", 
+				"name": "Dissatisfaction"
+			},
+			{
+				"id": "9", 
+				"name": "Love"
+			},
+			{
+				"id": "10", 
+				"name": "Death"
+			},
+			{
+				"id": "11", 
+				"name": "Classics"
+			},
+			{
+				"id": "13", 
+				"name": "Documentaries"
+			},
+			{
+				"id": "12", 
+				"name": "Authors"
+			},
+			{
+				"id": "14", 
+				"name": "Film Noir"
+			},
+			{
+				"id": "15", 
+				"name": "Poetry"
+			},
+			{
+				"id": "16", 
+				"name": "Books"
+			},
+			{
+				"id": "17", 
+				"name": "People"
+			},
+			{
+				"id": "18", 
+				"name": "Poverty"
+			},
+			{
+				"id": "19", 
+				"name": "Short Stories"
+			},
+			{
+				"id": "20", 
+				"name": "Youth"
+			},
+			{
+				"id": "21", 
+				"name": "Society"
+			},
+			{
+				"id": "22", 
+				"name": "Noir"
+			},
+			{
+				"id": "23", 
+				"name": "Chaos"
+			},
+			{
+				"id": "24", 
+				"name": "Dark"
+			},
+			{
+				"id": "25", 
+				"name": "Women"
+			},
+			{
+				"id": "26", 
+				"name": "Classic Film"
+			},
+			{
+				"id": "27", 
+				"name": "Speeches"
+			},
+			{
+				"id": "28", 
+				"name": "Money"
+			},
+			{
+				"id": "29", 
+				"name": "America"
+			},
+			{
+				"id": "30", 
+				"name": "Channels"
+			},
+			{
+				"id": "31", 
+				"name": "Family"
+			},
+			{
+				"id": "32", 
+				"name": "Man"
+			},
+			{
+				"id": "33", 
+				"name": "Horror"
+			},
+			{
+				"id": "34", 
+				"name": "Religion"
+			},
+			{
+				"id": "35", 
+				"name": "Freedom"
+			},
+			{
+				"id": "36", 
+				"name": "Dreams"
+			},
+			{
+				"id": "37", 
+				"name": "Good vs. Evil"
+			},
+			{
+				"id": "38", 
+				"name": "Romance"
+			},
+			{
+				"id": "39", 
+				"name": "Hope"
+			},
+			{
+				"id": "40", 
+				"name": "Crime & Thriller"
+			},
+			{
+				"id": "41", 
+				"name": "Nature"
+			},
+			{
+				"id": "42", 
+				"name": "Heroes"
+			},
+			{
+				"id": "44", 
+				"name": "Adventure"
+			},
+			{
+				"id": "45", 
+				"name": "Friendship"
+			},
+			{
+				"id": "46", 
+				"name": "Sadness"
+			},
+			{
+				"id": "47", 
+				"name": "Isolation"
+			},
+			{
+				"id": "48", 
+				"name": "Animals"
+			},
+			{
+				"id": "49", 
+				"name": "Lies"
+			},
+			{
+				"id": "50", 
+				"name": "Supernatural"
+			},
+			{
+				"id": "52", 
+				"name": "Absurd"
+			},
+			{
+				"id": "53", 
+				"name": "Fate"
+			},
+			{
+				"id": "54", 
+				"name": "Mythology"
+			},
+			{
+				"id": "55", 
+				"name": "Disappointment"
+			},
+			{
+				"id": "56", 
+				"name": "Time"
+			},
+			{
+				"id": "57", 
+				"name": "Winter"
+			}
+		]
+	}
+}

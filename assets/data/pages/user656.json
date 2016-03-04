@@ -1,0 +1,12 @@
+{
+	"id":"user656",
+	"title":"Nothing Gold Can Stay by Robert Frost (Beautiful)",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "28"],
+	"video":{"src":["Beautiful-sky-over-beautiful-red-rock-mountains.m4v", "Beautiful-sunrise-over-green-ocean-aerial.m4v", "Beautiful-sunrise-over-san-francisco.m4v", "Beautiful-view-of-machu-picchu-ruins.m4v", "Beautiful_Clouds_Fast.m4v"],"title":"video title","type":"background"},
+	"main_text":"Nature's first green is gold,<br><br>Her hardest hue to hold.<br><br>Her early leaf's a flower;<br><br>But only so an hour.<br><br>Then leaf subsides to leaf.<br><br>So Eden sank to grief,<br><br>So dawn goes down to day.<br><br>Nothing gold can stay.",
+	"shuffle": false,
+	"type": "presentation", 
+	
+	"autoSlideTimer": 2
+}

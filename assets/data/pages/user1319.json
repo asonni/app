@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Apocalypse",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-fire-blaze-from-the-bottom.m4v", "Slow-motion-fire-spitting-embers.m4v", "Slow-motion-flames-and-embers.m4v", "Slow-motion-eerie-bright-green-flames.m4v", "Slow-motion-eerie-green-flames.m4v","Slow-motion-falling-sideways-flames.m4v", "Slow-motion-full-force-explosion.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Apocalypse is a frame of mind. A belief. A surrender to inevitability. It is a despair for the future. It is the death of hope.” Jim Butcher in Death Masks"<br><br>The Waste Land by T. S. Eliot<br><br>The country of the blind by H. G. Wells<br><br>The star by H. G. Wells<br><br>The Time Machine by H. G. Wells<br><br>The Night of the Living Dead by George Romero",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user308"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user507"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user508"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user545"
+		}
+	],
+	"autoSlideTimer": 2
+}

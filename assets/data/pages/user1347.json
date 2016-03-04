@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Madness, Memory and Reality",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-blocks-of-dry-ice-in-water.m4v", "Slow-motion-blue-and-yellow-on-white-paint-splatter.m4v", "Slow-motion-blue-droplets-2104.m4v", "Slow-motion-blue-falling-droplets-of-water-5.m4v", "Slow-motion-blue-on-white-paint-splatter.m4v", "Slow-motion-blue-paint-into-green.m4v", "Slow-motion-blue-smoke.m4v", "Slow-motion-bouncing-water-balloons.m4v", "Slow-motion-bouncy-balls-across-floor.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Show me a sane man and I will cure him for you.” C. G. Jung <br><br>Fantasy<br><br>Madness<br><br>Story About Madness<br><br>Absurd<br><br>Versions of Reality<br><br>Fate and Free Will<br><br>Memory<br><br>Stories About Memory<br><br>Fantasy<br><br>Abstract Selection",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1269"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1308"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user787"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1288"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1261"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1280"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1303"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1071"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user1269"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user1085"
+		}
+	],
+	"autoSlideTimer": 2
+}

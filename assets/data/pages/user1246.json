@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Faith and Doubt",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Storm-surge-surf-waves.m4v","Stormy-seas.m4v", "Wake-following-ship-in-pacific-ocean.m4v","Aerial-shot-of-speed-boat-flyover.m4v", "Hd-pirate-ship.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Faith is taking the first step even when you can't see the whole staircase.”― Martin Luther King Jr.<br><br>No Worst, There is None. Pitched Past Pitch of Grief by Gerard Manley Hopkins<br><br>I Wake and Feel the Fell of Dark, Not Day by Gerard Manley Hopkins<br><br>They are all Gone into the World of Light! By Henry Vaughan<br><br>The World by Henry Vaughan<br><br>The Water-fall by Henry Vaughan<br><br>Dover Beach by Matthew Arnold<br><br>Holy sonnet X: Death be not Proud by John Donne<br><br>Holy Sonnet XIV: Batter My Heart, Three-personed God by John Donne<br><br>The Rime of the Ancient Mariner by Samuel Taylor Coleridge<br><br>A Better Resurrection by Christina Rossetti<br><br>Hope is a Thing with Feathers by Emily Dickinson",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user369"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user373"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user376"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user378"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user379"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user392"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user469"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user470"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user478"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user274"
+		}
+	],
+	"autoSlideTimer": 2
+}

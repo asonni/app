@@ -1,0 +1,14 @@
+						
+	{
+	"id":"user544",
+	"title":"Kansas City Confidencial",
+	"image":"kansascityconfidential.jpg",
+	"exclude_from_menu":"true",
+	"tag":"39",
+	"video":{"src":["Red-white-texture.m4v","Mountain-flyover.m4v","Multicolored-particle-field.m4v","Electric-blue-ink-in-water.m4v","Cloud-pattern-sky.m4v","Pacific-water.m4v","Moonlight.m4v"],"title":"video title","type":"background"},
+	"main_text":"An ex-con trying to go straight is framed for a million dollar armored car robbery and must go to Mexico in order to unmask the real culprits.",
+	"shuffle": false,
+	"normal_videos": [
+		{"index": 0, "name": "kansascityconfidencial_512kb.mp4"}
+	]
+}					

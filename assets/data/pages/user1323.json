@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Stories About Freedom",
+    "image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Mountainous-coastline-sunset-2.m4v", "Mountainous-coastline-sunset.m4v", "Mountains-and-clouds.m4v", "Mountains-and-country-driving.m4v", "Mountains-and-glaciers-around-alaska.m4v", "Mountains-town-and-lake-wide-landscape.m4v"], "title":"video title","type":"background"},
+	"main_text":"“When a man is denied the right to live the life he believes in, he has no choice but to become an outlaw.” Nelson Mandela<br><br>At the Bay by Katherine Mansfield<br><br>Athenaise by Kate Chopin<br><br>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user493"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user499"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user127"
+		}
+	],
+	"autoSlideTimer": 2
+}

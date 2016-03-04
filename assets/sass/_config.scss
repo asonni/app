@@ -1,0 +1,101 @@
+@import "variables";
+@import "normalize";
+@import "fonts";
+@import "rem";
+@import "unsemantic-grid-responsive-tablet-no-ie7";
+@import "icons";
+
+
+// ----------------------------------------------------
+// RESET 
+// ----------------------------------------------------
+*, *:before, *:after{
+    margin:0;
+    padding:0;
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+}
+
+// ----------------------------------------------------
+// COLOUR DEFINITIONS
+// ----------------------------------------------------
+/*$red: #C52031;*/
+
+
+// ----------------------------------------------------
+// REUSABLE MODULES
+// ----------------------------------------------------
+
+/*** CLEAR FLOAT ***/
+.clearfix:after{
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+%overflow-fix{  overflow: hidden; }
+
+/*** HIDE TEXT ***/
+%clip-hide{
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+
+/*** NAVIGATION ***/
+%nav-list{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    > li{
+        display:block;
+        float:left;
+        &:last-child{
+            margin-right:0px;
+        }
+    }
+}
+
+
+%block{ display: block; }
+
+%inlineBlock{ display: inline-block; }
+
+%inlineTable{ display: inline-table; }
+
+%overflow-fix{ overflow: hidden; }
+
+%posRelative{ position: relative; }
+
+%posAbsolute{ position: absolute; }
+
+.no-padding{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+$secondary-color: #fffd00;
+
+
+// ----------------------------------------------------
+// MIXIN
+// ----------------------------------------------------
+@mixin transparent_class($val1, $val2){
+      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=$val1)";/* IE 8 */
+      filter: alpha(opacity=$val1);/* IE 5-7 */
+      -moz-opacity: $val2;/* Netscape */
+      -khtml-opacity: $val2; /* Safari 1.x */
+      opacity: $val2;/* Good browsers */
+}
+
+@mixin img_replacement($width, $height, $img, $repeat, $top, $left){
+      width: $width;
+      height: $height;
+      background: url($img) $repeat $top $left;
+}
+

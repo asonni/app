@@ -1,0 +1,57 @@
+{
+	"id":"user726",
+	"title":"Stories about Man and the Natural World",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Ocean-caves-and-waves-3.m4v", "Ocean-caves-and-waves.m4v", "Ocean-city-maryland-ferris-wheel-2.m4v", "Ocean-colored-retro-flowers.m4v", "Ocean-covered-in-ice.m4v", "Ocean-covered-in-ice5.m4v", "Ocean-sunset-2.m4v", "Ocean-sunset.m4v", "Ocean-tide-rolling-waves-aerial.m4v", "Ocean-waves-at-sunset.m4v", "Ocean-waves-crashing-on-the-shore.m4v", "Ocean-waves-crashing-onto-beach.m4v", "Ocean-waves-reflecting-sunrise-colors.m4v"],"title":"video title","type":"background"},
+	"main_text":"Stories about Man and the Natural World introduction<br><br>Metamorphosis by Franz Kafka<br><br>Tess of the d'Urbervilles by Thomas Hardy<br><br>Moby Dick by Herman Melville<br><br>The Prince by Nicolo Machiavelli<br><br>The Jungle Book by Rudyard Kipling<br><br>Far from the Madding Crowd by Thomas Hardy<br><br>The Life and Adventures of Robinson Crusoe by Daniel Defoe<br><br>The Time Machine by H. G. Wells<br><br>The Legend of Sleepy Hollow by Washington Irving<br><br>Kew Gardens by Virginia Woolf<br><br>The birthmark by Nathaniel Hawthorne",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user105"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user114"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user131"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user133"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user137"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user141"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user494"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user535"
+		}
+	],
+	"autoSlideTimer": 2
+}

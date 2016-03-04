@@ -1,0 +1,24 @@
+{
+	"id":"user575",
+	"title":"Stories about Heroes and Heroines",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Driver-view-of-city-at-night-3.m4v", "Driving-across-small-rural-bridge.m4v", "Driving-along-cliff-road.m4v", "Driving-along-country-farms.m4v", "Driving-along-snowy-mountainside.m4v", "Driving-down-countryside-scenic-road.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"“What makes a hero? Courage, strength, morality, withstanding adversity? Are these the traits that truly show and create a hero? Is the light truly the source of darkness or vice versa? Is the soul a source of hope or despair? Who are these so called heroes and where do they come from? Are their origins in obscurity or in plain sight?”<br><br>Ivan the Fool by Leo Tolstoy<br><br>Captain Burle by Emile Zola",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user527"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user522"
+		}
+	],
+	"autoSlideTimer": 2
+}

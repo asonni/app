@@ -1,0 +1,24 @@
+{
+	"id":"user564",
+	"title":"Fyodor Dostoyevsky",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Coiled-garter-snakes-scales.m4v", "Coiled-garter-snake-sticks-out-tongue.m4v", "Cow-skull-fire.m4v", "Death-valley-skull-timelapse-3.m4v", "Somber-macabre-skull-of-terror-and-shadow.m4v", "Wicked-nasty-rotating-distorted-skull.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Fyodor Dostoyevsky introduction<br><br>White Nights<br><br>The Idiot<br><br>",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user84"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user157"
+		}
+	],
+	"autoSlideTimer": 2
+}

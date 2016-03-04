@@ -1,0 +1,77 @@
+{
+	"id":"user726",
+	"title":"Inspiring Speeches",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Clouds-field-cropped-1080.m4v", "Clouds-field-cropped.m4v", "Clouds-field.m4v", "Clouds-floating-overhead.m4v", "Clouds-forming-and-covering-sky.m4v", "Clouds-forming-over-hills.m4v", "Clouds-in-sky-at-dusk-in-salt-lake-city-2.m4v", "Clouds-in-the-sky-above-salt-lake-city.m4v", "Clouds-moving-across-himalayan-peaks-in-nepal.m4v", "Clouds-moving-across-patagonia-countryside.m4v", "Clouds-moving-over-lush-valley-overlooking-na-pali-coast.m4v", "Clouds-moving-through-the-mountain.m4v", "Clouds-opening-and-sun-shining-through.m4v", "Clouds-over-hierve-el-agua.m4v", "Clouds-over-mountain-range.m4v", "Clouds-over-rock-canyon-cliffs-and-mountains.m4v"],"title":"video title","type":"background"},
+	"main_text":"I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.” Martin Luther King Jr.<br><br>'Freedom or Death' by Emmeline Pankhurst<br><br>'The Emancipation Proclamation' by Abraham Lincoln<br><br>'Professions for Women' by Virginia Woolf<br><br>'A Room of One's Own - Shakespeare's Sister' by Virginia Woolf<br><br>'Wind of Change' by Harold MacMillan<br><br>'Weapons for squalid and trivial ends' by Aneurin Bevan<br><br>'The lady's not for turning' by Margaret Thatcher<br><br>'The flame of French resistance' by Charles de Gaulle<br><br>'On the Cult of Personality and Its Consequences' by Nikita Khrushchev<br><br>'Inaugural Address' by Franklin D. Roosevelt<br><br>'I am Prepared to Die' by Nelson Mandela<br><br>'I Have a Dream' by Dr. Martin Luther King<br><br>'We Shall Fight on the Beaches' by Winston Churchill<br><br>'Inaugural Address' by John F. Kennedy<br><br>'Gettysburg Address' by Abraham Lincoln<br><br>'A Tryst with Destiny' by Jawaharlal Nehru",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user176"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user177"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user178"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user179"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user180"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user181"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user182"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user183"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user184"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user185"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user186"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user187"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user188"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user189"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user190"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user191"
+		}
+	],
+	"autoSlideTimer": 2
+}

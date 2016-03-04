@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Rupert Brooke",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Star-galaxy-timelapse.m4v", "Starring-universe.m4v", "Starry-sky-in-space.m4v", "Starry-sky-timelapse-above-rockface.m4v", "Starry-sky-timelapse-joshua-tree.m4v", "Starry-sky-timelapse-joshua-tree4.m4v", "Stars-above-tree-canopy.m4v", "Stars-and-clouds-pass-by-rock-formations.m4v", "Stars-and-colors-in-space.m4v", "Stars-circling-in-galaxy.m4v", "Stars-showing-over-antenna-dish.m4v", "Stars-through-tree-tops.m4v"], "title":"video title","type":"background"},
+	"main_text":"Rupert Brooke introduction<br><br>The Soldier<br><br>The Old Vicarage, Granchester<br><br>The Dead<br><br>Dining-Room Tea",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user418"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user419"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user420"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user421"
+		}
+	],
+	"autoSlideTimer": 2
+}

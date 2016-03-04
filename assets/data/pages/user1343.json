@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Journeys",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tunnel-drive-lights.m4v","Speeding-down-country-mountain-scenic-road.m4v", "Speeding-through-desert-forest.m4v", "Dry-winter-northern-california-highway.m4v", "Tunnel-drive.m4v", "Tunnel-drive2.m4v", "Tunnels-in-the-secret-garden.m4v", "Tunnels-in-the-secret-garden1.m4v"], "title":"video title","type":"background"},
+	"main_text":"Not all those who wander are lost. J.R.R. Tolkien, The Fellowship of the Ring, The Lord of the Rings <br><br>Stories about Journeys<br><br>Journeys<br><br>Fate and Free Will<br><br>Adventure<br><br>Travel<br><br>Walk<br><br>Driving<br><br>Exploration",
+	"shuffle": true,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user768"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1239"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1280"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1264"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1238"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1215"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user703"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1293"
+		}
+	],
+	"autoSlideTimer": 2
+}

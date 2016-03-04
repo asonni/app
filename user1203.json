@@ -1,0 +1,11 @@
+{
+	"id":"user726",
+	"title":"The Apology by Ralph Waldo Emerson",
+	"image":"Hammonton Photography.jpg",
+	"tag":["15", "45"],
+	"video":{"src":["Huge-cliffs.m4v", "Huge-lightening-storm-over-landscape.m4v", "Huge-snow-covered-mountain-in-alaska.m4v", "Huge-sun-setting-behing-forest.m4v", "Huge-waves-crash-into-rocks-2.m4v", "Huge-white-storm-clouds-forming-in-the-distance.m4v"], "title":"video title","type":"background"},
+	"main_text":"Think me not unkind and rude,<br><br> That I walk alone in grove and glen;<br><br> I go to the god of the wood<br><br> To fetch his word to men.<br><br><br><br> Tax not my sloth that I<br><br> Fold my arms beside the brook;<br><br> Each cloud that floated in the sky<br><br> Writes a letter in my book.<br><br><br><br> Chide me not, laborious band,<br><br> For the idle flowers I brought;<br><br> Every aster in my hand<br><br> Goes home loaded with a thought.<br><br><br><br> There was never mystery,<br><br> But 'tis figured in the flowers,<br><br> Was never secret history,<br><br> But birds tell it in the bowers.<br><br><br><br> One harvest from thy field<br><br> Homeward brought the oxen strong;<br><br> A second crop thine acres yield,<br><br> Which I gather in a song.",
+	"shuffle": false,
+	"type": "presentation", 
+	"autoSlideTimer": 2
+}

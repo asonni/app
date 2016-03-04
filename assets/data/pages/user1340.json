@@ -1,0 +1,53 @@
+{
+	"id":"user726",
+	"title":"Love and Desire",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Berlin-graffiti-montage-2.m4v", "Berlin-graffiti-montage.m4v", "Blue-and-yellow-ink-water.m4v", "Clear-jellyfish-swimming-upwards.m4v", "Color-formations-in-space.m4v", "Color-swirl-in-space.m4v", "Color-swirl-in-space2.m4v"], "title":"video title","type":"background"},
+	"main_text":"The beautiful things of the earth become more dear as they elude pursuit.<br><br>Love and Life<br><br>Love<br><br>Romance<br><br>Romantic Love<br><br>Stories About Love<br><br>Unrequited Love<br><br>Desire<br><br>Sex<br><br>Marriage<br><br>Infatuation",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1330"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1307"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1072"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1237"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user950"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1257"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1244"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1322"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user1315"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user1245"
+		}
+	],
+	"autoSlideTimer": 2
+}

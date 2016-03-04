@@ -1,0 +1,85 @@
+{
+	"id":"user726",
+	"title":"Nature and Beauty",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sanibel-egrets-feeding-at-sunset.m4v", "Aerial-shot-of-amtrak-train-in-desert-with-mountains.m4v", "Aerial-shot-of-farm-fields-from-above-tilt-up.m4v", "Aerial-shot-of-fields-with-mountains-in-distance.m4v", "Aerial-shot-of-forest-and-mountains-and-fields.m4v", "Aerial-shot-of-forest-and-mountains-with-dead-trees.m4v", "Aerial-shot-of-forest-and-mountains-with-dead-trees2.m4v", "Aerial-shot-of-forest-and-mountainside.m4v", "Aerial-shot-of-forest-mountains-and-lake.m4v", "Sunlight-flowers.m4v","Hd-flowers-flower-12.m4v", "Hd-flowers-flower-20.m4v", "Hd-flowers-flower-21.m4v", "Hd-flowers-flower-22.m4v", "Hd-flowers-flower-26.m4v", "Hd-flowers-flower-27.m4v", "Hd-flowers-flower-34.m4v", "Sanibel-sunset-10.m4v", "Sanibel-sunset-3.m4v", "Sanibel-sunset-5.m4v", "Sanibel-sunset-and-waves.m4v", "Sunset-at-cannon-beach-in-oregon.m4v", "Wave-of-clouds-streaking-across-the-sky.m4v", "Wave-washing-away-heart-in-sand.m4v", "Waves-crash-on-coastal-rock.m4v", "Waves-rolling-over-rocks-2927.m4v", "Waves-slamming-into-people-wading-in-ocean.m4v", "Waves-washing-over-chunks-of-sea-salt-2.m4v", "Waves-washing-over-chunks-of-sea-salt-4.m4v", "Waves-washing-over-chunks-of-sea-salt.m4v", "Waves-with-ruins-in-background-3.m4v", "Waves-with-shades-of-green.m4v"], "title":"video title","type":"background"},
+	"main_text":"Beauty awakens the soul to act.Dante Alighieri<br><br>Sea<br><br>Animals<br><br>Stars<br><br>Green<br><br>Beauty<br><br>Ocean<br><br>Nature<br><br>Landscapes<br><br>Peace<br><br>Stars and the Universe<br><br>Beach<br><br>Nature Visuals<br><br>Countryside<br><br>Clouds Visuals<br><br>Autumn<br><br>Arid<br><br>Flowers<br><br>Stories About Beauty",
+	"shuffle": true,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user1242"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user1252"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1255"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user1253"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user1220"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user1271"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user1219"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user1233"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user1256"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user803"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user914"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user853"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user791"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user780"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user712"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user677"
+		},
+		{
+			"index": 18,
+			"url": "http://retin.ae/#!/page/user678"
+		},
+		{
+			"index": 19,
+			"url": "http://retin.ae/#!/page/user842"
+		}
+	],
+	"autoSlideTimer": 2
+}

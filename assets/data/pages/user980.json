@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Leo Tolstoy",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Africa-sunset-panning.m4v", "African-market-zoomed-shot-with-children.m4v", "African-village-at-sunset.m4v", "African-woman-walking-with-child-on-street-2.m4v", "African-woman-washes-child-at-a-river.m4v"], "title":"video title","type":"background"},
+	"main_text":"Leo Tolstoy introduction<br><br>War and Peace<br><br>Anna Karenina<br><br>Alyosa the Pot<br><br>Ivan the Fool<br><br>God Sees the Truth, But Waits<br><br>How Much Land Does a Man Needs?",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user145"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user526"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user527"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user528"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user543"
+		}
+	],
+	"autoSlideTimer": 2
+}

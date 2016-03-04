@@ -1,0 +1,12 @@
+{
+				"id": "user269",
+				"title": "In An Artist's Studio by Christina Rossetti",
+				"exclude_from_menu": "true",
+				"image": "Kathleen Moore.jpg",
+				"tag": ["5", "15"],
+				"video": {
+					"src": ["Bright-rings-purple.m4v", "Bright-rotating-coffee-beans.m4v", "Bright-rotating-lettuce.m4v", "Bright-sandy-beachfront.m4v", "Bright-sea-reflection-from-beach.m4v", "Bright-sun-ocean-glimmer.m4v", "Bright-sun-over-ocean-expanse.m4v", "Bright-sun-reflecting-off-waves.m4v", "Bright-sun-setting-over-trees.m4v", "Bright-sun-shines-over-grand-canyon.m4v"],
+					"type": "background"	
+				},
+				"main_text": "One face looks out from all his canvasses,<br>One selfsame figure sits or walks or leans;<br>We found her hidden just behind those screens,<br>That mirror gave back all her loveliness.<br>A queenin opal or in ruby dress,<br>A nameless girl in freshest summer greens,<br>A saint, an angel; -- every canvass means<br>The same one meaning, neither more nor less.<br>He feeds upon her face by day and night,<br>And she with true kind eyes looks back on him<br>Fair as the moon and joyfull as the light;<br>Not wan with waiting, not with sorrow dim;<br>Not as she is, but was when hope shone bright;<br>Not as she is, but as she fills his dream."
+			}

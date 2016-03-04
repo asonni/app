@@ -1,0 +1,25 @@
+{
+	"id":"user726",
+	"title":"Man, Change, the natural world and gender",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Bright-lights-outside-car-timelapse.m4v", "Bright-times-square-lights-through-nyc-buildings.m4v", "Bright-traffic-light.m4v"], "title":"video title","type":"background"},
+	"main_text":"Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.” Lao Tzu<br><br>Kew Gardens by Katherine Mansfield<br><br>The Secret Adversary by Agatha Christie<br><br>Rocking Horse Winner by D.H. Lawrence",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user494"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user142"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user496"
+		}
+	],
+	"autoSlideTimer": 2
+}

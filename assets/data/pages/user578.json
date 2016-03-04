@@ -1,0 +1,36 @@
+{
+	"id":"user578",
+	"title":"Stories about Drugs and Alcohol",
+	"image":"Hammonton Photography.jpg",
+	"tag":["30", "19", "16"],
+	"video":{"src": ["Driving-through-city-at-night.m4v", "Driving-through-downtown.m4v", "Driving-through-small-country-town.m4v", "Driving-through-snowy-mountains.m4v", "Driving-through-tunnel.m4v", "Driving-to-cathedral.m4v", "Driving-up-mountain-pass.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"“I have absolutely no pleasure in the stimulants in which I sometimes so madly indulge. It has not been in the pursuit of pleasure that I have periled life and reputation and reason. It has been the desperate attempt to escape from torturing memories, from a sense of insupportable loneliness and a dread of some strange impending doom.”<br>- Edgar Allan Poe<br><br>The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle<br><br>Eveline by James Joyce<br><br>The Dead by James Joyce<br><br>The Odor of Chrysanthemums by D. H. Lawrence<br><br>Ode to a Nightinggale by John Keats",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user118"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user495"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user334"
+		}
+	],
+	"autoSlideTimer": 2
+}

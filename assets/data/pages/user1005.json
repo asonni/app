@@ -1,0 +1,33 @@
+{
+	"id":"user1005",
+	"title":"H. G. Wells",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Starry-sky-timelapse-joshua-tree4.m4v", "Stars-above-tree-canopy.m4v", "Stars-and-clouds-pass-by-rock-formations.m4v", "Stars-and-colors-in-space.m4v", "Stars-circling-in-galaxy.m4v", "Stars-showing-over-antenna-dish.m4v", "Stars-through-tree-tops.m4v"], "title":"video title","type":"background"},
+	"main_text":"H. G. Wells introduction<br><br>The Country of the Blind<br><br>The Star<br><br>The Truth About Pyecraft<br><br>The Time Machine<br><br>The War of the Worlds",
+	"shuffle": false,
+	"type": "presentation", 
+    "links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user507"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user508"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user509"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user152"
+		}
+	],
+	"autoSlideTimer": 2
+}

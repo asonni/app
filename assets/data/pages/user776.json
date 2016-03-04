@@ -1,0 +1,29 @@
+{
+	"id":"user715",
+	"title":"Oscar Wilde",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": [ "Yellow-flower-meadow-timelapse.m4v", "Yellow-flowers-in-green-field-5.m4v", "Yellow-flowers-in-green-field-6.m4v", "Yellow-grassy-landscape.m4v"],"title":"video title","type":"background"},
+	"main_text":"Oscar Wilde introduction<br><br>The Devoted Friend<br><br>The Picture of Dorian Gray<br><br>The Importance of Being Ernest<br><br>The Happy Prince",
+	"shuffle": false,
+	"type": "presentation",
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user502"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user100"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user121"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user169"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,33 @@
+{
+	"id":"user726",
+	"title":"Respect and Reputation",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-golden-sunset-into-cityscape.m4v", "Time-lapse-road-rush-intersection.m4v", "Time-lapse-road-rush-night-chaos.m4v", "Time-lapse-road-rush-night-chaos2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Appear weak when you are strong, and strong when you are weak. Sun Tzu, The Art of War<br><br>Much Ado About Nothing by William Shakespeare<br><br>Moby Dick by Herman Melville<br><br>The Prince by Nicolo Machiavelli<br><br>The Hound of the Baskervilles by Arthur Conan Doyle<br><br>The Prince and the Pauper by Mark Twain",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user108"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user119"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user120"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user128"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user148"
+		}
+	],
+	"autoSlideTimer": 2
+}

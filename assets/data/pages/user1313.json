@@ -1,0 +1,77 @@
+{
+	"id":"user726",
+	"title":"Family",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Sunny-canyons-and-valleys.m4v", "Sunny-cloudy-sky-in-death-valley.m4v", "Sunny-early-morning-glaciers.m4v", "Sunny-redwoods-spin.m4v", "Sunny-tropical-beach-trees.m4v", "Sunrays-poking-through-cloud-cover.m4v"], "title":"video title","type":"background"},
+	"main_text":"In every conceivable manner, the family is link to our past, bridge to our future.Alex Haley<br><br>Babyhood by Algernon Charles Swinburne<br><br>Digging by Seamus Heaney<br><br>Mid-term Break by Seamus Heaney<br><br>Frost at Midnight by Samuel Taylor Coleridge <br><br>The Dead by James Joyce <br><br>Wuthering Heights by Emily Bronte<br><br>Bleak House by Virginia Woolf<br><br>Adventures of Huckleberry Finn by Mark Twain<br><br>Frankenstein by Mary Wollstonecraft Shelley<br><br>War and Peace by Leo Tolstoy<br><br>Eveline by James Joyce<br><br>This be the Verse by Phillip Larkin<br><br>The Prodigal Son by Rudyard Kipling<br><br>You're by Sylvia Plath<br><br>Daddy by Sylvia Plath<br><br>The Moon and the Yew Tree by  Sylvia Plath",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user342"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user423"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user427"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user481"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user497"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user98"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user102"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user117"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user124"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user130"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user172"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user231"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user234"
+		},
+		{
+			"index": 15,
+			"url": "http://retin.ae/#!/page/user249"
+		},
+		{
+			"index": 16,
+			"url": "http://retin.ae/#!/page/user251"
+		},
+		{
+			"index": 17,
+			"url": "http://retin.ae/#!/page/user253"
+		}
+	],
+	"autoSlideTimer": 2
+}

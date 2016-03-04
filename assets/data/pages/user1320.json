@@ -1,0 +1,45 @@
+{
+	"id":"user726",
+	"title":"Novellas About Appearances",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["San-diego-time-lapse-city-skyline-nightscape-with-convention-center-2.m4v", "San-francisco-bay-bridge-and-cityscape-at-night.m4v", "San-francisco-buildings-enveloped-in-fog.m4v", "San-francisco-city-sunrise-timelapse.m4v", "San-francisco-downtown-sunrise-timelapse.m4v", "San-francisco-skyline-timelapse-day-to-night.m4v", "San-francisco-twin-peaks-timelapse.m4v", "San-juan-night-alley.m4v", "San-vicente-dam.m4v"], "title":"video title","type":"background"},
+	"main_text":"“The fear of appearances is the first symptom of impotence.” Fyodor Dostoyevsky in Crime and Punishment<br><br>The Turn of the Screw by Henry James<br><br>The star by H. G. Wells<br><br>Nana by Emile Zola<br><br>Miss Brill by Katherine Mansfield<br><br>The Pupil by Henry James<br><br>Young Goodman Brown by Nathaniel Hawthorne<br><br>The Truth About Pyecraft by H. G. Wells<br><br>The Dilettante by Edith Wharton",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user519"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user508"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user520"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user165"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user517"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user534"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user509"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user510"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,28 @@
+{
+	"id":"user644",
+	"title":"Smoke Visuals",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src": ["Smoke-fire-sunset-timelapse.m4v", "Smoke-on-black-3.m4v", "Smoke-on-black-4.m4v", "Smoke-stack-with-heaving-clouds-of-smoke-1.m4v", "Smoke-stack-with-heaving-clouds-of-smoke-2.m4v", "Smoke-stack.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Civilization is like a thin layer of ice upon a deep ocean of chaos and darkness. Werner Herzog <br><br>Helen by Hilda Doolittle (Smoke)<br><br>The Tell-Tale Heart by Edgar Allan Poe (Smoke)<br><br>Peace by Gerard Manley Hopkins (Smoke)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user895"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user899"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user1027"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,61 @@
+{
+	"id":"user726",
+	"title":"Marriage",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Tunnels-in-the-secret-garden.m4v", "Tunnels-in-the-secret-garden1.m4v", "Sanibel-egrets-feeding-at-sunset.m4v", "Sanibel-sunset-10.m4v", "Sanibel-sunset-3.m4v", "Sanibel-sunset-5.m4v", "Sanibel-sunset-and-waves.m4v", "Sunset-at-cannon-beach-in-oregon.m4v", "Wave-of-clouds-streaking-across-the-sky.m4v", "Wave-washing-away-heart-in-sand.m4v", "Waves-crash-on-coastal-rock.m4v", "Waves-rolling-over-rocks-2927.m4v", "Waves-slamming-into-people-wading-in-ocean.m4v", "Waves-washing-over-chunks-of-sea-salt-2.m4v", "Waves-washing-over-chunks-of-sea-salt-4.m4v", "Waves-washing-over-chunks-of-sea-salt.m4v", "Waves-with-ruins-in-background-3.m4v", "Waves-with-shades-of-green.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Never marry at all, Dorian. Men marry because they are tired, women, because they are curious: both are disappointed.” Oscar Wilde, The Picture of Dorian Gray<br><br>The Importance of Being Earnest by Oscar Wilde<br><br>Dracula by Bram Stoker<br><br>The River-Merchant's Wife by Ezra Pound<br><br>Dover Beach by Mathew Arnold<br><br>My Last Duchess by Robert Browning<br><br>Let me not to the Marriage of True Minds by William Shakespeare<br><br>Sonet 43 by Elizabeth Barrett Browning<br><br>The Sun Rising by John Donne<br><br>The Flea by John Donne<br><br>A Velediction: Forbiddding Mourning by John Donne<br><br>The Ecstasy by John Donne<br><br>Emma by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user121"		
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user122"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user368"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user392"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user406"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user439"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user454"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user465"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user466"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user467"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user471"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user94"
+		}
+	],
+	"autoSlideTimer": 2
+}

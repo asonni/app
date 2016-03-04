@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Stories about Marriage",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["La-city-freeway-tl.m4v", "La-city-light-trail-timelapse.m4v", "La-city-overview-timelapse.m4v", "La-downtown-street-timelapse.m4v", "La-downtown-traffic-night-light-trails.m4v", "La-freeway-overpass-timelapse.m4v", "La-scenic-skyline-roadway-timelapse.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Never marry at all, Dorian. Men marry because they are tired, women, because they are curious: both are disappointed.” Oscar Wilde, The Picture of Dorian Gray<br><br>Athenaise by Kate Chopin<br><br>A Haunted House by Virginia Woolf<br><br>Souls Belated by Edith Wharton<br><br>The Importance of Being Earnest by Oscar Wilde<br><br>Dracula by Bram Stoker<br><br>Emma by Jane Austen",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user499"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user174"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user511"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user121"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user122"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user94"
+		}
+	],
+	"autoSlideTimer": 2
+}

@@ -1,0 +1,38 @@
+{
+	"id":"user691",
+	"title":"Winter Mountains",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Time-lapse-sunrise-to-sunset-over-mountains-2.m4v", "Timelapse-of-winter-blizzard.m4v", "Time-lapse-smooth-silky-clouds-over-mountain.m4v", "Time-lapse-snow-melting-on-branch.m4v", "Time-lapse-snowy-landscape.m4v", "Time-lapse-snowy-mountain-range-close.m4v", "Time-lapse-colorful-panning-sunrise-winter-landscape-2.m4v", "Time-lapse-colorful-panning-sunrise-winter-landscape.m4v", "Time-lapse-fisheye-winter-landscape.m4v", "Time-lapse-clouds-rushing-across-utah-mountain-peaks.m4v"],
+	"title":"video title","type":"background"},
+	"main_text":"“What good is the warmth of summer, without the cold of winter to give it sweetness.” John Steinbeck, Travels with Charley: In Search of America<br><br>On the Death of Robert Browning by Algernon Charles Swinburne (Winter Mountains)<br><br>When I have fears that I may cease to be by John Keats (Winter Mountains)<br><br>Leda by Hilda Doolittle (Winter Mountains)<br><br>If You Forget Me by Pablo Neruda (Winter Mountains)<br><br>Frost at Midnight by Samuel Taylor Coleridge (Winter Mountains)<br><br>Winter: My Secret by Christina Rossetti (Winter Mountains)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user814"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user827"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user828"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user829"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user830"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user831"
+		}
+	],
+	"autoSlideTimer": 2
+}

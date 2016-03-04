@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Stories about Evil",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-fire-blaze-from-the-bottom.m4v", "Slow-motion-fire-spitting-embers.m4v", "Slow-motion-flames-and-embers.m4v", "Slow-motion-eerie-bright-green-flames.m4v", "Slow-motion-eerie-green-flames.m4v","Slow-motion-falling-sideways-flames.m4v", "Slow-motion-full-force-explosion.m4v"], "title":"video title","type":"background"},
+	"main_text":"“Man is the cruelest animal.” Friedrich Nietzsche<br><br>Hear of Darkness by Joseph Conrad<br><br>The Princess by D. H. Lawrence<br><br>In the Ravine by Anton Chekhov<br><br>Young Goodman Brown by Nathaniel Hawthorne<br><br>The Turn Of The Screw by Henry James<br><br>The Fiddler of the Reels by Thomas Hardy",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user135"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user166"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user539"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user534"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user519"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user538"
+		}
+	],
+	"autoSlideTimer": 6
+}

@@ -1,0 +1,29 @@
+{
+	"id":"user726",
+	"title":"Lewis Carroll",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Child-sitting-on-a-rock-near-village-in-kenya.m4v", "Children-playing-in-the-dirt-road-in-kenya.m4v", "Children-playing-soccer-on-the-fields-5.m4v", "Children-playing-soccer-on-the-fields-7.m4v", "Children-sitting-on-a-bench-in-a-kenyan-village.m4v", "Children-stand-in-front-of-ethiopian-refugee-camp.m4v", "Kid-on-rock-near-mombassa.m4v", "Kids-making-faces-at-the-camera-in-africa.m4v", "Kids-near-a-village-in-kenya-5.m4v", "Kids-near-a-village-in-kenya-6.m4v", "Kids-swarm-around-the-camera-in-africa.m4v", "Kids-wash-clothes-in-river.m4v"], "title":"video title","type":"background"},
+	"main_text":"Lewis Carroll introduction<br><br>The Walrus And The Carpenter<br><br>Jabberwocky <br><br>Alice’s Adventures in Wonderland<br><br>Through the Looking-Glass",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user337"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user338"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user106"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user146"
+		}
+	],
+	"autoSlideTimer": 2
+}

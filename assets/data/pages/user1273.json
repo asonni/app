@@ -1,0 +1,37 @@
+{
+	"id":"user726",
+	"title":"Science",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Slow-motion-bouncy-balls-closeup-on-marble-steps-1.m4v", "Slow-motion-bouncy-balls-swarming-down-stairs.m4v", "Slow-motion-bowling-ball-smashes-fiery-tv.m4v", "Slow-motion-breaking-hour-glass-2113.m4v", "Slow-motion-breaking-light-bulb.m4v", "Slow-motion-breaking-mirror.m4v", "Slow-motion-breaking-pinata.m4v", "Slow-motion-bright-orange-smoke.m4v", "Slow-motion-bright-sparkler.m4v", "Slow-motion-bright-sparks.m4v"], "title":"video title","type":"background"},
+	"main_text":"Science investigates; religion interprets. Science gives man knowledge, which is power; religion gives man wisdom, which is control. Science deals mainly with facts; religion deals mainly with values. The two are not rivals.” Martin Luther King Jr.<br><br>Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson<br><br>Frankenstein by Mary Wollstonecraft Shelley<br><br>The Time Machine by H. G. Wells<br><br>They Are All Gone Into the World of Light! by Henry Vaughan<br><br>The Laboratory by Robert Browning<br><br>The Birthmark by Nathaniel Hawthorne",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user115"		
+			},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user124"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user138"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user376"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user408"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user535"
+		}
+	],
+	"autoSlideTimer": 2
+}

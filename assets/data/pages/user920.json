@@ -1,0 +1,65 @@
+{
+	"id":"user726",
+	"title":"Andrew Marvell",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Intense-particle-beam.m4v", "Intense-tunnel-of-light-blue.m4v", "Slow-motion-floating-colorful-lights-1.m4v", "Slow-motion-fiery-texture.m4v", "Slow-motion-floating-colorful-lights-2.m4v"], "title":"video title","type":"background"},
+	"main_text":"Andrew Marvell introduction<br><br>The Coronet<br><br>To His Coy Mistress <br><br>The Definition of Love <br><br>The Garden <br><br>On a Drop of Dew <br><br>The Mower's Song<br><br>The Definition of Love  (Arid)<br><br>The Coronet (Countryside)<br><br>The Mower's Song (Countryside)<br><br>On a Drop of Dew (Countryside)<br><br>The Definition of Love (Countryside)<br><br>The Definition of Love (Countryside)<br><br>On a Drop of Dew (Dew)",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user345"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user346"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user347"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user348"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user349"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user350"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user815"
+		},
+		{
+			"index": 9,
+			"url": "http://retin.ae/#!/page/user818"
+		},
+		{
+			"index": 10,
+			"url": "http://retin.ae/#!/page/user834"
+		},
+		{
+			"index": 11,
+			"url": "http://retin.ae/#!/page/user851"
+		},
+		{
+			"index": 12,
+			"url": "http://retin.ae/#!/page/user945"
+		},
+		{
+			"index": 13,
+			"url": "http://retin.ae/#!/page/user861"
+		},
+		{
+			"index": 14,
+			"url": "http://retin.ae/#!/page/user1106"
+		}
+	],
+	"autoSlideTimer": 2
+}

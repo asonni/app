@@ -1,0 +1,14 @@
+{
+	"id":"user632",
+	"title":"Repeat That, Repeat by Gerard Manley Hopkins (Abstract)",
+	"image":"Hammonton Photography.jpg",
+	"tag":"15",
+	"video":{"src": ["Bright-pink-sunset-over-peninsula-panning.m4v", "Bright-sun-setting-over-trees.m4v","Bright-sun-shines-over-grand-canyon.m4v", "Bright-sunset-above-grain.m4v", "Bright-sun-shining-through-clouds.m4v"],
+	"title":"video title",
+	"type":"background"
+	},
+	"main_text":"Repeat that, repeat,<br><br>Cuckoo, bird, and open ear wells, heart-springs, delightfully sweet,<br><br>With a ballad, with a ballad, a rebound <br><br>Off trundled timber and scoops of the hillside ground, hollow hollow hollow ground:<br><br>The whole landscape flushes on a sudden at a sound.",
+	"shuffle": false,
+	"type": "presentation",
+	"autoSlideTimer": 2
+}

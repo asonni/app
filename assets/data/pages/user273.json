@@ -1,0 +1,12 @@
+{
+				"id": "user273",
+				"title": "For each ecstatic instant by Emily Dickinson",
+				"exclude_from_menu": "true",
+				"image": "Amy V. Miller.jpg",
+				"tag": ["15", "5"],
+				"video": { 
+					"src": ["Cannon-beach-in-the-evening.m4v", "Clear-blue-water-on-bermuda-shoreline.m4v", "Clear-ocean-water-from-island-shore-2.m4v", "Clear-skies-full-blossom.m4v", "Cliff-sunrise.m4v", "Finches-on-perch-2.m4v", "Moving-clouds-in-glowing-sky.m4v", "Blue-oceans-from-airplane-window.m4v", "Pink-and-yellow-skies-above-ocean.m4v", "Slow-motion-swans-flying-through-blue-sky.m4v"],
+					"type": "background"	
+				},
+				"main_text": "For each ecstatic instant<br>We must an anguish pay<br>In keen and quivering ratio<br>To the ecstasy.<br><br>For each beloved hour<br>Sharp pittances of years,<br>Bitter contested farthings<br>And coffers heaped with tears."
+			}

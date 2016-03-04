@@ -1,0 +1,41 @@
+{
+	"id":"user726",
+	"title":"Speeches about Great Britain",
+	"image":"Hammonton Photography.jpg",
+	"tag":"1",
+	"video":{"src":["Cloud-timelapse.m4v", "Clouds-and-current-moving-in-alaska.m4v", "Clouds-and-fog-rolling-over-rocky-mountain-peak-landscape.m4v", "Clouds-and-road-time-lapse.m4v", "Clouds-blowing-over-jagged-snowy-peaks-dusk.m4v", "Clouds-cover-glowing-sun.m4v", "Clouds-covering-bright-sun.m4v", "Clouds-covering-sky-sunset.m4v", "Hd-clouds-time-lapse-2.m4v", "Hd-farms-countryside-autumn-country-road.m4v", "Hd-farms-countryside-autumn-farm-6.m4v", "Hd-farms-countryside-country-road.m4v", "Hd-farms-countryside-farm-horses-4.m4v"], "title":"video title","type":"background"},
+	"main_text":"If you have a important point to make, don’t try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time - a tremendous whack. Winston Churchill<br><br>'Freedom or Death' by Emmeline Pankhurst<br><br>'Professions for Women' by Virginia Woolf<br><br>'A Room of One's Own - Shakespeare's Sister' by Virginia Woolf<br><br>'Wind of Change' by Harold MacMillan<br><br>'Weapons for squalid and trivial ends' by Aneurin Bevan<br><br>'The lady's not for turning' by Margaret Thatcher<br><br>'We Shall Fight on the Beaches' by Winston Churchill",
+	"shuffle": false,
+	"type": "presentation", 
+	"links": [
+		{
+			"index": 2,
+			"url": "http://retin.ae/#!/page/user176"
+		},
+		{
+			"index": 3,
+			"url": "http://retin.ae/#!/page/user178"
+		},
+		{
+			"index": 4,
+			"url": "http://retin.ae/#!/page/user179"
+		},
+		{
+			"index": 5,
+			"url": "http://retin.ae/#!/page/user180"
+		},
+		{
+			"index": 6,
+			"url": "http://retin.ae/#!/page/user181"
+		},
+		{
+			"index": 7,
+			"url": "http://retin.ae/#!/page/user182"
+		},
+		{
+			"index": 8,
+			"url": "http://retin.ae/#!/page/user188"
+		}
+	],
+	"autoSlideTimer": 2
+}
