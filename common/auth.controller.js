@@ -23,32 +23,27 @@
 
     function authDataCallback(authData) {
         if (authData) {
-            console.log("User " + authData.uid + " is logged in with " + authData.provider);
-            vm.isLoggedIn = true;
-            var user = $firebaseObject(ref.child('users').child(authData.uid));
-            user.$loaded().then(function () {
-              if (user.name == undefined) {
-                var newUser = {
-                    rooms: [],
-                    maxRooms: 5
-                };
-                if (authData.google) {
-                  newUser.name = authData.google.displayName;
-                }
-                if (authData.facebook) {
-                  newUser.name = authData.facebook.username;
-                }
-                if (authData.twitter) {
-                  newUser.name = authData.twitter.displayName;
-                }
-                if (authData.password) {
-                  console.log("got password"+vm.name);
-                  newUser.name = vm.name;
-                }
-                user.$ref().set(newUser);
+          console.log("User " + authData.uid + " is logged in with " + authData.provider);
+          vm.isLoggedIn = true;
+          var user = $firebaseObject(ref.child('users').child(authData.uid));
+          user.$loaded().then(function () {
+            if (user.name == undefined) {
+              var newUser = {};
+              if (authData.google) {
+                newUser.name = authData.google.displayName;
               }
-            });
-
+              if (authData.facebook) {
+                newUser.name = authData.facebook.username;
+              }
+              if (authData.twitter) {
+                newUser.name = authData.twitter.displayName;
+              }
+              if (authData.password) {
+                newUser.name = vm.name;
+              }
+              user.$ref().set(newUser);
+            }
+          });
         } else {
             console.log("User is logged out");
             vm.isLoggedIn = false;
@@ -99,10 +94,12 @@
     }
     vm.emailLogin = function () {
       authWithPassword({email : vm.email, password : vm.password});
+      $location.path('/');
     }
     vm.register = function (valid) {
       if(valid){
         register({email : vm.email, password : vm.password});
+        $location.path('/');
         console.log("Hey I'm submitted!");
       } else {
         console.log("Invalid Form!");

@@ -35,11 +35,11 @@
         })
         .when('/register', {
           templateUrl: 'pages/register.tpl.html',
-          controller: 'loginController as vm',
+          controller: 'loginController as vm'
         })
         .when('/login', {
           templateUrl: 'pages/login.tpl.html',
-          controller: 'loginController as vm',
+          controller: 'loginController as vm'
         })
         .when('/error', {
           templateUrl: 'error/error-page.tpl.html'

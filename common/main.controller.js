@@ -299,10 +299,6 @@
       pageObj.showTags = false;
     }
 
-    pageObj.userAuth = function(){
-      $location.path('/register');
-    }
-
     pageObj.goToPage = function(pageId){
       if(!isNaN(pageId)){
         pageId = pageObj.pages[pageId].id;
@@ -1350,78 +1346,6 @@
       //   onchange({type: document[hidden] ? "blur" : "focus"});
     })();
 
-  }])
-  
-  .controller('registerCtl', ['$scope', '$firebaseAuth','registerService', function($scope, $firebaseAuth,registerService){
-    $scope.ref = new Firebase("https://glaring-torch-6077.firebaseio.com");
-    $scope.registerModel = {};
-    $scope.loginModal = {};
-    $scope.errorLogin = null;
-    $scope.logIn = function() {
-      ref.authWithPassword({
-        email    : $scope.loginModal.email,
-        password : $scope.loginModal.password
-      }, function(error, authData) {
-        if (error) {
-          console.log("Login Failed!", error);
-          $scope.errorLogin = "Login failed!";
-        } else {
-          console.log("Authenticated successfully with payload:", authData);
-        }
-      });
-    };
-    $scope.register = function(){
-      console.log("im here");
-      $scope.registerModel = null;
-      $scope.$watch('registerModel', function() {
-        //registerService.obj = $scope.registerModel;
-      });
-
-      //registerService.createUserAndLogin($scope.ref);
-      // ref.createUser({
-      //   name     : $scope.registerModel.name,
-      //   email    : $scope.registerModel.email,
-      //   password : $scope.registerModel.password
-      // }, function(error, userData) {
-      //   if (error) {
-      //     console.log("Error creating user:", error);
-      //   } else {
-      //     console.log(userData);
-      //     console.log("Successfully created user account with uid:", userData.uid);
-      //   }
-      // });
-    };
-    $scope.facebookLogin = function() {
-      //create an instance of the authentication service
-      var auth = $firebaseAuth(ref);
-      // login with Facebook
-      auth.$authWithOAuthPopup("facebook").then(function(authData) {
-        console.log(authData);
-        console.log("Logged in as:", authData.uid);
-      }).catch(function(error) {
-        console.log("Authentication failed:", error);
-      });
-    };
-    $scope.twitterLogin = function() {
-      //create an instance of the authentication service
-      var auth = $firebaseAuth(ref);
-      auth.$authWithOAuthPopup("twitter").then(function(authData) {
-        console.log(authData);
-        console.log("Logged in as:", authData.uid);
-      }).catch(function(error) {
-        console.log("Authentication failed:", error);
-      });
-    };
-    $scope.googleLogin = function() {
-      //create an instance of the authentication service
-      var auth = $firebaseAuth(ref);
-      auth.$authWithOAuthPopup("google").then(function(authData) {
-        console.log(authData);
-        console.log("Logged in as:", authData.uid);
-      }).catch(function(error) {
-        console.log("Authentication failed:", error);
-      });
-    };
   }])
   .directive('onFinishRender', function ($timeout, $rootScope) {
     return {
