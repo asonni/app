@@ -11,7 +11,7 @@
           <a ng-click="vm.logout()">Log out</a>
         </div>
       </div>
-      <a aria-hidden="true" href="#" class="glyphicon glyphicon-search glyphiconSearch"></a>
+      <a aria-hidden="true" ng-controller="pagesController" ng-click="pageObj.searchFunctionality()" class="glyphicon glyphicon-search glyphiconSearch"></a>
       <a aria-hidden="true" href="#" class="glyphicon glyphicon-cog glyphiconCog"></a>
     </div>
   </div>
@@ -19,11 +19,11 @@
     <div class="well well-sm">
       <h4>
         <strong class="title-auth">
-          Log In
+          Log In / <a ng-click="vm.goToRegister()">Register</a>
         </strong>
       </h4>
-      <div class="error-message" ng-show="errorLogin">
-        {{ errorLogin }}
+      <div class="error-message" ng-show="vm.errorLogin">
+        {{ vm.errorLogin }}
       </div>
       <div class="form-group">
         <input type="email" ng-model="loginModal.email" class="form-control input-email" placeholder="Email">

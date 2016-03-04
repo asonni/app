@@ -71,5 +71,18 @@
     vm.twitterLogin = function () {
       firebaseAuthLogin('twitter');
     }
+    vm.goToRegister = function(){
+      $location.path('/register');
+    }
+    vm.goToLogin = function(){
+      $location.path('/login');
+    }
+    vm.register = function(valid){
+      if(valid){
+        console.log("Hey I'm submitted!");
+      } else {
+        console.log("Invalid Form!");
+      }
+    }
   }
 })();
