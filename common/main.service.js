@@ -68,4 +68,40 @@
 
   }])
 
+  // .factory('registerService', function() {
+  //   var self = this;
+  //   this.obj = {};
+  //   this.createUser = function(obj, ref) {
+  //     var deferred = $.Deferred();
+  //     ref.createUser(obj, function (err) {
+  //       if (!err) {
+  //           deferred.resolve();
+  //       } else {
+  //           deferred.reject(err);
+  //       }
+  //     });
+  //     return deferred.promise();
+  //   };
+  //   this.createUserAndLogin = function(ref) {
+  //     return self.createUser(self.obj, ref)
+  //       .then(function () {
+  //       return self.authWithPassword(self.obj, ref);
+  //     });
+  //   };
+  //   this.authWithPassword = function(obj, ref){
+  //     var deferred = $.Deferred();
+  //     console.log(obj);
+  //     ref.authWithPassword(obj, function onAuth(err, user) {
+  //       if (err) {
+  //         deferred.reject(err);
+  //       }
+
+  //       if (user) {
+  //         deferred.resolve(user);
+  //       }
+  //     });
+  //     return deferred.promise();
+  //   }
+  // })
+
 }());

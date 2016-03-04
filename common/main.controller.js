@@ -1351,8 +1351,9 @@
     })();
 
   }])
-  .controller('registerCtl', ['$scope', '$firebaseAuth', function($scope, $firebaseAuth){
-    var ref = new Firebase("https://glaring-torch-6077.firebaseio.com");
+  
+  .controller('registerCtl', ['$scope', '$firebaseAuth','registerService', function($scope, $firebaseAuth,registerService){
+    $scope.ref = new Firebase("https://glaring-torch-6077.firebaseio.com");
     $scope.registerModel = {};
     $scope.loginModal = {};
     $scope.errorLogin = null;
@@ -1370,18 +1371,25 @@
       });
     };
     $scope.register = function(){
-      ref.createUser({
-        name     : $scope.registerModel.name,
-        email    : $scope.registerModel.email,
-        password : $scope.registerModel.password
-      }, function(error, userData) {
-        if (error) {
-          console.log("Error creating user:", error);
-        } else {
-          console.log(userData);
-          console.log("Successfully created user account with uid:", userData.uid);
-        }
+      console.log("im here");
+      $scope.registerModel = null;
+      $scope.$watch('registerModel', function() {
+        //registerService.obj = $scope.registerModel;
       });
+
+      //registerService.createUserAndLogin($scope.ref);
+      // ref.createUser({
+      //   name     : $scope.registerModel.name,
+      //   email    : $scope.registerModel.email,
+      //   password : $scope.registerModel.password
+      // }, function(error, userData) {
+      //   if (error) {
+      //     console.log("Error creating user:", error);
+      //   } else {
+      //     console.log(userData);
+      //     console.log("Successfully created user account with uid:", userData.uid);
+      //   }
+      // });
     };
     $scope.facebookLogin = function() {
       //create an instance of the authentication service

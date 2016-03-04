@@ -11,6 +11,7 @@
       'ngTouch',
       'firebase'
     ])
+    .constant('firebaseUrl', "https://glaring-torch-6077.firebaseio.com/")
     .constant('jwplayer', jwplayer)
     .constant('rackspace', {
       'thumbs': 'http://a050b39cebecda6d73f4-8d536b792eded622ed5aa7899ff7eb1b.r27.cf3.rackcdn.com/',
@@ -23,7 +24,7 @@
       'videos_mobile': 'http://e8c4ad1a8b8dd1fff549-873f0cafe91ebcfe20f03d10f70dcc17.r71.cf3.rackcdn.com/',
       'videos_placeholders': 'http://b214f6323fd00cd280dc-9428e6d9e3d1522751c4372a2b04d1f1.r53.cf3.rackcdn.com/'
     })
-    .config(['$locationProvider', '$routeProvider', '$httpProvider' , function ($locationProvider, $routeProvider, $httpProvider) {
+    .config(['$locationProvider', '$routeProvider', '$httpProvider', 'firebaseUrl' , function ($locationProvider, $routeProvider, $httpProvider, firebaseUrl) {
       //$httpProvider.defaults.withCredentials = true;
       $routeProvider
         .when('/', {
@@ -34,11 +35,12 @@
         })
         .when('/register', {
           templateUrl: 'pages/register.tpl.html',
-          controller: 'registerCtl'
+          controller: 'loginController as vm',
         })
         .when('/login', {
           templateUrl: 'pages/login.tpl.html',
-          controller: 'registerCtl'
+          controller: 'loginController as vm',
+          
         })
         .when('/error', {
           templateUrl: 'error/error-page.tpl.html'

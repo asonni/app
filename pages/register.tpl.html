@@ -15,7 +15,7 @@
       <a aria-hidden="true" href="#" class="glyphicon glyphicon-cog glyphiconCog"></a>
     </div>
   </div>
-  <form ng-submit="register()">
+  <form >
     <div class="well well-sm">
       <h4>
         <strong class="title-auth">
@@ -37,13 +37,13 @@
       <h4>
         <strong class="title-auth">
           Login via 
-          <a href="#/twitter" ui-sref="twitter"><i class="fa fa-twitter-square fa-lg"></i></a>
-          <a href="#/facebook" ui-sref="facebook"><i class="fa fa-facebook-square fa-lg"></i></a>
-          <a href="#/google" ui-sref="google"><i class="fa fa-google-plus-square fa-lg"></i></a>
+          <a ng-click="vm.twitterLogin()"><i class="fa fa-twitter-square fa-lg"></i></a>
+          <a ng-click="vm.facebookLogin()"><i class="fa fa-facebook-square fa-lg"></i></a>
+          <a ng-click="vm.googleLogin()"><i class="fa fa-google-plus-square fa-lg"></i></a>
         </strong>
       </h4>
       <br>
-      <button type="submit" class="btn btn-circle btn-default">Go </button>
+      <button ng-click="register()" class="btn btn-circle btn-default">Go </button>
     </div>
   </form>
 </div>

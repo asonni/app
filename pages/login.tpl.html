@@ -4,18 +4,18 @@
   </div>
   <div class="pull-right">
     <div class="menu-icons">
-      <div class="dropdown">
+      <div class="dropdown" ng-show="vm.isLoggedIn">
         <a aria-hidden="true" href="#" class="glyphicon glyphicon-user glyphiconUser"></a>
         <div class="dropdown-content">
           <a href="#">My Profile</a>
-          <a href="#">Log out</a>
+          <a ng-click="vm.logout()">Log out</a>
         </div>
       </div>
       <a aria-hidden="true" href="#" class="glyphicon glyphicon-search glyphiconSearch"></a>
       <a aria-hidden="true" href="#" class="glyphicon glyphicon-cog glyphiconCog"></a>
     </div>
   </div>
-  <form ng-submit="logIn()">
+  <form>
     <div class="well well-sm">
       <h4>
         <strong class="title-auth">
@@ -34,9 +34,9 @@
       <h4>
         <strong class="title-auth">
           Login via 
-          <a ng-click="twitterLogin()"><i class="fa fa-twitter-square fa-lg"></i></a>
-          <a ng-click="facebookLogin()"><i class="fa fa-facebook-square fa-lg"></i></a>
-          <a ng-click="googleLogin()"><i class="fa fa-google-plus-square fa-lg"></i></a>
+          <a ng-click="vm.twitterLogin()"><i class="fa fa-twitter-square fa-lg"></i></a>
+          <a ng-click="vm.facebookLogin()"><i class="fa fa-facebook-square fa-lg"></i></a>
+          <a ng-click="vm.googleLogin()"><i class="fa fa-google-plus-square fa-lg"></i></a>
         </strong>
       </h4>
       <br>
