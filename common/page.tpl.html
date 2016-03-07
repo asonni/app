@@ -13,17 +13,23 @@
       <main id="main">
         
         <!-- Single Page -->
-        <div ng-if="!pageObj.landingPage && !pageObj.loginPage">
+        <div ng-if="!pageObj.landingPage && !pageObj.loginPage && !pageObj.registerPage">
           <div ng-include src="'pages/single-page.tpl.html'"></div>
         </div>
         
         <!-- Browser Page -->
-        <div ng-if="pageObj.landingPage && !pageObj.loginPage" class="landing-page">
+        <div ng-if="pageObj.landingPage && !pageObj.loginPage && !pageObj.registerPage" class="landing-page">
           <div ng-include src="'pages/browser.tpl.html'"></div>
         </div>
-
+        
+        <!-- Login Page -->
         <div ng-if="pageObj.loginPage" class="landing-page">
           <div ng-include src="'pages/login.tpl.html'"></div>
+        </div>
+        
+        <!-- Register Page -->
+        <div ng-if="pageObj.registerPage" class="landing-page">
+          <div ng-include src="'pages/register.tpl.html'"></div>
         </div>
 
       </main>

@@ -3,7 +3,7 @@
     <div class="well well-sm">
       <h4>
         <strong class="title-auth">
-          Log In / <a ng-click="vm.goToRegister()">Register</a>
+          Log In / <a ng-controller="pagesController as pageObj" ng-click="pageObj.userRegister()">Register</a>
         </strong>
       </h4>
       <div class="error-message" ng-show="vm.errorLogin">
@@ -20,10 +20,10 @@
       </div>
       <br>
       <div class="form-group">
-        <input type="email" ng-model="vm.email" name="email" class="form-control input-email" placeholder="Email" required="required">
+        <input type="email" ng-model="vm.email" name="email" class="form-control input-color" placeholder="Email" required="required">
       </div>
       <div class="form-group">
-        <input type="password" ng-model="vm.password" name="password" class="form-control input-password" placeholder="Password" required="required">
+        <input type="password" ng-model="vm.password" name="password" class="form-control input-color" placeholder="Password" required="required">
       </div>
       <h4>
         <strong class="title-auth">

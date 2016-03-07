@@ -1,59 +1,46 @@
-<article id="main-content" class="animated fadeIn">
-  <link href="assets/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="assets/css/auth-style.css" rel="stylesheet">
-  <div class="grid-container">
-    <div class="content">
-      <!-- Header -->
-      <header class="clearfix" ng-include src="'modules/mod-header/header.tpl.html'"></header>
-      <main id="main">
-        <!-- Register Page -->
-        <div class="col-md-5">
-          <form novalidate="novalidate" name="registerForm" ng-submit="vm.register(registerForm.$valid)">
-            <div class="well well-sm">
-              <h4>
-                <strong class="title-auth">
-                  Register / <a ng-click="vm.goToLogin()">Log In</a>
-                </strong>
-              </h4>
-              <div class="error-message">
-                {{ vm.errorRegister }}
-              </div>
-              <div class="error-message" ng-show="registerForm.name.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
-                The name filed is required
-              </div>
-              <div class="error-message" ng-show="!registerForm.name.$error.required && registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
-                The email is invalid
-              </div>
-              <div class="error-message" ng-show="!registerForm.name.$error.required && registerForm.email.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
-                The email filed is required
-              </div>
-              <div class="error-message" ng-show="registerForm.password.$error.required && !registerForm.name.$error.required && !registerForm.email.$error.required && !registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
-                The password filed is required
-              </div>
-              <div class="form-group">
-                <input type="text" ng-model="vm.name" name="name" class="form-control input-name" placeholder="Name" required="required">
-              </div>
-              <div class="form-group">
-                <input type="email" ng-model="vm.email" name="email" class="form-control input-reg-email" placeholder="Email" required="required">
-              </div>
-              <div class="form-group">
-                <input type="password" ng-model="vm.password" name="password" class="form-control input-password" placeholder="Password" required="required">
-              </div>
-              <h4>
-                <strong class="title-auth">
-                  Login via 
-                  <a ng-click="vm.twitterLogin()"><i class="fa fa-twitter-square fa-lg"></i></a>
-                  <a ng-click="vm.facebookLogin()"><i class="fa fa-facebook-square fa-lg"></i></a>
-                  <a ng-click="vm.googleLogin()"><i class="fa fa-google-plus-square fa-lg"></i></a>
-                </strong>
-              </h4>
-              <br>
-              <button type="submit" class="btn btn-circle btn-default">Go </button>
-            </div>
-          </form>
-        </div>
-      </main>
+<div class="col-md-5" ng-controller="loginController as vm">
+  <form novalidate="novalidate" name="registerForm" ng-submit="vm.register(registerForm.$valid)">
+    <div class="well well-sm">
+      <h4>
+        <strong class="title-auth">
+          Register / <a ng-controller="pagesController as pageObj" ng-click="pageObj.userLogin()">Log In</a>
+        </strong>
+      </h4>
+      <div class="error-message" ng-show="vm.errorRegister">
+        {{ vm.errorRegister }}
+      </div>
+      <div class="error-message" ng-show="registerForm.name.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
+        The name filed is required
+      </div>
+      <div class="error-message" ng-show="!registerForm.name.$error.required && registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
+        The email is invalid
+      </div>
+      <div class="error-message" ng-show="!registerForm.name.$error.required && registerForm.email.$error.required  && (!registerForm.$pristine || registerForm.$submitted)">
+        The email filed is required
+      </div>
+      <div class="error-message" ng-show="registerForm.password.$error.required && !registerForm.name.$error.required && !registerForm.email.$error.required && !registerForm.email.$error.email && (!registerForm.$pristine || registerForm.$submitted)">
+        The password filed is required
+      </div>
+      <br>
+      <div class="form-group">
+        <input type="text" ng-model="vm.name" name="name" class="form-control input-color" placeholder="Name" required="required">
+      </div>
+      <div class="form-group">
+        <input type="email" ng-model="vm.email" name="email" class="form-control input-color" placeholder="Email" required="required">
+      </div>
+      <div class="form-group">
+        <input type="password" ng-model="vm.password" name="password" class="form-control input-color" placeholder="Password" required="required">
+      </div>
+      <h4>
+        <strong class="title-auth">
+          Login via 
+          <a ng-click="vm.twitterLogin()"><i class="fa fa-twitter-square fa-lg"></i></a>
+          <a ng-click="vm.facebookLogin()"><i class="fa fa-facebook-square fa-lg"></i></a>
+          <a ng-click="vm.googleLogin()"><i class="fa fa-google-plus-square fa-lg"></i></a>
+        </strong>
+      </h4>
+      <br>
+      <button type="submit" class="btn btn-circle btn-default">Go </button>
     </div>
-  </div>
-</article>
+  </form>
+</div>

@@ -301,9 +301,6 @@
     }
 
     pageObj.userLogin = function(){
-      console.log(pageObj.pages);
-      
-      // pageObj.pages.push(pageObj.login);
       if(getPage('login', pageObj.pages) != undefined) {
         pageObj.page = getPage('login', pageObj.pages);
         $location.path('/page/'+pageObj.page.id);
@@ -313,6 +310,22 @@
           image: '',
           short_description: "Go to the login.",
           title: "Login"
+        };
+        pageObj.pages.push(pageObj.login);
+        $location.path('/page/'+pageObj.login.id);
+      }  
+    }
+
+    pageObj.userRegister = function(){
+      if(getPage('register', pageObj.pages) != undefined) {
+        pageObj.page = getPage('register', pageObj.pages);
+        $location.path('/page/'+pageObj.page.id);
+      } else {
+        pageObj.login = {
+          id: 'register',
+          image: '',
+          short_description: "Go to the register.",
+          title: "Register"
         };
         pageObj.pages.push(pageObj.login);
         $location.path('/page/'+pageObj.login.id);
@@ -1211,8 +1224,9 @@
       pageObj.menu = defineMenu(pageObj.pages, pageObj.page.id);
       pageObj.landingPage = (pageObj.page.id == "landing") ? true : false;
       pageObj.loginPage = (pageObj.page.id == "login") ? true : false;
+      pageObj.registerPage = (pageObj.page.id == "register") ? true : false;
       $window.ga('send', 'pageview', { page: pageObj.page.title });
-      if((!pageObj.landingPage) && (!pageObj.loginPage)){
+      if((!pageObj.landingPage) && (!pageObj.loginPage) && (!pageObj.registerPage)){
         singlePageService.getPage(pageObj.pageId).success(function(data){
           pageObj.page = data;
           preparePage();
