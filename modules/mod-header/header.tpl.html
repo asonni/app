@@ -7,7 +7,7 @@
     
     <a aria-hidden="true" ng-controller="loginController as vm" ng-hide="vm.isLoggedIn" ng-click="pageObj.userLogin()" class="icon glyphicon glyphicon-user user"></a>
     <div class="dropdown" ng-controller="loginController as vm" ng-show="vm.isLoggedIn" style="padding-right:135px;top: 7px;">
-      <a aria-hidden="true" href="#" class="icon glyphicon glyphicon-user user" style="top:-22px;"></a>
+      <a aria-hidden="true" class="icon glyphicon glyphicon-user user" style="top:-22px;"></a>
       <div class="dropdown-content">
         <a href="#">My Profile</a>
         <a ng-click="vm.logout()">Log out</a>

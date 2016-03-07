@@ -3,11 +3,11 @@
     .module('retinaeApp')
     .controller('loginController', loginController);
 
-  loginController.$inject = ['$firebaseAuth', '$firebaseObject', '$location', 'firebaseUrl'];
-  function loginController ($firebaseAuth, $firebaseObject, $location, firebaseUrl) {
+  loginController.$inject = ['$firebaseAuth', '$firebaseObject', '$location', '$timeout', 'firebaseUrl'];
+  function loginController ($firebaseAuth, $firebaseObject, $location, $timeout, firebaseUrl) {
     var vm = this;
     vm.isLoggedIn  = false;
-    vm.style = true;
+    vm.errorLogin = "";
 
     var ref = new Firebase(firebaseUrl);
     var authObj = $firebaseAuth(ref);
@@ -55,31 +55,38 @@
       $location.path('/');
     }
     
+    timeoutFunc = function(err) {
+      $timeout(function() {
+        if (err) {
+          vm.errorLogin = ""+ err;
+          vm.errorRegister = ""+ err;
+          console.log(""+ err);
+        } 
+      });
+    }
+    
     firebaseAuthLogin = function(provider){
       authObj.$authWithOAuthPopup(provider).then(function (authData) {
           console.log("Authenticated successfully with provider " + provider +" with payload:", authData);
+          $location.path('/');
       }).catch(function (error) {
           console.error("Authentication failed:", error);
-          vm.errorLogin = error;
-          vm.errorRegister = error;
+          timeoutFunc(error);
       });
     }
 
     authWithPassword = function(obj){
-      ref.authWithPassword(obj, function(error, authData) {
-        if (error) {
-          console.log("Login Failed!", error);
-          vm.errorLogin = error;
-        } else {
-          console.log("Authenticated successfully with payload:", authData);
-        }
+      ref.authWithPassword(obj).then(function(authData) {
+        console.log("Authenticated successfully with payload:", authData);
+        $location.path('/');
+      }).catch(function(error) {
+        timeoutFunc(error);
       });
     }
     register = function(obj){
       ref.createUser(obj, function(error, userData) {
         if (error) {
-          console.log("Error creating user:", error);
-          vm.errorRegister = error;
+          timeoutFunc(error);
         } else {
           console.log(userData);
           console.log("Successfully created user account with uid:", userData.uid);
@@ -89,21 +96,17 @@
     }
     vm.facebookLogin = function () {
       firebaseAuthLogin('facebook');
-      $location.path('/');
     }
     vm.googleLogin = function () {
       firebaseAuthLogin('google');
-      $location.path('/');
     }
     vm.twitterLogin = function () {
       firebaseAuthLogin('twitter');
-      $location.path('/');
     }
 
     vm.emailLogin = function (valid) {
       if(valid){
         authWithPassword({email : vm.email, password : vm.password});
-        $location.path('/');
       } else {
         console.log("Invalid Form!");
       }
@@ -111,7 +114,6 @@
     vm.register = function (valid) {
       if(valid){
         register({email : vm.email, password : vm.password});
-        $location.path('/');
       } else {
         console.log("Invalid Form!");
       }
