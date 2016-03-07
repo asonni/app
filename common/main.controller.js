@@ -282,6 +282,7 @@
     }
 
     pageObj.searchFunctionality = function(){
+      pageObj.loginPage = false;
       if(pageObj.landingPage){
         pageObj.showSearch = !pageObj.showSearch;
         if(pageObj.showSearch){
@@ -299,8 +300,23 @@
       pageObj.showTags = false;
     }
 
-    pageObj.userAuth = function(){
-      $location.path('/login');
+    pageObj.userLogin = function(){
+      console.log(pageObj.pages);
+      
+      // pageObj.pages.push(pageObj.login);
+      if(getPage('login', pageObj.pages) != undefined) {
+        pageObj.page = getPage('login', pageObj.pages);
+        $location.path('/page/'+pageObj.page.id);
+      } else {
+        pageObj.login = {
+          id: 'login',
+          image: '',
+          short_description: "Go to the login.",
+          title: "Login"
+        };
+        pageObj.pages.push(pageObj.login);
+        $location.path('/page/'+pageObj.login.id);
+      }  
     }
 
     pageObj.goToPage = function(pageId){
@@ -1184,7 +1200,7 @@
       /////////////////////////////
 
       pageObj.page = getPage(pageObj.pageId, pageObj.pages);
-      if(!pageObj.page){
+      if(!pageObj.page ){
         alert('Page not existing. Redirecting to home');
         $location.path('/');
         return false;
@@ -1194,8 +1210,9 @@
       }
       pageObj.menu = defineMenu(pageObj.pages, pageObj.page.id);
       pageObj.landingPage = (pageObj.page.id == "landing") ? true : false;
+      pageObj.loginPage = (pageObj.page.id == "login") ? true : false;
       $window.ga('send', 'pageview', { page: pageObj.page.title });
-      if(!pageObj.landingPage){
+      if((!pageObj.landingPage) && (!pageObj.loginPage)){
         singlePageService.getPage(pageObj.pageId).success(function(data){
           pageObj.page = data;
           preparePage();

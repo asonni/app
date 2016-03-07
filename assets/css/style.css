@@ -3123,7 +3123,7 @@ header .logo-box h3.page-title {
   font-family: helvetica;
   font-weight: bold;
   position: absolute;
-  bottom: -5px;
+  bottom: 5px;
   left: 120px;
   color: #fffd00;
   white-space: nowrap;

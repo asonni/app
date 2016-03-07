@@ -41,7 +41,7 @@ body{
   color: #000000;
 }
 .well-sm{
-  margin-top: 200px;
+  /*margin-top: 200px;*/
   background-color: #d6ffe8;
 }
 input[placeholder], [placeholder], *[placeholder] {
@@ -67,10 +67,6 @@ input[placeholder], [placeholder], *[placeholder] {
   color: #000000;
   font-size: 2em;
   padding-left: 10px;
-}
-.logo-img{
-  padding-left: 10px;
-  padding-top: 2px;
 }
 .dropdown {
   position: relative;
@@ -98,4 +94,17 @@ input[placeholder], [placeholder], *[placeholder] {
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 .title-auth{
   color: #000000;
+}
+#main-content {
+  background: none;
+}
+header .logo-box h3.page-title{
+  bottom: -5px
+}
+.menu-icons>a{
+  text-decoration:none;
+}
+.menu-wrapper .menu li a{
+  text-decoration:none;
+  color: #000;
 }

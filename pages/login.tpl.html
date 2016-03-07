@@ -1,20 +1,4 @@
-<div class="col-md-5 col-md-offset-1">
-  <div class="pull-left">
-    <img src="../assets/imgs/retinae-logo-white.png" class="img-responsive logo-img" alt="">
-  </div>
-  <div class="pull-right">
-    <div class="menu-icons">
-      <div class="dropdown" ng-show="vm.isLoggedIn">
-        <a aria-hidden="true" href="#" class="glyphicon glyphicon-user glyphiconUser"></a>
-        <div class="dropdown-content">
-          <a href="#">My Profile</a>
-          <a ng-click="vm.logout()">Log out</a>
-        </div>
-      </div>
-      <a aria-hidden="true" ng-controller="pagesController" ng-click="pageObj.searchFunctionality()" class="glyphicon glyphicon-search glyphiconSearch"></a>
-      <a aria-hidden="true" href="#" class="glyphicon glyphicon-cog glyphiconCog"></a>
-    </div>
-  </div>
+<div class="col-md-5" ng-controller="loginController as vm">
   <form novalidate="novalidate" name="loginForm" ng-submit="vm.emailLogin(loginForm.$valid)">
     <div class="well well-sm">
       <h4>
@@ -34,6 +18,7 @@
       <div class="error-message" ng-show="loginForm.password.$error.required && !loginForm.email.$error.required && !loginForm.email.$error.email && (!loginForm.$pristine || loginForm.$submitted)">
         The password filed is required
       </div>
+      <br>
       <div class="form-group">
         <input type="email" ng-model="vm.email" name="email" class="form-control input-email" placeholder="Email" required="required">
       </div>

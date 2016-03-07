@@ -7,6 +7,7 @@
   function loginController ($firebaseAuth, $firebaseObject, $location, firebaseUrl) {
     var vm = this;
     vm.isLoggedIn  = false;
+    vm.style = true;
 
     var ref = new Firebase(firebaseUrl);
     var authObj = $firebaseAuth(ref);
