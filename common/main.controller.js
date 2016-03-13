@@ -1293,7 +1293,8 @@
       counterRender = 0,
       isReadyToRender,
       readyType = '',
-      afterRender;
+      afterRender,
+      tagsMenu;
 
     afterRender = function(){
       if(pageObj.pageId != prevId){
@@ -1311,7 +1312,15 @@
         return callback();
       }
     }
-
+    tagsMenu = function(objs) {
+      pageObj.tagsMenu = [];
+      for (var obj in objs) {
+        if(objs[obj].include_to_menu != undefined || objs[obj].include_to_menu == true) {
+          console.log(objs[obj]);
+          pageObj.tagsMenu.push(objs[obj]);
+        }
+      }
+    }
     $scope.$on('$routeChangeSuccess', function() {
       pageObj.pageId = $routeParams.page || 'home';
 
@@ -1335,8 +1344,11 @@
 
     tagsService.success(function(data){
       pageObj.tags = data.data.tags;
+      tagsMenu(pageObj.tags);
       isReadyToRender('tags', afterRender)
     });
+
+
 
 
     (function() {

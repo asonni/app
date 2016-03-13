@@ -3,7 +3,8 @@
 		"tags": [
 			{
 				"id": "2", 
-				"name": "Power"
+				"name": "Power",
+				"include_to_menu" :  true
 			},
 			{
 				"id": "1", 
