@@ -3423,10 +3423,12 @@ a.icon:hover {
   color: #fffd00;
 }
 a.icon.search {
-  right: 72px;
+  /*right: 72px; The old one*/
+  right: 40px;
 }
 a.icon.user {
-  right: 104px;
+  /*right: 104px; the old one */
+  right: 72px;
 }
 a.icon.search.no-tags {
   right: 40px;
