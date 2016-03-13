@@ -34,7 +34,7 @@
                 newUser.name = authData.google.displayName;
               }
               if (authData.facebook) {
-                newUser.name = authData.facebook.username;
+                newUser.name = authData.facebook.displayName;
               }
               if (authData.twitter) {
                 newUser.name = authData.twitter.displayName;

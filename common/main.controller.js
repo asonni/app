@@ -1325,8 +1325,9 @@
       }
     });
 
-    pagesService.success(function(data){
-      pageObj.pages = data.data.pages;
+    pagesService.then(function(data){
+      console.log(data);
+      pageObj.pages = data.pages;
       isReadyToRender('service', afterRender)
     });
 

@@ -5,22 +5,20 @@
   'use strict';
 
   angular.module('retinaeApp')
-  .factory('pagesService', ['$http', function($http){
+  .factory('pagesService', ['$http', '$firebaseObject','firebaseUrl', function($http, $firebaseObject, firebaseUrl){
+    var ref = new Firebase(firebaseUrl);
     var pages = {},
+        data = $firebaseObject(ref.child('pages').child('data')),
     params = {
       format: 'jsonp',
       callback: 'JSON_CALLBACK'
     },
     promise = function(){
-      return $http({ 
-        method: 'GET', 
-        url: 'assets/data/data.json',
-        params: params
-      });
+      return data.$loaded();
     };
 
     pages.data = pages.data || promise();
-
+    console.log(pages.data);
     return pages.data;
 
   }])
@@ -67,41 +65,5 @@
     return tags.data;
 
   }])
-
-  // .factory('registerService', function() {
-  //   var self = this;
-  //   this.obj = {};
-  //   this.createUser = function(obj, ref) {
-  //     var deferred = $.Deferred();
-  //     ref.createUser(obj, function (err) {
-  //       if (!err) {
-  //           deferred.resolve();
-  //       } else {
-  //           deferred.reject(err);
-  //       }
-  //     });
-  //     return deferred.promise();
-  //   };
-  //   this.createUserAndLogin = function(ref) {
-  //     return self.createUser(self.obj, ref)
-  //       .then(function () {
-  //       return self.authWithPassword(self.obj, ref);
-  //     });
-  //   };
-  //   this.authWithPassword = function(obj, ref){
-  //     var deferred = $.Deferred();
-  //     console.log(obj);
-  //     ref.authWithPassword(obj, function onAuth(err, user) {
-  //       if (err) {
-  //         deferred.reject(err);
-  //       }
-
-  //       if (user) {
-  //         deferred.resolve(user);
-  //       }
-  //     });
-  //     return deferred.promise();
-  //   }
-  // })
 
 }());
