@@ -27,7 +27,7 @@
   <div ng-init="pageObj.showMenu = false" ng-class="{active: pageObj.showMenu}" ng-mouseleave="pageObj.mouseEnterLeave('hide')" class="menu-wrapper">
     <ul class="menu clearfix">
       <li ng-repeat="itm in pageObj.menu" ng-class="{active: itm.active}" class="grid-15 tablet-grid-25 mobile-grid-50"><a ng-href="{{itm.url}}">{{itm.text}}</a></li>
-      <li class="grid-15 tablet-grid-25 mobile-grid-50"><a ng-click="pageObj.clickShowTags()">Tags</a></li>
+      <li class="grid-15 tablet-grid-25 mobile-grid-50"><a ng-click="pageObj.clickShowTags()">Filter via tags</a></li>
     </ul>
   </div>
 </div>
