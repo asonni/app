@@ -15,7 +15,7 @@
     </div>
     <a aria-hidden="true" ng-click="pageObj.searchFunctionality()" class="icon glyphicon glyphicon-search search"></a>
     
-    <a aria-hidden="true" ng-click="pageObj.clickShowTags()" class="icon glyphicon glyphicon-tag tagsIcon" ng-class="{clicked: pageObj.showTags}"></a>
+    <!-- <a aria-hidden="true" ng-click="pageObj.clickShowTags()" class="icon glyphicon glyphicon-tag tagsIcon" ng-class="{clicked: pageObj.showTags}"></a> -->
   
     <a aria-hidden="true" ng-mouseenter="pageObj.mouseEnterLeave('show')" ng-click="pageObj.menuShowHide()" ng-class="{active: pageObj.showMenu}" ng-mouseleave="pageObj.mouseLeave('hide')" class="icon menuIcon glyphicon glyphicon-menu-hamburger"></a>
 
@@ -27,6 +27,7 @@
   <div ng-init="pageObj.showMenu = false" ng-class="{active: pageObj.showMenu}" ng-mouseleave="pageObj.mouseEnterLeave('hide')" class="menu-wrapper">
     <ul class="menu clearfix">
       <li ng-repeat="itm in pageObj.menu" ng-class="{active: itm.active}" class="grid-15 tablet-grid-25 mobile-grid-50"><a ng-href="{{itm.url}}">{{itm.text}}</a></li>
+      <li class="grid-15 tablet-grid-25 mobile-grid-50"><a ng-click="pageObj.clickShowTags()">Filter via tags</a></li>
     </ul>
   </div>
 </div>
