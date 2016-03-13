@@ -6,7 +6,7 @@
   <div class="menu-icons">
     
     <a aria-hidden="true" ng-controller="loginController as vm" ng-hide="vm.isLoggedIn" ng-click="pageObj.userLogin()" class="icon glyphicon glyphicon-user user"></a>
-    <div class="dropdown" ng-controller="loginController as vm" ng-show="vm.isLoggedIn" style="padding-right:135px;top: 7px;">
+    <div class="dropdown" ng-controller="loginController as vm" ng-show="vm.isLoggedIn" style="top: 7px;">
       <a aria-hidden="true" ng-click="pageObj.userLogin()" class="icon glyphicon glyphicon-user user" style="top:-22px;"></a>
       <div class="dropdown-content">
         <a href="#">My Profile</a>
@@ -14,9 +14,7 @@
       </div>
     </div>
     <a aria-hidden="true" ng-click="pageObj.searchFunctionality()" class="icon glyphicon glyphicon-search search"></a>
-    
-    <!-- <a aria-hidden="true" ng-click="pageObj.clickShowTags()" class="icon glyphicon glyphicon-tag tagsIcon" ng-class="{clicked: pageObj.showTags}"></a> -->
-  
+      
     <a aria-hidden="true" ng-mouseenter="pageObj.mouseEnterLeave('show')" ng-click="pageObj.menuShowHide()" ng-class="{active: pageObj.showMenu}" ng-mouseleave="pageObj.mouseLeave('hide')" class="icon menuIcon glyphicon glyphicon-menu-hamburger"></a>
 
     <div ng-show="pageObj.showSearch && pageObj.pageId == 'landing'"class="search-wrapper">

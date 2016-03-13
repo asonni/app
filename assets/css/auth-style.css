@@ -71,7 +71,7 @@ input[placeholder], [placeholder], *[placeholder] {
   min-width: 130px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   border-radius: 3px;
-  right: 10px;
+  right: -25px;
 }
 .dropdown-content a {
   color: black;
@@ -82,7 +82,7 @@ input[placeholder], [placeholder], *[placeholder] {
   background-color: #b4ffd3;
 }
 .dropdown-content a:hover {background-color: #f1f1f1}
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {display: block;z-index: 99999;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 .title-auth{
   color: #000000;
