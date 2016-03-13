@@ -1316,7 +1316,6 @@
       pageObj.tagsMenu = [];
       for (var obj in objs) {
         if(objs[obj].include_to_menu != undefined || objs[obj].include_to_menu == true) {
-          console.log(objs[obj]);
           pageObj.tagsMenu.push(objs[obj]);
         }
       }

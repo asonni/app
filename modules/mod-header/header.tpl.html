@@ -26,7 +26,7 @@
     <ul class="menu clearfix">
       <li ng-repeat="itm in pageObj.menu" ng-class="{active: itm.active}" class="grid-15 tablet-grid-25 mobile-grid-50"><a ng-href="{{itm.url}}">{{itm.text}}</a></li>
       <li class="grid-15 tablet-grid-25 mobile-grid-50" ng-repeat="tag in pageObj.tagsMenu" ng-click="pageObj.filterByTag(tag.id); pageObj.showTags = !pageObj.showTags; pageObj.hideTags()" ng-class="{active: pageObj.selectedTag == tag.id}">
-      <a href="">{{tag.name}}</a>
+      <a href="/#!/page/landing">{{tag.name}}</a>
     </li>
       <li class="grid-15 tablet-grid-25 mobile-grid-50"><a ng-click="pageObj.clickShowTags()">Filter via tags</a></li>
     </ul>
